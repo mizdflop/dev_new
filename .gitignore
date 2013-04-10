@@ -12,3 +12,5 @@
 
 /app/Config/email.php.default
 /app/tmp/cache/models/*
+
+/app/Config/opauth.php
