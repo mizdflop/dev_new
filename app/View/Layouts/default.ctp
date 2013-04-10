@@ -32,6 +32,7 @@
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');		
+		echo $this->fetch('script');
 	?>
 	<!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -85,8 +86,6 @@
 		</div>	  
       </div>	  
     </div>	
-	
-	<?php echo $this->fetch('script');?>
 	
 </body>
 </html>

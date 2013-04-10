@@ -11,3 +11,4 @@
 /app/tmp/logs/*.log
 
 /app/Config/email.php.default
+/app/tmp/cache/models/*

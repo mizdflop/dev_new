@@ -72,6 +72,21 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 
+	CakePlugin::loadAll(array(
+
+		// Development Tool
+		'FirePHP' => array('bootstrap' => true),
+
+		// Upload files and manage
+		'Media' => array('bootstrap' => true),
+
+		// Account users and manage
+		'Account' => array('bootstrap' => true, 'routes' => true),
+
+		// Captcha
+		'Captcha' => array('routes' => true)
+	));
+
 /**
  * You can attach event listeners to the request lifecycle as Dispatcher Filter . By Default CakePHP bundles two filters:
  *
