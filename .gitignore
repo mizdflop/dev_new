@@ -3,3 +3,11 @@
 /.project
 
 /.settings
+
+/app/tmp/cache/persistent/*
+
+/app/Config/database.php
+
+/app/tmp/logs/*.log
+
+/app/Config/email.php.default
