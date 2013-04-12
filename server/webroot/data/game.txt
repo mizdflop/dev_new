@@ -1,0 +1,5550 @@
+Full Tilt Poker Game #1831467450: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:05:16 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($204.30)
+Seat 2: powDRJ ($103)
+Seat 3: Spunk99 ($51.90)
+Seat 4: mizdflop ($100)
+Seat 5: Stefanus ($127.10)
+Seat 6: upaymymtg ($116.65)
+upaymymtg posts the small blind of $0.50
+joshuaashtondzl posts the big blind of $1
+mizdflop posts $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [8h 6h]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop calls $1
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+*** FLOP *** [7s 8d Qc]
+Spunk99 checks
+mizdflop bets $4
+Spunk99 folds
+Uncalled bet of $4 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($5.25)
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25
+Board: [7s 8d Qc]
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 folded on the Flop
+Seat 4: mizdflop collected ($5.25), mucked
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831473394: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:06:09 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($203.30)
+Seat 2: powDRJ ($103)
+Seat 3: Spunk99 ($49.90)
+Seat 4: mizdflop ($103.25)
+Seat 5: Stefanus ($127.10)
+Seat 6: upaymymtg ($116.15)
+joshuaashtondzl posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [8s 6s]
+Spunk99 calls $1
+mizdflop calls $1
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ checks
+*** FLOP *** [2c Ts Jd]
+powDRJ checks
+Spunk99 has 15 seconds left to act
+Spunk99 bets $3.50
+mizdflop folds
+powDRJ folds
+Uncalled bet of $3.50 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($3.35)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15
+Board: [2c Ts Jd]
+Seat 1: joshuaashtondzl (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded on the Flop
+Seat 3: Spunk99 collected ($3.35), mucked
+Seat 4: mizdflop folded on the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831478757: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:06:57 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($202.80)
+Seat 2: powDRJ ($102)
+Seat 3: Spunk99 ($52.25)
+Seat 4: mizdflop ($102.25)
+Seat 5: Stefanus ($127.10)
+Seat 6: upaymymtg ($116.15)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [7h 9d]
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg calls $3.50
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 calls $2.50
+*** FLOP *** [Qh 6s 7d]
+Spunk99 checks
+Stefanus checks
+upaymymtg bets $8.50
+Spunk99 folds
+Stefanus folds
+Uncalled bet of $8.50 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($10.45)
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board: [Qh 6s 7d]
+Seat 1: joshuaashtondzl (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus folded on the Flop
+Seat 6: upaymymtg collected ($10.45), mucked
+
+
+
+Full Tilt Poker Game #1831485255: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:07:55 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($202.80)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($48.75)
+Seat 4: mizdflop ($102.25)
+Seat 5: Stefanus ($123.60)
+Seat 6: upaymymtg ($123.10)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [2d Qh]
+Stefanus folds
+upaymymtg raises to $4
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 calls $3.50
+mizdflop folds
+*** FLOP *** [Ac Kc 7s]
+Spunk99 checks
+upaymymtg bets $6.50
+Spunk99 raises to $13
+upaymymtg folds
+Uncalled bet of $6.50 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($20.90)
+*** SUMMARY ***
+Total pot $22 | Rake $1.10
+Board: [Ac Kc 7s]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) collected ($20.90), mucked
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg folded on the Flop
+
+
+
+Full Tilt Poker Game #1831492343: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:08:57 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($202.80)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($59.15)
+Seat 4: mizdflop ($101.25)
+Seat 5: Stefanus ($123.60)
+Seat 6: upaymymtg ($112.60)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Qc Kh]
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop raises to $3
+Stefanus calls $2
+*** FLOP *** [Ah 4s 4d]
+mizdflop bets $4
+Stefanus folds
+Uncalled bet of $4 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($5.70)
+*** SUMMARY ***
+Total pot $6 | Rake $0.30
+Board: [Ah 4s 4d]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) collected ($5.70), mucked
+Seat 5: Stefanus (big blind) folded on the Flop
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831497228: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:09:41 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($202.80)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($59.15)
+Seat 4: mizdflop ($103.95)
+Seat 5: Stefanus ($120.60)
+Seat 6: upaymymtg ($112.60)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Qd Td]
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop calls $1
+Stefanus calls $0.50
+upaymymtg checks
+*** FLOP *** [7d 2s 5s]
+Stefanus checks
+upaymymtg bets $2.50
+mizdflop folds
+Stefanus folds
+Uncalled bet of $2.50 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [7d 2s 5s]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) folded on the Flop
+Seat 5: Stefanus (small blind) folded on the Flop
+Seat 6: upaymymtg (big blind) collected ($2.85), mucked
+
+
+
+Full Tilt Poker Game #1831502613: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:10:28 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($202.80)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($59.15)
+Seat 4: mizdflop ($102.95)
+Seat 5: Stefanus ($119.60)
+Seat 6: upaymymtg ($114.45)
+upaymymtg posts the small blind of $0.50
+joshuaashtondzl posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [6d Jh]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 collected ($2.50), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831505420: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:10:54 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.80)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($60.65)
+Seat 4: mizdflop ($102.95)
+Seat 5: Stefanus ($119.60)
+Seat 6: upaymymtg ($113.95)
+joshuaashtondzl posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Qs Ks]
+Spunk99 folds
+mizdflop raises to $3
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop collected ($2.50), mucked
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831508549: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:11:21 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100.50)
+Seat 3: Spunk99 ($60.65)
+Seat 4: mizdflop ($104.45)
+Seat 5: Stefanus ($119.60)
+Seat 6: upaymymtg ($113.95)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Th 3s]
+mizdflop folds
+Stefanus raises to $4
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 calls $3
+*** FLOP *** [2c 4h Kc]
+Spunk99 checks
+Stefanus bets $6
+Spunk99 calls $6
+*** TURN *** [2c 4h Kc] [4c]
+Spunk99 checks
+Stefanus checks
+*** RIVER *** [2c 4h Kc 4c] [9c]
+Spunk99 checks
+Stefanus bets $20.50
+Spunk99 calls $20.50
+*** SHOW DOWN ***
+Stefanus shows [7h Td] (a pair of Fours)
+Spunk99 shows [As Qc] (a flush, King high)
+Spunk99 wins the pot ($58.50) with a flush, King high
+*** SUMMARY ***
+Total pot $61.50 | Rake $3
+Board: [2c 4h Kc 4c 9c]
+Seat 1: joshuaashtondzl (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) showed [As Qc] and won ($58.50) with a flush, King high
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus showed [7h Td] and lost with a pair of Fours
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831517565: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:12:42 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($104.45)
+Seat 5: Stefanus ($89.10)
+Seat 6: upaymymtg ($113.95)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [4c 6d]
+Stefanus raises to $3.50
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus collected ($2.50), mucked
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831520644: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:13:10 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($88.15)
+Seat 4: mizdflop ($103.45)
+Seat 5: Stefanus ($90.60)
+Seat 6: upaymymtg ($113.95)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [7s 7d]
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 calls $1
+mizdflop raises to $4
+Stefanus calls $3
+Spunk99 folds
+*** FLOP *** [Tc 4h 3d]
+mizdflop bets $7
+Stefanus folds
+Uncalled bet of $7 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($8.55)
+*** SUMMARY ***
+Total pot $9 | Rake $0.45
+Board: [Tc 4h 3d]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) folded before the Flop
+Seat 4: mizdflop (small blind) collected ($8.55), mucked
+Seat 5: Stefanus (big blind) folded on the Flop
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831527109: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:14:07 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($87.15)
+Seat 4: mizdflop ($108)
+Seat 5: Stefanus ($86.60)
+Seat 6: upaymymtg ($113.95)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [5h 8c]
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $4
+upaymymtg calls $3
+*** FLOP *** [As Kc 3d]
+Stefanus bets $5
+upaymymtg calls $5
+*** TURN *** [As Kc 3d] [Kd]
+Stefanus checks
+upaymymtg checks
+*** RIVER *** [As Kc 3d Kd] [Qd]
+Stefanus checks
+upaymymtg checks
+*** SHOW DOWN ***
+Stefanus shows [9h 7h] (a pair of Kings)
+upaymymtg shows [Tc Td] (two pair, Kings and Tens)
+upaymymtg wins the pot ($17.10) with two pair, Kings and Tens
+*** SUMMARY ***
+Total pot $18 | Rake $0.90
+Board: [As Kc 3d Kd Qd]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) showed [9h 7h] and lost with a pair of Kings
+Seat 6: upaymymtg (big blind) showed [Tc Td] and won ($17.10) with two pair, Kings and Tens
+
+
+
+Full Tilt Poker Game #1831534619: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:15:14 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($87.15)
+Seat 4: mizdflop ($108)
+Seat 5: Stefanus ($77.60)
+Seat 6: upaymymtg ($122.05)
+upaymymtg posts the small blind of $0.50
+joshuaashtondzl posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Ks 3h]
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+joshuaashtondzl has 15 seconds left to act
+joshuaashtondzl folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+Stefanus adds $20.90
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) collected ($2.50), mucked
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831539007: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:15:53 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($200.30)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($87.15)
+Seat 4: mizdflop ($108)
+Seat 5: Stefanus ($100)
+Seat 6: upaymymtg ($121.55)
+joshuaashtondzl posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [8d Tc]
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 collected ($2.50), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831541838: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:16:18 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($199.80)
+Seat 2: powDRJ ($99)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($108)
+Seat 5: Stefanus ($100)
+Seat 6: upaymymtg ($121.55)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [7d Td]
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus collected ($2.50), mucked
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831544309: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:16:40 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($199.80)
+Seat 2: powDRJ ($98.50)
+Seat 3: Spunk99 ($87.65)
+Seat 4: mizdflop ($108)
+Seat 5: Stefanus ($101.50)
+Seat 6: upaymymtg ($121.55)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [3d 8d]
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) collected ($2), mucked
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831546387: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:16:58 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($199.80)
+Seat 2: powDRJ ($98.50)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($107)
+Seat 5: Stefanus ($101.50)
+Seat 6: upaymymtg ($121.55)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [9s Js]
+upaymymtg raises to $4
+joshuaashtondzl raises to $13.50
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+upaymymtg calls $9.50
+*** FLOP *** [9h Qc 9d]
+upaymymtg checks
+joshuaashtondzl bets $21
+upaymymtg folds
+Uncalled bet of $21 returned to joshuaashtondzl
+joshuaashtondzl mucks
+joshuaashtondzl wins the pot ($27.10)
+*** SUMMARY ***
+Total pot $28.50 | Rake $1.40
+Board: [9h Qc 9d]
+Seat 1: joshuaashtondzl collected ($27.10), mucked
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) folded before the Flop
+Seat 6: upaymymtg folded on the Flop
+
+
+
+Full Tilt Poker Game #1831553167: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:17:57 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($213.40)
+Seat 2: powDRJ ($98.50)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($106.50)
+Seat 5: Stefanus ($100.50)
+Seat 6: upaymymtg ($108.05)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [2c Qh]
+joshuaashtondzl calls $1
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $4
+upaymymtg is sitting out
+upaymymtg folds
+joshuaashtondzl folds
+Uncalled bet of $3 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($3)
+*** SUMMARY ***
+Total pot $3 | Rake $0
+Seat 1: joshuaashtondzl folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) collected ($3), mucked
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831556362: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:18:26 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($212.40)
+Seat 2: powDRJ ($98.50)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($106.50)
+Seat 5: Stefanus ($102.50)
+Seat 6: upaymymtg ($107.05), is sitting out
+joshuaashtondzl posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [As 5h]
+powDRJ folds
+Spunk99 folds
+mizdflop raises to $3
+Stefanus calls $3
+joshuaashtondzl folds
+*** FLOP *** [7d 9s 9h]
+mizdflop checks
+Stefanus bets $7
+mizdflop folds
+Uncalled bet of $7 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($6.65)
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [7d 9s 9h]
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop folded on the Flop
+Seat 5: Stefanus (button) collected ($6.65), mucked
+Seat 6: upaymymtg (small blind) is sitting out
+
+
+
+Full Tilt Poker Game #1831560241: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:19:00 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($211.40)
+Seat 2: powDRJ ($98.50)
+Seat 3: Spunk99 ($88.65)
+Seat 4: mizdflop ($103.50)
+Seat 5: Stefanus ($106.15)
+Seat 6: upaymymtg ($107.05), is sitting out
+joshuaashtondzl posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [2h 4d]
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+joshuaashtondzl calls $1.50
+powDRJ folds
+*** FLOP *** [8h 9d 3s]
+joshuaashtondzl bets $3.55
+Spunk99 folds
+Uncalled bet of $3.55 returned to joshuaashtondzl
+joshuaashtondzl mucks
+joshuaashtondzl wins the pot ($4.75)
+*** SUMMARY ***
+Total pot $5 | Rake $0.25
+Board: [8h 9d 3s]
+Seat 1: joshuaashtondzl (small blind) collected ($4.75), mucked
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) is sitting out
+
+
+
+Full Tilt Poker Game #1831564807: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:19:40 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($214.15)
+Seat 2: powDRJ ($97.50)
+Seat 3: Spunk99 ($86.65)
+Seat 4: mizdflop ($103.50)
+Seat 5: Stefanus ($106.15)
+Seat 6: upaymymtg ($107.05), is sitting out
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [5h Td]
+mizdflop folds
+Stefanus raises to $3.50
+joshuaashtondzl calls $3.50
+powDRJ folds
+Spunk99 calls $2.50
+*** FLOP *** [5s Ac Ks]
+Spunk99 checks
+Stefanus bets $7
+joshuaashtondzl folds
+Spunk99 folds
+Uncalled bet of $7 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($10.45)
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board: [5s Ac Ks]
+Seat 1: joshuaashtondzl (button) folded on the Flop
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus collected ($10.45), mucked
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831570424: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:20:29 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($210.65)
+Seat 2: powDRJ ($97)
+Seat 3: Spunk99 ($83.15)
+Seat 4: mizdflop ($103.50)
+Seat 5: Stefanus ($113.10)
+Seat 6: upaymymtg ($107.05), is sitting out
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [6c Jd]
+Stefanus raises to $3.50
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus collected ($2.50), mucked
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831572609: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:20:49 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($210.65)
+Seat 2: powDRJ ($97)
+Seat 3: Spunk99 ($82.65)
+Seat 4: mizdflop ($102.50)
+Seat 5: Stefanus ($114.60)
+Seat 6: upaymymtg ($107.05), is sitting out
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [9c Td]
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 folds
+mizdflop calls $0.50
+Stefanus checks
+*** FLOP *** [Qh 9s Kc]
+mizdflop checks
+Stefanus bets $2
+mizdflop calls $2
+*** TURN *** [Qh 9s Kc] [2s]
+mizdflop checks
+Stefanus checks
+*** RIVER *** [Qh 9s Kc 2s] [Qd]
+mizdflop checks
+Stefanus checks
+*** SHOW DOWN ***
+Stefanus shows [6s 4d] (a pair of Queens)
+mizdflop shows [9c Td] (two pair, Queens and Nines)
+mizdflop wins the pot ($5.70) with two pair, Queens and Nines
+*** SUMMARY ***
+Total pot $6 | Rake $0.30
+Board: [Qh 9s Kc 2s Qd]
+Seat 1: joshuaashtondzl didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) showed [9c Td] and won ($5.70) with two pair, Queens and Nines
+Seat 5: Stefanus (big blind) showed [6s 4d] and lost with a pair of Queens
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831579071: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:21:45 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($210.65)
+Seat 2: powDRJ ($97)
+Seat 3: Spunk99 ($82.65)
+Seat 4: mizdflop ($105.20)
+Seat 5: Stefanus ($111.60)
+Seat 6: upaymymtg ($107.05), is sitting out
+Stefanus posts the small blind of $0.50
+joshuaashtondzl posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Kd 3s]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+joshuaashtondzl has 15 seconds left to act
+joshuaashtondzl folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 collected ($2.50), mucked
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) folded before the Flop
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831583866: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:22:27 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($209.65)
+Seat 2: powDRJ ($97)
+Seat 3: Spunk99 ($84.15)
+Seat 4: mizdflop ($105.20)
+Seat 5: Stefanus ($111.10)
+Seat 6: upaymymtg ($107.05), is sitting out
+joshuaashtondzl posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Ks 9s]
+Spunk99 folds
+mizdflop calls $1
+Stefanus folds
+joshuaashtondzl folds
+powDRJ checks
+*** FLOP *** [3c Tc 5s]
+powDRJ checks
+mizdflop bets $2
+powDRJ folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.40)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10
+Board: [3c Tc 5s]
+Seat 1: joshuaashtondzl (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded on the Flop
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop collected ($2.40), mucked
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831588266: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:23:06 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($209.15)
+Seat 2: powDRJ ($96)
+Seat 3: Spunk99 ($84.15)
+Seat 4: mizdflop ($106.60)
+Seat 5: Stefanus ($111.10)
+Seat 6: upaymymtg ($107.05), is sitting out
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [6d 3c]
+mizdflop folds
+Stefanus folds
+joshuaashtondzl folds
+powDRJ folds
+Uncalled bet of $0.50 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: joshuaashtondzl (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) collected ($1), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831590109: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:23:22 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($209.15)
+Seat 2: powDRJ ($95.50)
+Seat 3: Spunk99 ($84.65)
+Seat 4: mizdflop ($106.60)
+Seat 5: Stefanus ($111.10)
+Seat 6: upaymymtg ($107.05), is sitting out
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [8s 7h]
+Stefanus raises to $3.50
+joshuaashtondzl raises to $12
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus has 15 seconds left to act
+Stefanus raises to $31
+joshuaashtondzl calls $19
+*** FLOP *** [8d 4d 6s]
+Stefanus bets $50
+joshuaashtondzl raises to $100
+Stefanus calls $30.10, and is all in
+joshuaashtondzl shows [Qh Qd]
+Stefanus shows [Ad Ac]
+Uncalled bet of $19.90 returned to joshuaashtondzl
+*** TURN *** [8d 4d 6s] [5d]
+*** RIVER *** [8d 4d 6s 5d] [9s]
+joshuaashtondzl shows a pair of Queens
+Stefanus shows a pair of Aces
+Stefanus wins the pot ($220.70) with a pair of Aces
+joshuaashtondzl is sitting out
+*** SUMMARY ***
+Total pot $223.70 | Rake $3
+Board: [8d 4d 6s 5d 9s]
+Seat 1: joshuaashtondzl showed [Qh Qd] and lost with a pair of Queens
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus showed [Ad Ac] and won ($220.70) with a pair of Aces
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831598757: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:24:38 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($98.05), is sitting out
+Seat 2: powDRJ ($95.50)
+Seat 3: Spunk99 ($84.15)
+Seat 4: mizdflop ($105.60)
+Seat 5: Stefanus ($220.70)
+Seat 6: upaymymtg ($107.05), is sitting out
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [9c 5d]
+powDRJ folds
+mizdflop: nh
+joshuaashtondzl stands up
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $0.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: joshuaashtondzl is sitting out
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) collected ($1), mucked
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831600887: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:24:57 ET - 2007/02/19
+Seat 2: powDRJ ($95.50)
+Seat 3: Spunk99 ($84.15)
+Seat 4: mizdflop ($105.10)
+Seat 5: Stefanus ($221.20)
+Seat 6: upaymymtg ($107.05), is sitting out
+Stefanus posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [8d Qh]
+Spunk99 folds
+mizdflop raises to $3
+upaymymtg has returned
+hldorfld adds $97
+Stefanus calls $2.50
+powDRJ calls $2
+*** FLOP *** [7s Jd Ah]
+Stefanus checks
+powDRJ checks
+mizdflop checks
+*** TURN *** [7s Jd Ah] [Ac]
+Spunk99 is feeling happy
+Spunk99 is feeling angry
+Stefanus checks
+powDRJ checks
+mizdflop checks
+Spunk99 is feeling confused
+*** RIVER *** [7s Jd Ah Ac] [7h]
+Spunk99 is feeling normal
+Stefanus bets $7
+powDRJ folds
+mizdflop folds
+Uncalled bet of $7 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($8.55)
+*** SUMMARY ***
+Total pot $9 | Rake $0.45
+Board: [7s Jd Ah Ac 7h]
+Seat 2: powDRJ (big blind) folded on the River
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) folded on the River
+Seat 5: Stefanus (small blind) collected ($8.55), mucked
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831611661: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:26:34 ET - 2007/02/19
+Seat 1: hldorfld ($97)
+Seat 2: powDRJ ($92.50)
+Seat 3: Spunk99 ($84.15)
+Seat 4: mizdflop ($102.10)
+Seat 5: Stefanus ($226.75)
+Seat 6: upaymymtg ($107.05)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Th Ac]
+mizdflop raises to $3
+Stefanus folds
+powDRJ folds
+Spunk99 calls $2
+*** FLOP *** [7h 8s Td]
+Spunk99 bets $6.50
+mizdflop calls $6.50
+*** TURN *** [7h 8s Td] [2c]
+Spunk99 checks
+mizdflop bets $19.50
+Spunk99 folds
+Uncalled bet of $19.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($18.55)
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.95
+Board: [7h 8s Td 2c]
+Seat 1: hldorfld is sitting out
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded on the Turn
+Seat 4: mizdflop collected ($18.55), mucked
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831618034: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:27:31 ET - 2007/02/19
+Seat 1: hldorfld ($97)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($74.65)
+Seat 4: mizdflop ($111.15)
+Seat 5: Stefanus ($226.75)
+Seat 6: upaymymtg ($107.05)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Ad Js]
+Stefanus raises to $3.50
+powDRJ folds
+Spunk99 calls $3
+mizdflop calls $2.50
+*** FLOP *** [Th 7c 2c]
+Spunk99 checks
+mizdflop checks
+Stefanus checks
+*** TURN *** [Th 7c 2c] [Kh]
+Spunk99 checks
+mizdflop checks
+Stefanus bets $5
+Spunk99 calls $5
+mizdflop folds
+*** RIVER *** [Th 7c 2c Kh] [7h]
+Spunk99 has 15 seconds left to act
+Spunk99 bets $12
+Stefanus has 15 seconds left to act
+Stefanus folds
+Uncalled bet of $12 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($19.50)
+*** SUMMARY ***
+Total pot $20.50 | Rake $1
+Board: [Th 7c 2c Kh 7h]
+Seat 1: hldorfld is sitting out
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) collected ($19.50), mucked
+Seat 4: mizdflop (big blind) folded on the Turn
+Seat 5: Stefanus folded on the River
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831630873: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:29:25 ET - 2007/02/19
+Seat 1: hldorfld ($97)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($85.65)
+Seat 4: mizdflop ($107.65)
+Seat 5: Stefanus ($218.25)
+Seat 6: upaymymtg ($107.05)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Jd 8h]
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $0.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: hldorfld is sitting out
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) collected ($1), mucked
+Seat 6: upaymymtg is sitting out
+
+
+
+Full Tilt Poker Game #1831633360: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:29:47 ET - 2007/02/19
+Seat 1: hldorfld ($97)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($85.65)
+Seat 4: mizdflop ($107.15)
+Seat 5: Stefanus ($218.75)
+Seat 6: upaymymtg ($107.05)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [5s Jd]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Stefanus calls $1.50
+upaymymtg calls $1
+*** FLOP *** [2c 4s Ac]
+Stefanus checks
+upaymymtg checks
+Spunk99 checks
+*** TURN *** [2c 4s Ac] [4d]
+Stefanus checks
+upaymymtg checks
+Spunk99 bets $3
+Stefanus calls $3
+upaymymtg folds
+*** RIVER *** [2c 4s Ac 4d] [Js]
+Stefanus checks
+Spunk99 checks
+*** SHOW DOWN ***
+Spunk99 shows [6d Ad] (two pair, Aces and Fours)
+Stefanus mucks
+Spunk99 wins the pot ($11.40) with two pair, Aces and Fours
+*** SUMMARY ***
+Total pot $12 | Rake $0.60
+Board: [2c 4s Ac 4d Js]
+Seat 1: hldorfld is sitting out
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 showed [6d Ad] and won ($11.40) with two pair, Aces and Fours
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) mucked [2h 5c] - two pair, Fours and Twos
+Seat 6: upaymymtg (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #1831641623: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:31:01 ET - 2007/02/19
+Seat 1: hldorfld ($97)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($92.05)
+Seat 4: mizdflop ($107.15)
+Seat 5: Stefanus ($213.75)
+Seat 6: upaymymtg ($105.05)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Kd Ah]
+powDRJ folds
+Spunk99 folds
+mizdflop raises to $3.50
+Stefanus calls $3.50
+upaymymtg folds
+hldorfld folds
+*** FLOP *** [Kh Ad 6d]
+mizdflop bets $5
+Stefanus raises to $10
+mizdflop raises to $38.50
+Stefanus calls $28.50
+*** TURN *** [Kh Ad 6d] [3c]
+mizdflop bets $65.15, and is all in
+Stefanus folds
+Uncalled bet of $65.15 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($82.50)
+*** SUMMARY ***
+Total pot $85.50 | Rake $3
+Board: [Kh Ad 6d 3c]
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop collected ($82.50), mucked
+Seat 5: Stefanus (button) folded on the Turn
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831648832: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:32:05 ET - 2007/02/19
+Seat 1: hldorfld ($96)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($92.05)
+Seat 4: mizdflop ($147.65)
+Seat 5: Stefanus ($171.75)
+Seat 6: upaymymtg ($104.55)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [4d As]
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+upaymymtg raises to $4
+hldorfld folds
+powDRJ folds
+Uncalled bet of $3 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) collected ($2.50), mucked
+
+
+
+Full Tilt Poker Game #1831652508: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:32:37 ET - 2007/02/19
+Seat 1: hldorfld ($95.50)
+Seat 2: powDRJ ($91)
+Seat 3: Spunk99 ($92.05)
+Seat 4: mizdflop ($147.65)
+Seat 5: Stefanus ($171.75)
+Seat 6: upaymymtg ($106.05)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Th Ac]
+mizdflop raises to $3
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 calls $2
+*** FLOP *** [3s 3d As]
+Spunk99 checks
+mizdflop checks
+*** TURN *** [3s 3d As] [8d]
+Spunk99 checks
+mizdflop bets $4
+Spunk99 calls $4
+*** RIVER *** [3s 3d As 8d] [Js]
+Spunk99 bets $14.50
+mizdflop has 15 seconds left to act
+mizdflop folds
+Uncalled bet of $14.50 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($13.80)
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.70
+Board: [3s 3d As 8d Js]
+Seat 1: hldorfld (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) collected ($13.80), mucked
+Seat 4: mizdflop folded on the River
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831662971: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:34:08 ET - 2007/02/19
+Seat 1: hldorfld ($95.50)
+Seat 2: powDRJ ($90.50)
+Seat 3: Spunk99 ($98.85)
+Seat 4: mizdflop ($140.65)
+Seat 5: Stefanus ($171.75)
+Seat 6: upaymymtg ($106.05)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Th Kc]
+mizdflop: not gonna show the bluff?
+Stefanus folds
+upaymymtg folds
+hldorfld raises to $3
+powDRJ folds
+Spunk99 calls $2.50
+powDRJ adds $9.50
+mizdflop calls $2
+*** FLOP *** [9s 9h 2d]
+Spunk99 checks
+mizdflop checks
+hldorfld bets $4
+Spunk99 folds
+mizdflop calls $4
+*** TURN *** [9s 9h 2d] [Js]
+mizdflop checks
+hldorfld bets $8
+mizdflop folds
+Uncalled bet of $8 returned to hldorfld
+hldorfld mucks
+hldorfld wins the pot ($16.15)
+*** SUMMARY ***
+Total pot $17 | Rake $0.85
+Board: [9s 9h 2d Js]
+Seat 1: hldorfld collected ($16.15), mucked
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded on the Flop
+Seat 4: mizdflop (big blind) folded on the Turn
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831669872: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:35:10 ET - 2007/02/19
+Seat 1: hldorfld ($104.65)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($95.85)
+Seat 4: mizdflop ($133.65)
+Seat 5: Stefanus ($171.75)
+Seat 6: upaymymtg ($106.05)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Qd 4h]
+upaymymtg raises to $4
+hldorfld folds
+powDRJ calls $4
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+*** FLOP *** [8d Jc 6c]
+hldorfld: lol not this time
+upaymymtg has 15 seconds left to act
+upaymymtg bets $7.50
+powDRJ folds
+Uncalled bet of $7.50 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($9.05)
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45
+Board: [8d Jc 6c]
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ folded on the Flop
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) folded before the Flop
+Seat 6: upaymymtg collected ($9.05), mucked
+
+
+
+Full Tilt Poker Game #1831675187: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:35:56 ET - 2007/02/19
+Seat 1: hldorfld ($104.65)
+Seat 2: powDRJ ($96)
+Seat 3: Spunk99 ($95.85)
+Seat 4: mizdflop ($133.15)
+Seat 5: Stefanus ($170.75)
+Seat 6: upaymymtg ($111.10)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [9d 5c]
+hldorfld folds
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Stefanus raises to $9
+upaymymtg folds
+Spunk99 folds
+Uncalled bet of $7 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($5)
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 folded before the Flop
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) collected ($5), mucked
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831679741: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:36:36 ET - 2007/02/19
+Seat 1: hldorfld ($104.65)
+Seat 2: powDRJ ($96)
+Seat 3: Spunk99 ($93.85)
+Seat 4: mizdflop ($133.15)
+Seat 5: Stefanus ($173.75)
+Seat 6: upaymymtg ($110.10)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [3c 4h]
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+hldorfld folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) collected ($2.50), mucked
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831682042: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:36:57 ET - 2007/02/19
+Seat 1: hldorfld ($103.65)
+Seat 2: powDRJ ($96)
+Seat 3: Spunk99 ($93.85)
+Seat 4: mizdflop ($133.15)
+Seat 5: Stefanus ($175.25)
+Seat 6: upaymymtg ($109.60)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [6h Js]
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus collected ($2.50), mucked
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831684812: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:37:21 ET - 2007/02/19
+Seat 1: hldorfld ($103.15)
+Seat 2: powDRJ ($95)
+Seat 3: Spunk99 ($93.85)
+Seat 4: mizdflop ($133.15)
+Seat 5: Stefanus ($176.75)
+Seat 6: upaymymtg ($109.60)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [5h 5s]
+mizdflop calls $1
+Stefanus calls $1
+upaymymtg folds
+hldorfld calls $1
+powDRJ calls $0.50
+Spunk99 checks
+*** FLOP *** [Jc Td Tc]
+powDRJ checks
+Spunk99 checks
+mizdflop checks
+Stefanus checks
+hldorfld checks
+*** TURN *** [Jc Td Tc] [6d]
+powDRJ checks
+Spunk99 checks
+mizdflop checks
+Stefanus checks
+hldorfld bets $2
+powDRJ calls $2
+Spunk99 folds
+mizdflop folds
+Stefanus calls $2
+*** RIVER *** [Jc Td Tc 6d] [3h]
+powDRJ checks
+Stefanus checks
+hldorfld bets $2
+powDRJ folds
+Stefanus calls $2
+*** SHOW DOWN ***
+hldorfld shows [6s Ah] (two pair, Tens and Sixes)
+Stefanus shows [Js Qd] (two pair, Jacks and Tens)
+Stefanus wins the pot ($14.25) with two pair, Jacks and Tens
+*** SUMMARY ***
+Total pot $15 | Rake $0.75
+Board: [Jc Td Tc 6d 3h]
+Seat 1: hldorfld (button) showed [6s Ah] and lost with two pair, Tens and Sixes
+Seat 2: powDRJ (small blind) folded on the River
+Seat 3: Spunk99 (big blind) folded on the Turn
+Seat 4: mizdflop folded on the Turn
+Seat 5: Stefanus showed [Js Qd] and won ($14.25) with two pair, Jacks and Tens
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831697168: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:39:10 ET - 2007/02/19
+Seat 1: hldorfld ($98.15)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($92.85)
+Seat 4: mizdflop ($132.15)
+Seat 5: Stefanus ($186)
+Seat 6: upaymymtg ($109.60)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Jh 8h]
+Stefanus folds
+upaymymtg raises to $4
+hldorfld folds
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $3 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg collected ($2.50), mucked
+
+
+
+Full Tilt Poker Game #1831699860: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:39:35 ET - 2007/02/19
+Seat 1: hldorfld ($98.15)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($92.35)
+Seat 4: mizdflop ($131.15)
+Seat 5: Stefanus ($186)
+Seat 6: upaymymtg ($111.10)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [3s Js]
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 raises to $2
+mizdflop calls $1.50
+Stefanus calls $1
+*** FLOP *** [8c 5d 6s]
+mizdflop checks
+Stefanus checks
+Spunk99 bets $6
+mizdflop folds
+Stefanus calls $6
+*** TURN *** [8c 5d 6s] [6h]
+Stefanus checks
+Spunk99 bets $12
+Stefanus calls $12
+*** RIVER *** [8c 5d 6s 6h] [2d]
+Stefanus checks
+Spunk99 checks
+*** SHOW DOWN ***
+Spunk99 shows [Jc Qh] (a pair of Sixes)
+Stefanus mucks
+Spunk99 wins the pot ($39.90) with a pair of Sixes
+*** SUMMARY ***
+Total pot $42 | Rake $2.10
+Board: [8c 5d 6s 6h 2d]
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) showed [Jc Qh] and won ($39.90) with a pair of Sixes
+Seat 4: mizdflop (small blind) folded on the Flop
+Seat 5: Stefanus (big blind) mucked [Th 7c] - a pair of Sixes
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831708248: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:40:48 ET - 2007/02/19
+Seat 1: hldorfld ($98.15)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($112.25)
+Seat 4: mizdflop ($129.15)
+Seat 5: Stefanus ($166)
+Seat 6: upaymymtg ($111.10)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [9h 9s]
+hldorfld folds
+powDRJ folds
+Spunk99 folds
+mizdflop raises to $3.50
+Stefanus folds
+upaymymtg raises to $12
+mizdflop raises to $36.50
+upaymymtg: i shove u insta fold
+upaymymtg has 15 seconds left to act
+upaymymtg: ill give it to u though
+upaymymtg folds
+Uncalled bet of $24.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($24.50)
+*** SUMMARY ***
+Total pot $24.50 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) collected ($24.50), mucked
+Seat 5: Stefanus (small blind) folded before the Flop
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831715409: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:41:52 ET - 2007/02/19
+Seat 1: hldorfld ($98.15)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($112.25)
+Seat 4: mizdflop ($141.65)
+Seat 5: Stefanus ($165.50)
+Seat 6: upaymymtg ($99.10)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [9c Kc]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop calls $2
+Stefanus folds
+upaymymtg adds $1.40
+upaymymtg folds
+hldorfld folds
+*** FLOP *** [Ks 3c 7s]
+Spunk99 has 15 seconds left to act
+Spunk99 checks
+mizdflop bets $4
+Spunk99 folds
+Uncalled bet of $4 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($5.25)
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25
+Board: [Ks 3c 7s]
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 folded on the Flop
+Seat 4: mizdflop collected ($5.25), mucked
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831720506: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:42:39 ET - 2007/02/19
+Seat 1: hldorfld ($97.15)
+Seat 2: powDRJ ($92)
+Seat 3: Spunk99 ($110.25)
+Seat 4: mizdflop ($144.90)
+Seat 5: Stefanus ($165.50)
+Seat 6: upaymymtg ($100)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [8d 8s]
+Spunk99 calls $1
+mizdflop calls $1
+Stefanus calls $1
+upaymymtg folds
+hldorfld folds
+powDRJ checks
+*** FLOP *** [2h 3d 4h]
+powDRJ checks
+Spunk99 bets $4.50
+mizdflop raises to $14
+Stefanus folds
+powDRJ folds
+Spunk99 calls $9.50
+*** TURN *** [2h 3d 4h] [5h]
+Spunk99 checks
+mizdflop checks
+*** RIVER *** [2h 3d 4h 5h] [5d]
+Spunk99 checks
+mizdflop checks
+*** SHOW DOWN ***
+mizdflop shows [8d 8s] (two pair, Eights and Fives)
+Spunk99 shows [Kd Kh] (two pair, Kings and Fives)
+Spunk99 wins the pot ($30.90) with two pair, Kings and Fives
+*** SUMMARY ***
+Total pot $32.50 | Rake $1.60
+Board: [2h 3d 4h 5h 5d]
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded on the Flop
+Seat 3: Spunk99 showed [Kd Kh] and won ($30.90) with two pair, Kings and Fives
+Seat 4: mizdflop showed [8d 8s] and lost with two pair, Eights and Fives
+Seat 5: Stefanus folded on the Flop
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831729968: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:44:03 ET - 2007/02/19
+Seat 1: hldorfld ($96.65)
+Seat 2: powDRJ ($91)
+Seat 3: Spunk99 ($126.15)
+Seat 4: mizdflop ($129.90)
+Seat 5: Stefanus ($164.50)
+Seat 6: upaymymtg ($100)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [3d 8c]
+mizdflop folds
+Stefanus folds
+upaymymtg raises to $4
+hldorfld folds
+powDRJ adds $9.50
+powDRJ folds
+Spunk99 folds
+Uncalled bet of $3 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg collected ($2.50), mucked
+
+
+
+Full Tilt Poker Game #1831732839: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:44:29 ET - 2007/02/19
+Seat 1: hldorfld ($96.65)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($125.15)
+Seat 4: mizdflop ($129.90)
+Seat 5: Stefanus ($164.50)
+Seat 6: upaymymtg ($101.50)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [2c 2d]
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 folds
+Uncalled bet of $0.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) collected ($1), mucked
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831735766: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:44:55 ET - 2007/02/19
+Seat 1: hldorfld ($96.65)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($124.65)
+Seat 4: mizdflop ($130.40)
+Seat 5: Stefanus ($164.50)
+Seat 6: upaymymtg ($101.50)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [6h 8d]
+upaymymtg folds
+hldorfld raises to $3
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus calls $2
+*** FLOP *** [Qd Kc Kd]
+Stefanus checks
+hldorfld bets $3
+Stefanus calls $3
+*** TURN *** [Qd Kc Kd] [4s]
+Stefanus checks
+hldorfld checks
+*** RIVER *** [Qd Kc Kd 4s] [2c]
+Stefanus bets $8
+hldorfld calls $8
+*** SHOW DOWN ***
+Stefanus shows [7s Ks] (three of a kind, Kings)
+hldorfld mucks
+Stefanus wins the pot ($27.10) with three of a kind, Kings
+*** SUMMARY ***
+Total pot $28.50 | Rake $1.40
+Board: [Qd Kc Kd 4s 2c]
+Seat 1: hldorfld mucked [Ad Jc] - a pair of Kings
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) showed [7s Ks] and won ($27.10) with three of a kind, Kings
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831743274: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:46:01 ET - 2007/02/19
+Seat 1: hldorfld ($82.65)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($124.65)
+Seat 4: mizdflop ($129.90)
+Seat 5: Stefanus ($177.60)
+Seat 6: upaymymtg ($101.50)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [9h 9s]
+hldorfld folds
+powDRJ folds
+Spunk99 folds
+hldorfld adds $16
+mizdflop raises to $3.50
+Stefanus calls $3
+upaymymtg folds
+*** FLOP *** [Kh 6s 3c]
+Stefanus checks
+mizdflop checks
+*** TURN *** [Kh 6s 3c] [3s]
+Stefanus checks
+mizdflop bets $5
+Stefanus calls $5
+*** RIVER *** [Kh 6s 3c 3s] [Th]
+Stefanus bets $10
+mizdflop calls $10
+*** SHOW DOWN ***
+Stefanus shows [Js Kc] (two pair, Kings and Threes)
+mizdflop mucks
+Stefanus wins the pot ($36.10) with two pair, Kings and Threes
+*** SUMMARY ***
+Total pot $38 | Rake $1.90
+Board: [Kh 6s 3c 3s Th]
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop (button) mucked [9h 9s] - two pair, Nines and Threes
+Seat 5: Stefanus (small blind) showed [Js Kc] and won ($36.10) with two pair, Kings and Threes
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831750654: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:47:09 ET - 2007/02/19
+Seat 1: hldorfld ($98.65)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($124.65)
+Seat 4: mizdflop ($111.40)
+Seat 5: Stefanus ($195.20)
+Seat 6: upaymymtg ($100.50)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [3h 6d]
+powDRJ raises to $3.50
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+Uncalled bet of $2.50 returned to powDRJ
+powDRJ mucks
+powDRJ wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ collected ($2.50), mucked
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831754328: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:47:42 ET - 2007/02/19
+Seat 1: hldorfld ($97.65)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($124.65)
+Seat 4: mizdflop ($111.40)
+Seat 5: Stefanus ($195.20)
+Seat 6: upaymymtg ($100)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [3c Kc]
+Spunk99 calls $1
+mizdflop folds
+Stefanus calls $1
+upaymymtg folds
+hldorfld folds
+powDRJ checks
+*** FLOP *** [2h 2s 2c]
+powDRJ checks
+Spunk99 checks
+Stefanus bets $2
+powDRJ folds
+Spunk99 calls $2
+*** TURN *** [2h 2s 2c] [6h]
+Spunk99 checks
+Stefanus checks
+*** RIVER *** [2h 2s 2c 6h] [Ks]
+Spunk99 checks
+Stefanus checks
+*** SHOW DOWN ***
+Stefanus shows [Js Th] (three of a kind, Twos)
+Spunk99 shows [Ad Qd] (three of a kind, Twos)
+Spunk99 wins the pot ($7.15) with three of a kind, Twos
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35
+Board: [2h 2s 2c 6h Ks]
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded on the Flop
+Seat 3: Spunk99 showed [Ad Qd] and won ($7.15) with three of a kind, Twos
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus showed [Js Th] and lost with three of a kind, Twos
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831763119: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:49:00 ET - 2007/02/19
+Seat 1: hldorfld ($97.15)
+Seat 2: powDRJ ($100.50)
+Seat 3: Spunk99 ($128.80)
+Seat 4: mizdflop ($111.40)
+Seat 5: Stefanus ($192.20)
+Seat 6: upaymymtg ($100)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [6c Ac]
+mizdflop calls $1
+Stefanus raises to $4.50
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Uncalled bet of $3.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: hldorfld (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) folded before the Flop
+Seat 4: mizdflop folded before the Flop
+Seat 5: Stefanus collected ($3.50), mucked
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831765798: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:49:25 ET - 2007/02/19
+Seat 1: hldorfld ($97.15)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($127.80)
+Seat 4: mizdflop ($110.40)
+Seat 5: Stefanus ($194.70)
+Seat 6: upaymymtg ($100)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [3h Kh]
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 calls $0.50
+mizdflop checks
+*** FLOP *** [6c 8c Jc]
+Spunk99 bets $2
+mizdflop folds
+Uncalled bet of $2 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [6c 8c Jc]
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) collected ($1.90), mucked
+Seat 4: mizdflop (big blind) folded on the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831769106: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:49:54 ET - 2007/02/19
+Seat 1: hldorfld ($97.15)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($128.70)
+Seat 4: mizdflop ($109.40)
+Seat 5: Stefanus ($194.70)
+Seat 6: upaymymtg ($100)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [4c Js]
+upaymymtg folds
+hldorfld raises to $3
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus calls $2
+*** FLOP *** [6h 7s 3s]
+Stefanus bets $4
+hldorfld raises to $8
+Stefanus calls $4
+*** TURN *** [6h 7s 3s] [Qh]
+Stefanus checks
+hldorfld bets $18
+Stefanus calls $18
+*** RIVER *** [6h 7s 3s Qh] [3c]
+Stefanus checks
+hldorfld checks
+*** SHOW DOWN ***
+hldorfld shows [Ad 7d] (two pair, Sevens and Threes)
+Stefanus mucks
+hldorfld wins the pot ($55.60) with two pair, Sevens and Threes
+*** SUMMARY ***
+Total pot $58.50 | Rake $2.90
+Board: [6h 7s 3s Qh 3c]
+Seat 1: hldorfld showed [Ad 7d] and won ($55.60) with two pair, Sevens and Threes
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) mucked [7c 5h] - two pair, Sevens and Threes
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831775280: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:50:49 ET - 2007/02/19
+Seat 1: hldorfld ($123.75)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($128.70)
+Seat 4: mizdflop ($108.90)
+Seat 5: Stefanus ($165.70)
+Seat 6: upaymymtg ($100)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Qc 7d]
+hldorfld folds
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 collected ($2.50), mucked
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: Stefanus (small blind) folded before the Flop
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831778727: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:51:20 ET - 2007/02/19
+Seat 1: hldorfld ($123.75)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($130.20)
+Seat 4: mizdflop ($108.90)
+Seat 5: Stefanus ($165.20)
+Seat 6: upaymymtg ($99)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [7c Th]
+powDRJ raises to $3.50
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+Uncalled bet of $2.50 returned to powDRJ
+powDRJ mucks
+powDRJ wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ collected ($2.50), mucked
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831781620: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:51:45 ET - 2007/02/19
+Seat 1: hldorfld ($122.75)
+Seat 2: powDRJ ($101.50)
+Seat 3: Spunk99 ($130.20)
+Seat 4: mizdflop ($108.90)
+Seat 5: Stefanus ($165.20)
+Seat 6: upaymymtg ($98.50)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Js 2c]
+Spunk99 raises to $2
+mizdflop folds
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Spunk99 collected ($2.50), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831784807: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:52:14 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($100.50)
+Seat 3: Spunk99 ($131.70)
+Seat 4: mizdflop ($108.90)
+Seat 5: Stefanus ($165.20)
+Seat 6: upaymymtg ($98.50)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [3d 7c]
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 calls $2.50
+*** FLOP *** [Qh Qd 7h]
+Spunk99 checks
+Stefanus checks
+*** TURN *** [Qh Qd 7h] [3s]
+Spunk99 checks
+Stefanus checks
+*** RIVER *** [Qh Qd 7h 3s] [Ac]
+Spunk99 checks
+Stefanus checks
+*** SHOW DOWN ***
+Stefanus shows [9s 9d] (two pair, Queens and Nines)
+Spunk99 shows [Jd Jc] (two pair, Queens and Jacks)
+Spunk99 wins the pot ($7.15) with two pair, Queens and Jacks
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35
+Board: [Qh Qd 7h 3s Ac]
+Seat 1: hldorfld (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) showed [Jd Jc] and won ($7.15) with two pair, Queens and Jacks
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus showed [9s 9d] and lost with two pair, Queens and Nines
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831791252: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:53:11 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($135.35)
+Seat 4: mizdflop ($108.90)
+Seat 5: Stefanus ($161.70)
+Seat 6: upaymymtg ($98.50)
+Spunk99 posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [3h Tc]
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ folds
+Spunk99 raises to $2
+mizdflop folds
+Uncalled bet of $1 returned to Spunk99
+Spunk99 mucks
+Spunk99 wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Spunk99 (small blind) collected ($2), mucked
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831794900: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:53:45 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($136.35)
+Seat 4: mizdflop ($107.90)
+Seat 5: Stefanus ($161.70)
+Seat 6: upaymymtg ($98.50)
+mizdflop posts the small blind of $0.50
+Stefanus posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Kd 2d]
+upaymymtg folds
+hldorfld raises to $3
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus folds
+Uncalled bet of $2 returned to hldorfld
+hldorfld mucks
+hldorfld wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld collected ($2.50), mucked
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: Stefanus (big blind) folded before the Flop
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831797819: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:54:11 ET - 2007/02/19
+Seat 1: hldorfld ($123.75)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($136.35)
+Seat 4: mizdflop ($107.40)
+Seat 5: Stefanus ($160.70)
+Seat 6: upaymymtg ($98.50)
+Stefanus posts the small blind of $0.50
+upaymymtg posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Ah Qh]
+hldorfld folds
+powDRJ folds
+Spunk99 calls $1
+mizdflop raises to $4.50
+Stefanus folds
+upaymymtg folds
+Spunk99 folds
+Uncalled bet of $3.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 folded before the Flop
+Seat 4: mizdflop (button) collected ($3.50), mucked
+Seat 5: Stefanus (small blind) folded before the Flop
+Seat 6: upaymymtg (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831801260: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:54:43 ET - 2007/02/19
+Seat 1: hldorfld ($123.75)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($135.35)
+Seat 4: mizdflop ($109.90)
+Seat 5: Stefanus ($160.20)
+Seat 6: upaymymtg ($97.50)
+upaymymtg posts the small blind of $0.50
+hldorfld posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [9s Kh]
+powDRJ folds
+Spunk99 folds
+mizdflop folds
+Stefanus raises to $3.50
+upaymymtg folds
+hldorfld folds
+Uncalled bet of $2.50 returned to Stefanus
+Stefanus mucks
+Stefanus wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: hldorfld (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus (button) collected ($2.50), mucked
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831804527: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:55:11 ET - 2007/02/19
+Seat 1: hldorfld ($122.75)
+Seat 2: powDRJ ($100)
+Seat 3: Spunk99 ($135.35)
+Seat 4: mizdflop ($109.90)
+Seat 5: Stefanus ($161.70)
+Seat 6: upaymymtg ($97)
+hldorfld posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [8c 8s]
+Spunk99 calls $1
+mizdflop calls $1
+Stefanus folds
+upaymymtg folds
+hldorfld folds
+powDRJ checks
+*** FLOP *** [7d 5s Jc]
+powDRJ checks
+Spunk99 bets $1
+mizdflop calls $1
+powDRJ folds
+*** TURN *** [7d 5s Jc] [2s]
+Spunk99 bets $1
+mizdflop calls $1
+*** RIVER *** [7d 5s Jc 2s] [Th]
+Spunk99 bets $1
+mizdflop calls $1
+*** SHOW DOWN ***
+Spunk99 shows [8d 7h] (a pair of Sevens)
+mizdflop shows [8c 8s] (a pair of Eights)
+mizdflop wins the pot ($9.05) with a pair of Eights
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45
+Board: [7d 5s Jc 2s Th]
+Seat 1: hldorfld (small blind) folded before the Flop
+Seat 2: powDRJ (big blind) folded on the Flop
+Seat 3: Spunk99 showed [8d 7h] and lost with a pair of Sevens
+Seat 4: mizdflop showed [8c 8s] and won ($9.05) with a pair of Eights
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831811472: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:56:13 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($99)
+Seat 3: Spunk99 ($131.35)
+Seat 4: mizdflop ($114.95)
+Seat 5: Stefanus ($161.70)
+Seat 6: upaymymtg ($97)
+powDRJ posts the small blind of $0.50
+Spunk99 is sitting out
+mizdflop posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Th Qh]
+Stefanus folds
+Spunk99 stands up
+upaymymtg folds
+hldorfld folds
+chernobyl adds $100
+powDRJ folds
+Uncalled bet of $0.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: hldorfld (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 is sitting out
+Seat 4: mizdflop (big blind) collected ($1), mucked
+Seat 5: Stefanus didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831813971: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:56:36 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($98.50)
+Seat 3: chernobyl ($100)
+Seat 4: mizdflop ($115.45)
+Seat 5: Stefanus ($161.70)
+Seat 6: upaymymtg ($97)
+mizdflop posts the small blind of $0.50
+Stefanus stands up
+upaymymtg posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Ad 9h]
+hldorfld folds
+powDRJ folds
+mizdflop calls $0.50
+chernobyl stands up
+upaymymtg raises to $4
+mizdflop calls $3
+*** FLOP *** [2d 4c 4h]
+mizdflop checks
+upaymymtg checks
+*** TURN *** [2d 4c 4h] [3h]
+Dukefolds sits down
+mizdflop checks
+Dukefolds adds $40
+pokr_playa21 sits down
+pokr_playa21 adds $100
+upaymymtg bets $6
+mizdflop folds
+Uncalled bet of $6 returned to upaymymtg
+upaymymtg mucks
+upaymymtg wins the pot ($7.60)
+*** SUMMARY ***
+Total pot $8 | Rake $0.40
+Board: [2d 4c 4h 3h]
+Seat 1: hldorfld didn't bet (folded)
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: chernobyl is sitting out
+Seat 4: mizdflop (small blind) folded on the Turn
+Seat 5: Stefanus is sitting out
+Seat 6: upaymymtg (big blind) collected ($7.60), mucked
+
+
+
+Full Tilt Poker Game #1831819591: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:57:27 ET - 2007/02/19
+Seat 1: hldorfld ($122.25)
+Seat 2: powDRJ ($98.50)
+Seat 3: Dukefolds ($40)
+Seat 4: mizdflop ($111.45)
+Seat 5: pokr_playa21 ($100)
+Seat 6: upaymymtg ($100.60)
+upaymymtg posts the small blind of $0.50
+hldorfld is sitting out
+powDRJ posts the big blind of $1
+Dukefolds posts $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Js Qs]
+hldorfld stands up
+Dukefolds checks
+mizdflop raises to $4.50
+NaorisG sits down
+NaorisG adds $100
+upaymymtg has 15 seconds left to act
+upaymymtg folds
+powDRJ folds
+Dukefolds calls $3.50
+*** FLOP *** [As Th Ah]
+Dukefolds checks
+mizdflop bets $6
+Dukefolds raises to $12
+mizdflop folds
+Uncalled bet of $6 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($21.40)
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.10
+Board: [As Th Ah]
+Seat 1: hldorfld is sitting out
+Seat 2: powDRJ (big blind) folded before the Flop
+Seat 3: Dukefolds collected ($21.40), mucked
+Seat 4: mizdflop (button) folded on the Flop
+Seat 5: pokr_playa21 is sitting out
+Seat 6: upaymymtg (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831825023: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:58:16 ET - 2007/02/19
+Seat 1: NaorisG ($100)
+Seat 2: powDRJ ($97.50)
+Seat 3: Dukefolds ($50.90)
+Seat 4: mizdflop ($100.95)
+Seat 5: pokr_playa21 ($100)
+Seat 6: upaymymtg ($100.10)
+powDRJ posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+pokr_playa21 posts $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Ks 2s]
+mizdflop folds
+pokr_playa21 checks
+upaymymtg folds
+powDRJ raises to $4
+Dukefolds folds
+pokr_playa21 folds
+Uncalled bet of $3 returned to powDRJ
+powDRJ mucks
+powDRJ wins the pot ($3)
+*** SUMMARY ***
+Total pot $3 | Rake $0
+Seat 1: NaorisG is sitting out
+Seat 2: powDRJ (small blind) collected ($3), mucked
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 folded before the Flop
+Seat 6: upaymymtg (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831828550: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:58:48 ET - 2007/02/19
+Seat 1: NaorisG ($100)
+Seat 2: powDRJ ($99.50)
+Seat 3: Dukefolds ($49.90)
+Seat 4: mizdflop ($100.95)
+Seat 5: pokr_playa21 ($99)
+Seat 6: upaymymtg ($100.10)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [9h Qs]
+pokr_playa21 folds
+upaymymtg folds
+powDRJ folds
+Dukefolds has 15 seconds left to act
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [3c 4s Ac]
+Dukefolds checks
+mizdflop checks
+*** TURN *** [3c 4s Ac] [Kh]
+Dukefolds checks
+mizdflop checks
+*** RIVER *** [3c 4s Ac Kh] [Jc]
+Dukefolds checks
+mizdflop checks
+upaymymtg stands up
+*** SHOW DOWN ***
+Dukefolds shows [Js Ts] (a pair of Jacks)
+mizdflop mucks
+Dukefolds wins the pot ($1.90) with a pair of Jacks
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [3c 4s Ac Kh Jc]
+Seat 1: NaorisG is sitting out
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) showed [Js Ts] and won ($1.90) with a pair of Jacks
+Seat 4: mizdflop (big blind) mucked [9h Qs] - Ace King high
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: upaymymtg didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831834978: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:59:44 ET - 2007/02/19
+Seat 1: NaorisG ($100)
+Seat 2: powDRJ ($99.50)
+Seat 3: Dukefolds ($50.80)
+Seat 4: mizdflop ($99.95)
+Seat 5: pokr_playa21 ($99)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [2c 5c]
+bjohns777 sits down
+powDRJ folds
+bjohns777 adds $100
+Dukefolds calls $1
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [9h Jh 8c]
+mizdflop checks
+pokr_playa21 checks
+Dukefolds bets $1
+mizdflop folds
+pokr_playa21 folds
+Uncalled bet of $1 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [9h Jh 8c]
+Seat 1: NaorisG is sitting out
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds (button) collected ($2.85), mucked
+Seat 4: mizdflop (small blind) folded on the Flop
+Seat 5: pokr_playa21 (big blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #1831838668: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:00:17 ET - 2007/02/19
+Seat 1: NaorisG ($100)
+Seat 2: powDRJ ($99.50)
+Seat 3: Dukefolds ($52.65)
+Seat 4: mizdflop ($98.95)
+Seat 5: pokr_playa21 ($98)
+Seat 6: bjohns777 ($100)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [3d 9s]
+powDRJ folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $0.50
+bjohns777 checks
+*** FLOP *** [3h 8d 5c]
+pokr_playa21 checks
+bjohns777 checks
+*** TURN *** [3h 8d 5c] [Kd]
+pokr_playa21 checks
+bjohns777 checks
+*** RIVER *** [3h 8d 5c Kd] [4s]
+pokr_playa21 checks
+bjohns777 bets $1
+pokr_playa21 folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [3h 8d 5c Kd 4s]
+Seat 1: NaorisG is sitting out
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded on the River
+Seat 6: bjohns777 (big blind) collected ($1.90), mucked
+
+
+
+Full Tilt Poker Game #1831843391: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:00:59 ET - 2007/02/19
+Seat 1: NaorisG ($100)
+Seat 2: powDRJ ($99.50)
+Seat 3: Dukefolds ($52.65)
+Seat 4: mizdflop ($98.95)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($100.90)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [5c 3h]
+powDRJ folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $0.50
+NaorisG checks
+*** FLOP *** [Ac 6c 3s]
+bjohns777 checks
+NaorisG checks
+*** TURN *** [Ac 6c 3s] [9s]
+bjohns777 checks
+NaorisG checks
+*** RIVER *** [Ac 6c 3s 9s] [9d]
+bjohns777 checks
+NaorisG checks
+*** SHOW DOWN ***
+bjohns777 shows [8h 5d] (a pair of Nines)
+NaorisG shows [Jc Td] (a pair of Nines)
+NaorisG wins the pot ($1.90) with a pair of Nines
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [Ac 6c 3s 9s 9d]
+Seat 1: NaorisG (big blind) showed [Jc Td] and won ($1.90) with a pair of Nines
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) showed [8h 5d] and lost with a pair of Nines
+
+
+
+Full Tilt Poker Game #1831848426: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:01:41 ET - 2007/02/19
+Seat 1: NaorisG ($100.90)
+Seat 2: powDRJ ($99.50)
+Seat 3: Dukefolds ($52.65)
+Seat 4: mizdflop ($98.95)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($99.90)
+NaorisG posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [2d 9s]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $0.50
+powDRJ checks
+*** FLOP *** [2c 8c 3h]
+NaorisG checks
+powDRJ checks
+*** TURN *** [2c 8c 3h] [7s]
+NaorisG bets $2
+powDRJ folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [2c 8c 3h 7s]
+Seat 1: NaorisG (small blind) collected ($1.90), mucked
+Seat 2: powDRJ (big blind) folded on the Turn
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831853530: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:02:25 ET - 2007/02/19
+Seat 1: NaorisG ($101.80)
+Seat 2: powDRJ ($98.50)
+Seat 3: Dukefolds ($52.65)
+Seat 4: mizdflop ($98.95)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($99.90)
+powDRJ posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Th 4h]
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG folds
+powDRJ folds
+Dukefolds checks
+*** FLOP *** [3h 5h Qh]
+Dukefolds checks
+bjohns777 bets $1
+Dukefolds folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($2.40)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10
+Board: [3h 5h Qh]
+Seat 1: NaorisG (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 collected ($2.40), mucked
+
+
+
+Full Tilt Poker Game #1831857786: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:03:02 ET - 2007/02/19
+Seat 1: NaorisG ($101.80)
+Seat 2: powDRJ ($98)
+Seat 3: Dukefolds ($51.65)
+Seat 4: mizdflop ($98.95)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($101.30)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [6h 2c]
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $1
+powDRJ folds
+Dukefolds folds
+mizdflop checks
+*** FLOP *** [6s 7s 2d]
+mizdflop bets $2.50
+NaorisG folds
+Uncalled bet of $2.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.40)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10
+Board: [6s 7s 2d]
+Seat 1: NaorisG folded on the Flop
+Seat 2: powDRJ (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) collected ($2.40), mucked
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831861952: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:03:37 ET - 2007/02/19
+Seat 1: NaorisG ($100.80)
+Seat 2: powDRJ ($98)
+Seat 3: Dukefolds ($51.15)
+Seat 4: mizdflop ($100.35)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($101.30)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [6h 9h]
+bjohns777 folds
+NaorisG folds
+powDRJ folds
+Dukefolds calls $1
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [2s Kh 8d]
+mizdflop checks
+pokr_playa21 bets $1.50
+Dukefolds folds
+mizdflop folds
+Uncalled bet of $1.50 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [2s Kh 8d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds (button) folded on the Flop
+Seat 4: mizdflop (small blind) folded on the Flop
+Seat 5: pokr_playa21 (big blind) collected ($2.85), mucked
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831866558: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:04:17 ET - 2007/02/19
+Seat 1: NaorisG ($100.80)
+Seat 2: powDRJ ($98)
+Seat 3: Dukefolds ($50.15)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($98.85)
+Seat 6: bjohns777 ($101.30)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [8s Qh]
+NaorisG folds
+powDRJ has 15 seconds left to act
+powDRJ folds
+Dukefolds calls $1
+mizdflop folds
+pokr_playa21 calls $0.50
+bjohns777 checks
+*** FLOP *** [3c Ah Ac]
+pokr_playa21 checks
+bjohns777 checks
+Dukefolds checks
+*** TURN *** [3c Ah Ac] [Tc]
+pokr_playa21 checks
+bjohns777 checks
+Dukefolds checks
+*** RIVER *** [3c Ah Ac Tc] [Ks]
+pokr_playa21 checks
+bjohns777 bets $1
+Dukefolds raises to $3
+pokr_playa21 folds
+bjohns777 calls $2
+*** SHOW DOWN ***
+Dukefolds shows [Ad 3d] (a full house, Aces full of Threes)
+bjohns777 mucks
+Dukefolds wins the pot ($8.55) with a full house, Aces full of Threes
+*** SUMMARY ***
+Total pot $9 | Rake $0.45
+Board: [3c Ah Ac Tc Ks]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds showed [Ad 3d] and won ($8.55) with a full house, Aces full of Threes
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded on the River
+Seat 6: bjohns777 (big blind) mucked [9h Kc] - two pair, Aces and Kings
+
+
+
+Full Tilt Poker Game #1831874251: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:05:23 ET - 2007/02/19
+Seat 1: NaorisG ($100.80)
+Seat 2: powDRJ ($98)
+Seat 3: Dukefolds ($54.70)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($97.85)
+Seat 6: bjohns777 ($97.30)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [9d Js]
+powDRJ folds
+Dukefolds raises to $3.50
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG folds
+Uncalled bet of $2.50 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Dukefolds collected ($2.50), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831876139: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:05:39 ET - 2007/02/19
+Seat 1: NaorisG ($99.80)
+Seat 2: powDRJ ($98)
+Seat 3: Dukefolds ($56.20)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($97.85)
+Seat 6: bjohns777 ($96.80)
+NaorisG posts the small blind of $0.50
+powDRJ posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [4d 2c]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG calls $0.50
+powDRJ checks
+*** FLOP *** [Tc Qc 6s]
+NaorisG checks
+powDRJ checks
+bjohns777 checks
+*** TURN *** [Tc Qc 6s] [Jh]
+NaorisG checks
+powDRJ bets $2
+bjohns777 calls $2
+NaorisG has 15 seconds left to act
+NaorisG folds
+*** RIVER *** [Tc Qc 6s Jh] [Qs]
+powDRJ checks
+bjohns777 bets $3
+powDRJ is sitting out
+powDRJ folds
+Uncalled bet of $3 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($6.65)
+powDRJ stands up
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [Tc Qc 6s Jh Qs]
+Seat 1: NaorisG (small blind) folded on the Turn
+Seat 2: powDRJ (big blind) folded on the River
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) collected ($6.65), mucked
+
+
+
+Full Tilt Poker Game #1831885321: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:06:57 ET - 2007/02/19
+Seat 1: NaorisG ($98.80)
+Seat 3: Dukefolds ($56.20)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($97.85)
+Seat 6: bjohns777 ($100.45)
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [7c Kd]
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG folds
+Uncalled bet of $1 returned to Dukefolds
+Dukefolds mucks
+birdriver sits down
+*** SUMMARY ***
+Total pot $0 | Rake $0
+Seat 1: NaorisG (button) didn't bet (folded)
+Seat 3: Dukefolds (big blind) didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831887297: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:07:14 ET - 2007/02/19
+Seat 1: NaorisG ($98.80)
+Seat 3: Dukefolds ($56.20)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($97.85)
+Seat 6: bjohns777 ($100.45)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+birdriver adds $100
+*** HOLE CARDS ***
+Dealt to mizdflop [Ah 7c]
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [4s Js Td]
+Dukefolds checks
+mizdflop checks
+bjohns777 checks
+*** TURN *** [4s Js Td] [8d]
+Dukefolds checks
+mizdflop checks
+bjohns777 bets $1
+Dukefolds folds
+mizdflop folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [4s Js Td 8d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver (button) Seat 3: Dukefolds (small blind) folded on the Turn
+Seat 4: mizdflop (big blind) folded on the Turn
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 collected ($2.85), mucked
+
+
+
+Full Tilt Poker Game #1831892839: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:08:00 ET - 2007/02/19
+Seat 1: NaorisG ($98.80)
+Seat 2: birdriver ($100)
+Seat 3: Dukefolds ($55.20)
+Seat 4: mizdflop ($98.35)
+Seat 5: pokr_playa21 ($97.85)
+Seat 6: bjohns777 ($102.30)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+5 seconds left to act
+birdriver is sitting out
+Time has expired
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [6d Ad]
+bjohns777 folds
+NaorisG folds
+Dukefolds folds
+mizdflop raises to $3
+pokr_playa21 folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver is sitting out
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) collected ($2), mucked
+Seat 5: pokr_playa21 (big blind) folded before the Flop
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831896194: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:08:28 ET - 2007/02/19
+Seat 1: NaorisG ($98.80)
+Seat 2: birdriver ($100), is sitting out
+Seat 3: Dukefolds ($55.20)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($96.85)
+Seat 6: bjohns777 ($102.30)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [3s Th]
+NaorisG folds
+Dukefolds raises to $2
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+Uncalled bet of $1 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver is sitting out
+Seat 3: Dukefolds collected ($2.50), mucked
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded before the Flop
+Seat 6: bjohns777 (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831897989: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:08:43 ET - 2007/02/19
+Seat 1: NaorisG ($98.80)
+Seat 2: birdriver ($100), is sitting out
+Seat 3: Dukefolds ($56.70)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($96.35)
+Seat 6: bjohns777 ($101.30)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [6d Js]
+Dukefolds raises to $2
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $1.50
+NaorisG calls $1
+*** FLOP *** [Qh Kc 2s]
+bjohns777 checks
+birdriver has returned
+NaorisG checks
+Dukefolds bets $6
+bjohns777 folds
+NaorisG folds
+Uncalled bet of $6 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($5.70)
+*** SUMMARY ***
+Total pot $6 | Rake $0.30
+Board: [Qh Kc 2s]
+Seat 1: NaorisG (big blind) folded on the Flop
+Seat 2: birdriver is sitting out
+Seat 3: Dukefolds collected ($5.70), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #1831901067: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:09:09 ET - 2007/02/19
+Seat 1: NaorisG ($96.80)
+Seat 2: birdriver ($100)
+Seat 3: Dukefolds ($60.40)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($96.35)
+Seat 6: bjohns777 ($99.30)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [7d Ah]
+Dukefolds calls $1
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG raises to $3.50
+birdriver folds
+Dukefolds calls $2.50
+bjohns777 folds
+*** FLOP *** [6c Qs Ac]
+NaorisG checks
+Dukefolds checks
+*** TURN *** [6c Qs Ac] [Tc]
+NaorisG bets $8
+Dukefolds calls $8
+*** RIVER *** [6c Qs Ac Tc] [Qh]
+NaorisG checks
+Dukefolds bets $8
+NaorisG calls $8
+*** SHOW DOWN ***
+Dukefolds shows [Jh Kh] (a straight, Ace high)
+NaorisG mucks
+Dukefolds wins the pot ($38.95) with a straight, Ace high
+*** SUMMARY ***
+Total pot $41 | Rake $2.05
+Board: [6c Qs Ac Tc Qh]
+Seat 1: NaorisG (small blind) mucked [Ad Js] - two pair, Aces and Queens
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds showed [Jh Kh] and won ($38.95) with a straight, Ace high
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831908336: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:10:09 ET - 2007/02/19
+Seat 1: NaorisG ($77.30)
+Seat 2: birdriver ($99)
+Seat 3: Dukefolds ($79.85)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($96.35)
+Seat 6: bjohns777 ($98.30)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Qh 9h]
+mizdflop folds
+NaorisG: today is a %#!#ing joke
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $1
+birdriver raises to $3
+NaorisG: kids sucking out too much
+Dukefolds folds
+NaorisG calls $2
+*** FLOP *** [2s 8h 3h]
+birdriver checks
+NaorisG checks
+*** TURN *** [2s 8h 3h] [5s]
+birdriver checks
+NaorisG checks
+*** RIVER *** [2s 8h 3h 5s] [5d]
+birdriver checks
+NaorisG checks
+*** SHOW DOWN ***
+birdriver shows [Th Ac] (a pair of Fives)
+NaorisG mucks
+birdriver wins the pot ($6.65) with a pair of Fives
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [2s 8h 3h 5s 5d]
+Seat 1: NaorisG (button) mucked [Js Kc] - a pair of Fives
+Seat 2: birdriver (small blind) showed [Th Ac] and won ($6.65) with a pair of Fives
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831914863: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:11:04 ET - 2007/02/19
+Seat 1: NaorisG ($74.30)
+Seat 2: birdriver ($102.65)
+Seat 3: Dukefolds ($78.85)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($96.35)
+Seat 6: bjohns777 ($98.30)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Jd Ts]
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG calls $1
+birdriver folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [8h 5h 7h]
+Dukefolds checks
+mizdflop checks
+bjohns777 bets $2
+NaorisG folds
+Dukefolds folds
+mizdflop folds
+Uncalled bet of $2 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($3.80)
+*** SUMMARY ***
+Total pot $4 | Rake $0.20
+Board: [8h 5h 7h]
+Seat 1: NaorisG folded on the Flop
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded on the Flop
+Seat 4: mizdflop (big blind) folded on the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 collected ($3.80), mucked
+
+
+
+Full Tilt Poker Game #1831918970: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:11:38 ET - 2007/02/19
+Seat 1: NaorisG ($73.30)
+Seat 2: birdriver ($102.65)
+Seat 3: Dukefolds ($77.85)
+Seat 4: mizdflop ($98.35)
+Seat 5: pokr_playa21 ($96.35)
+Seat 6: bjohns777 ($101.10)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Kc 6d]
+bjohns777 calls $1
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [6h Jc 4c]
+mizdflop bets $2
+pokr_playa21 folds
+bjohns777 folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [6h Jc 4c]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) collected ($2.85), mucked
+Seat 5: pokr_playa21 (big blind) folded on the Flop
+Seat 6: bjohns777 folded on the Flop
+
+
+
+Full Tilt Poker Game #1831926046: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:12:38 ET - 2007/02/19
+Seat 1: NaorisG ($73.30)
+Seat 2: birdriver ($102.65)
+Seat 3: Dukefolds ($77.85)
+Seat 4: mizdflop ($100.20)
+Seat 5: pokr_playa21 ($95.35)
+Seat 6: bjohns777 ($100.10)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [6h 5h]
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop raises to $3.50
+pokr_playa21 folds
+bjohns777 folds
+Uncalled bet of $2.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) collected ($2.50), mucked
+Seat 5: pokr_playa21 (small blind) folded before the Flop
+Seat 6: bjohns777 (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831929232: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:13:05 ET - 2007/02/19
+Seat 1: NaorisG ($73.30)
+Seat 2: birdriver ($102.65)
+Seat 3: Dukefolds ($77.85)
+Seat 4: mizdflop ($101.70)
+Seat 5: pokr_playa21 ($94.85)
+Seat 6: bjohns777 ($99.10)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Qs Jd]
+birdriver folds
+Dukefolds folds
+mizdflop calls $1
+pokr_playa21 folds
+bjohns777 calls $0.50
+NaorisG raises to $4
+mizdflop folds
+bjohns777 calls $3
+*** FLOP *** [3h 3s As]
+bjohns777 bets $4
+NaorisG calls $4
+*** TURN *** [3h 3s As] [7d]
+bjohns777 checks
+NaorisG bets $9
+bjohns777 folds
+Uncalled bet of $9 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($16.15)
+*** SUMMARY ***
+Total pot $17 | Rake $0.85
+Board: [3h 3s As 7d]
+Seat 1: NaorisG (big blind) collected ($16.15), mucked
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop folded before the Flop
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #1831934435: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:13:49 ET - 2007/02/19
+Seat 1: NaorisG ($81.45)
+Seat 2: birdriver ($102.65)
+Seat 3: Dukefolds ($77.85)
+Seat 4: mizdflop ($100.70)
+Seat 5: pokr_playa21 ($94.85)
+Seat 6: bjohns777 ($91.10)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Qh 9d]
+Dukefolds calls $1
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $0.50
+birdriver checks
+*** FLOP *** [9c Qc 3h]
+NaorisG checks
+birdriver checks
+Dukefolds checks
+*** TURN *** [9c Qc 3h] [Th]
+NaorisG checks
+birdriver checks
+Dukefolds bets $2
+NaorisG folds
+birdriver folds
+Uncalled bet of $2 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [9c Qc 3h Th]
+Seat 1: NaorisG (small blind) folded on the Turn
+Seat 2: birdriver (big blind) folded on the Turn
+Seat 3: Dukefolds collected ($2.85), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831939693: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:14:33 ET - 2007/02/19
+Seat 1: NaorisG ($80.45)
+Seat 2: birdriver ($101.65)
+Seat 3: Dukefolds ($79.70)
+Seat 4: mizdflop ($100.70)
+Seat 5: pokr_playa21 ($94.85)
+Seat 6: bjohns777 ($91.10)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [6h 2d]
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG folds
+birdriver calls $0.50
+Dukefolds checks
+*** FLOP *** [9h Jh 3h]
+birdriver checks
+Dukefolds checks
+bjohns777 bets $1
+birdriver folds
+Dukefolds folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [9h Jh 3h]
+Seat 1: NaorisG (button) didn't bet (folded)
+Seat 2: birdriver (small blind) folded on the Flop
+Seat 3: Dukefolds (big blind) folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 collected ($2.85), mucked
+
+
+
+Full Tilt Poker Game #1831943254: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:15:03 ET - 2007/02/19
+Seat 1: NaorisG ($80.45)
+Seat 2: birdriver ($100.65)
+Seat 3: Dukefolds ($78.70)
+Seat 4: mizdflop ($100.70)
+Seat 5: pokr_playa21 ($94.85)
+Seat 6: bjohns777 ($92.95)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [3h 4d]
+pokr_playa21 folds
+bjohns777 folds
+NaorisG raises to $3
+birdriver folds
+Dukefolds folds
+mizdflop folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG collected ($2.50), mucked
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831945227: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:15:20 ET - 2007/02/19
+Seat 1: NaorisG ($81.95)
+Seat 2: birdriver ($100.65)
+Seat 3: Dukefolds ($78.20)
+Seat 4: mizdflop ($99.70)
+Seat 5: pokr_playa21 ($94.85)
+Seat 6: bjohns777 ($92.95)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [9d 6h]
+bjohns777 folds
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop folds
+Uncalled bet of $0.50 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) collected ($1), mucked
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831946894: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:15:34 ET - 2007/02/19
+Seat 1: NaorisG ($81.95)
+Seat 2: birdriver ($100.65)
+Seat 3: Dukefolds ($78.20)
+Seat 4: mizdflop ($99.20)
+Seat 5: pokr_playa21 ($95.35)
+Seat 6: bjohns777 ($92.95)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [5h Ac]
+NaorisG raises to $3
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $10
+bjohns777 folds
+NaorisG calls $7
+*** FLOP *** [3h 2h 8s]
+pokr_playa21 bets $14
+NaorisG folds
+Uncalled bet of $14 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($19.95)
+*** SUMMARY ***
+Total pot $21 | Rake $1.05
+Board: [3h 2h 8s]
+Seat 1: NaorisG folded on the Flop
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) collected ($19.95), mucked
+Seat 6: bjohns777 (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831950830: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:16:07 ET - 2007/02/19
+Seat 1: NaorisG ($71.95)
+Seat 2: birdriver ($100.65)
+Seat 3: Dukefolds ($78.20)
+Seat 4: mizdflop ($99.20)
+Seat 5: pokr_playa21 ($105.30)
+Seat 6: bjohns777 ($91.95)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Ad 5c]
+birdriver folds
+Dukefolds folds
+mizdflop raises to $3.50
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $2.50
+*** FLOP *** [5h 8c 6h]
+NaorisG checks
+mizdflop checks
+*** TURN *** [5h 8c 6h] [Qc]
+NaorisG bets $7.50
+mizdflop folds
+Uncalled bet of $7.50 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($7.15)
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35
+Board: [5h 8c 6h Qc]
+Seat 1: NaorisG (big blind) collected ($7.15), mucked
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop folded on the Turn
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1831954560: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:16:38 ET - 2007/02/19
+Seat 1: NaorisG ($75.60)
+Seat 2: birdriver ($100.65)
+Seat 3: Dukefolds ($78.20)
+Seat 4: mizdflop ($95.70)
+Seat 5: pokr_playa21 ($105.30)
+Seat 6: bjohns777 ($91.45)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [3h 5d]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG folds
+Uncalled bet of $0.50 returned to birdriver
+birdriver mucks
+birdriver wins the pot ($1)
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: NaorisG (small blind) folded before the Flop
+Seat 2: birdriver (big blind) collected ($1), mucked
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831956144: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:16:51 ET - 2007/02/19
+Seat 1: NaorisG ($75.10)
+Seat 2: birdriver ($101.15)
+Seat 3: Dukefolds ($78.20)
+Seat 4: mizdflop ($95.70)
+Seat 5: pokr_playa21 ($105.30)
+Seat 6: bjohns777 ($91.45)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Jc 9s]
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $1
+birdriver raises to $3
+Dukefolds folds
+NaorisG calls $2
+*** FLOP *** [Qc As Kc]
+birdriver checks
+NaorisG checks
+*** TURN *** [Qc As Kc] [7d]
+birdriver checks
+NaorisG bets $4
+birdriver folds
+Uncalled bet of $4 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($6.65)
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [Qc As Kc 7d]
+Seat 1: NaorisG (button) collected ($6.65), mucked
+Seat 2: birdriver (small blind) folded on the Turn
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831963915: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:17:56 ET - 2007/02/19
+Seat 1: NaorisG ($78.75)
+Seat 2: birdriver ($98.15)
+Seat 3: Dukefolds ($77.20)
+Seat 4: mizdflop ($95.70)
+Seat 5: pokr_playa21 ($105.30)
+Seat 6: bjohns777 ($91.45)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [8d 4d]
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $1
+birdriver folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [8c 4s Th]
+Dukefolds checks
+mizdflop bets $2
+NaorisG folds
+Dukefolds calls $2
+*** TURN *** [8c 4s Th] [As]
+Dukefolds checks
+mizdflop bets $6
+Dukefolds folds
+Uncalled bet of $6 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($6.65)
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [8c 4s Th As]
+Seat 1: NaorisG folded on the Flop
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded on the Turn
+Seat 4: mizdflop (big blind) collected ($6.65), mucked
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831969493: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:18:42 ET - 2007/02/19
+Seat 1: NaorisG ($77.75)
+Seat 2: birdriver ($98.15)
+Seat 3: Dukefolds ($74.20)
+Seat 4: mizdflop ($99.35)
+Seat 5: pokr_playa21 ($105.30)
+Seat 6: bjohns777 ($91.45)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [As 4h]
+bjohns777 folds
+NaorisG raises to $3
+birdriver folds
+Dukefolds has 15 seconds left to act
+Dukefolds calls $3
+mizdflop folds
+pokr_playa21 calls $2
+*** FLOP *** [2c 6c 8d]
+pokr_playa21 checks
+NaorisG bets $6
+Dukefolds folds
+pokr_playa21 folds
+Uncalled bet of $6 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($9.05)
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45
+Board: [2c 6c 8d]
+Seat 1: NaorisG collected ($9.05), mucked
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) folded on the Flop
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) folded on the Flop
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831975704: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:19:35 ET - 2007/02/19
+Seat 1: NaorisG ($83.80)
+Seat 2: birdriver ($98.15)
+Seat 3: Dukefolds ($71.20)
+Seat 4: mizdflop ($98.85)
+Seat 5: pokr_playa21 ($102.30)
+Seat 6: bjohns777 ($91.45)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [2h 9s]
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $0.50
+bjohns777 checks
+*** FLOP *** [Ac Jd 4d]
+pokr_playa21 checks
+bjohns777 bets $1
+pokr_playa21 folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [Ac Jd 4d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded on the Flop
+Seat 6: bjohns777 (big blind) collected ($1.90), mucked
+
+
+
+Full Tilt Poker Game #1831978436: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:19:58 ET - 2007/02/19
+Seat 1: NaorisG ($83.80)
+Seat 2: birdriver ($98.15)
+Seat 3: Dukefolds ($71.20)
+Seat 4: mizdflop ($98.85)
+Seat 5: pokr_playa21 ($101.30)
+Seat 6: bjohns777 ($92.35)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Js 4s]
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+bjohns777 calls $0.50
+NaorisG checks
+*** FLOP *** [Qs 5c As]
+bjohns777 bets $1
+NaorisG calls $1
+*** TURN *** [Qs 5c As] [4c]
+bjohns777 bets $2
+NaorisG calls $2
+*** RIVER *** [Qs 5c As 4c] [5h]
+bjohns777 bets $4
+NaorisG calls $4
+*** SHOW DOWN ***
+bjohns777 shows [4h 4d] (a full house, Fours full of Fives)
+NaorisG mucks
+bjohns777 wins the pot ($15.20) with a full house, Fours full of Fives
+*** SUMMARY ***
+Total pot $16 | Rake $0.80
+Board: [Qs 5c As 4c 5h]
+Seat 1: NaorisG (big blind) mucked [Qc 8d] - two pair, Queens and Fives
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: bjohns777 (small blind) showed [4h 4d] and won ($15.20) with a full house, Fours full of Fives
+
+
+
+Full Tilt Poker Game #1831984580: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:20:51 ET - 2007/02/19
+Seat 1: NaorisG ($75.80)
+Seat 2: birdriver ($98.15)
+Seat 3: Dukefolds ($71.20)
+Seat 4: mizdflop ($98.85)
+Seat 5: pokr_playa21 ($101.30)
+Seat 6: bjohns777 ($99.55)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Tc Ad]
+Dukefolds folds
+NaorisG: why do kids suck out on the turn all day today
+mizdflop raises to $3.50
+pokr_playa21 folds
+bjohns777 folds
+NaorisG: jesus christ
+NaorisG folds
+birdriver folds
+Uncalled bet of $2.50 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (small blind) folded before the Flop
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop collected ($2.50), mucked
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831987229: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:21:12 ET - 2007/02/19
+Seat 1: NaorisG ($75.30)
+Seat 2: birdriver ($97.15)
+Seat 3: Dukefolds ($71.20)
+Seat 4: mizdflop ($100.35)
+Seat 5: pokr_playa21 ($101.30)
+Seat 6: bjohns777 ($99.55)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [3d 6h]
+mizdflop folds
+pokr_playa21 folds
+bjohns777 folds
+NaorisG calls $1
+birdriver calls $0.50
+Dukefolds checks
+*** FLOP *** [4s As 5h]
+birdriver checks
+Dukefolds checks
+NaorisG bets $1
+birdriver folds
+Dukefolds folds
+Uncalled bet of $1 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [4s As 5h]
+Seat 1: NaorisG (button) collected ($2.85), mucked
+Seat 2: birdriver (small blind) folded on the Flop
+Seat 3: Dukefolds (big blind) folded on the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831990902: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:21:42 ET - 2007/02/19
+Seat 1: NaorisG ($77.15)
+Seat 2: birdriver ($96.15)
+Seat 3: Dukefolds ($70.20)
+Seat 4: mizdflop ($100.35)
+Seat 5: pokr_playa21 ($101.30)
+Seat 6: bjohns777 ($99.55)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Ac Qc]
+pokr_playa21 folds
+bjohns777 folds
+NaorisG raises to $3.50
+birdriver calls $3.50
+Dukefolds folds
+mizdflop calls $2.50
+*** FLOP *** [5d 8h 7s]
+mizdflop checks
+NaorisG bets $7
+birdriver calls $7
+mizdflop folds
+*** TURN *** [5d 8h 7s] [4c]
+NaorisG checks
+birdriver checks
+*** RIVER *** [5d 8h 7s 4c] [Kd]
+NaorisG checks
+birdriver checks
+*** SHOW DOWN ***
+NaorisG shows [As Qs] (Ace King high)
+birdriver shows [Js Jc] (a pair of Jacks)
+birdriver wins the pot ($23.75) with a pair of Jacks
+*** SUMMARY ***
+Total pot $25 | Rake $1.25
+Board: [5d 8h 7s 4c Kd]
+Seat 1: NaorisG showed [As Qs] and lost with Ace King high
+Seat 2: birdriver (button) showed [Js Jc] and won ($23.75) with a pair of Jacks
+Seat 3: Dukefolds (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) folded on the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1831997932: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:22:41 ET - 2007/02/19
+Seat 1: NaorisG ($66.65)
+Seat 2: birdriver ($109.40)
+Seat 3: Dukefolds ($69.70)
+Seat 4: mizdflop ($96.85)
+Seat 5: pokr_playa21 ($101.30)
+Seat 6: bjohns777 ($99.55)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [6c 7d]
+bjohns777 folds
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [2h Jh 6d]
+mizdflop bets $2
+pokr_playa21 folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [2h Jh 6d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) collected ($1.90), mucked
+Seat 5: pokr_playa21 (big blind) folded on the Flop
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832001518: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:23:11 ET - 2007/02/19
+Seat 1: NaorisG ($66.65)
+Seat 2: birdriver ($109.40)
+Seat 3: Dukefolds ($69.70)
+Seat 4: mizdflop ($97.75)
+Seat 5: pokr_playa21 ($100.30)
+Seat 6: bjohns777 ($99.55)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [Ks 2c]
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $0.50
+bjohns777 checks
+*** FLOP *** [3s 4h 8s]
+pokr_playa21 checks
+bjohns777 checks
+*** TURN *** [3s 4h 8s] [Qh]
+pokr_playa21 checks
+bjohns777 checks
+*** RIVER *** [3s 4h 8s Qh] [Tc]
+pokr_playa21 checks
+bjohns777 bets $1
+pokr_playa21 folds
+Uncalled bet of $1 returned to bjohns777
+bjohns777 mucks
+bjohns777 wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [3s 4h 8s Qh Tc]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded on the River
+Seat 6: bjohns777 (big blind) collected ($1.90), mucked
+
+
+
+Full Tilt Poker Game #1832006270: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:23:52 ET - 2007/02/19
+Seat 1: NaorisG ($66.65)
+Seat 2: birdriver ($109.40)
+Seat 3: Dukefolds ($69.70)
+Seat 4: mizdflop ($97.75)
+Seat 5: pokr_playa21 ($99.30)
+Seat 6: bjohns777 ($100.45)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [3s Td]
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $3.50
+bjohns777 folds
+NaorisG calls $2.50
+*** FLOP *** [8s Qs Th]
+NaorisG checks
+pokr_playa21 bets $5
+NaorisG folds
+Uncalled bet of $5 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($7.15)
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35
+Board: [8s Qs Th]
+Seat 1: NaorisG (big blind) folded on the Flop
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) collected ($7.15), mucked
+Seat 6: bjohns777 (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832010556: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:24:28 ET - 2007/02/19
+Seat 1: NaorisG ($63.15)
+Seat 2: birdriver ($109.40)
+Seat 3: Dukefolds ($69.70)
+Seat 4: mizdflop ($97.75)
+Seat 5: pokr_playa21 ($102.95)
+Seat 6: bjohns777 ($99.95)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [3d Kc]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $3.50
+bjohns777 folds
+NaorisG folds
+birdriver folds
+Uncalled bet of $2.50 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (small blind) folded before the Flop
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 collected ($2.50), mucked
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832012614: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:24:45 ET - 2007/02/19
+Seat 1: NaorisG ($62.65)
+Seat 2: birdriver ($108.40)
+Seat 3: Dukefolds ($69.70)
+Seat 4: mizdflop ($97.75)
+Seat 5: pokr_playa21 ($104.45)
+Seat 6: bjohns777 ($99.95)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Jd Kd]
+mizdflop raises to $3.50
+pokr_playa21 folds
+bjohns777 calls $3.50
+NaorisG folds
+birdriver folds
+Dukefolds calls $2.50
+*** FLOP *** [4d Ts 4c]
+Dukefolds checks
+mizdflop checks
+bjohns777 checks
+*** TURN *** [4d Ts 4c] [8d]
+Dukefolds checks
+mizdflop bets $7
+bjohns777 folds
+Dukefolds folds
+Uncalled bet of $7 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($10.45)
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board: [4d Ts 4c 8d]
+Seat 1: NaorisG (button) didn't bet (folded)
+Seat 2: birdriver (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded on the Turn
+Seat 4: mizdflop collected ($10.45), mucked
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 folded on the Turn
+
+
+
+Full Tilt Poker Game #1832017744: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:25:28 ET - 2007/02/19
+Seat 1: NaorisG ($62.65)
+Seat 2: birdriver ($107.90)
+Seat 3: Dukefolds ($66.20)
+Seat 4: mizdflop ($104.70)
+Seat 5: pokr_playa21 ($104.45)
+Seat 6: bjohns777 ($96.45)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [9d Qs]
+pokr_playa21 folds
+bjohns777 calls $1
+NaorisG calls $1
+birdriver folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [Tc Ad Kh]
+Dukefolds checks
+mizdflop checks
+bjohns777 bets $1
+NaorisG folds
+Dukefolds calls $1
+mizdflop folds
+*** TURN *** [Tc Ad Kh] [8c]
+Dukefolds checks
+bjohns777 bets $1
+Dukefolds calls $1
+*** RIVER *** [Tc Ad Kh 8c] [7d]
+Dukefolds checks
+bjohns777 checks
+*** SHOW DOWN ***
+bjohns777 shows [Kd 9c] (a pair of Kings)
+Dukefolds mucks
+bjohns777 wins the pot ($7.60) with a pair of Kings
+*** SUMMARY ***
+Total pot $8 | Rake $0.40
+Board: [Tc Ad Kh 8c 7d]
+Seat 1: NaorisG folded on the Flop
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) mucked [4h Qc] - Ace King high
+Seat 4: mizdflop (big blind) folded on the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 showed [Kd 9c] and won ($7.60) with a pair of Kings
+
+
+
+Full Tilt Poker Game #1832023227: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:26:13 ET - 2007/02/19
+Seat 1: NaorisG ($61.65)
+Seat 2: birdriver ($107.90)
+Seat 3: Dukefolds ($63.20)
+Seat 4: mizdflop ($103.70)
+Seat 5: pokr_playa21 ($104.45)
+Seat 6: bjohns777 ($101.05)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [7c 6d]
+bjohns777 folds
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [4d 2s 7h]
+mizdflop bets $2
+pokr_playa21 calls $2
+*** TURN *** [4d 2s 7h] [Ks]
+mizdflop checks
+pokr_playa21 checks
+*** RIVER *** [4d 2s 7h Ks] [5c]
+mizdflop checks
+pokr_playa21 checks
+*** SHOW DOWN ***
+mizdflop shows [7c 6d] (a pair of Sevens)
+pokr_playa21 mucks
+mizdflop wins the pot ($5.70) with a pair of Sevens
+*** SUMMARY ***
+Total pot $6 | Rake $0.30
+Board: [4d 2s 7h Ks 5c]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) showed [7c 6d] and won ($5.70) with a pair of Sevens
+Seat 5: pokr_playa21 (big blind) mucked [8d 4c] - a pair of Fours
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832027796: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:26:50 ET - 2007/02/19
+Seat 1: NaorisG ($61.65)
+Seat 2: birdriver ($107.90)
+Seat 3: Dukefolds ($63.20)
+Seat 4: mizdflop ($106.40)
+Seat 5: pokr_playa21 ($101.45)
+Seat 6: bjohns777 ($101.05)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [5s 4s]
+NaorisG raises to $3.50
+birdriver calls $3.50
+Dukefolds folds
+mizdflop calls $3.50
+pokr_playa21 folds
+bjohns777 folds
+*** FLOP *** [Tc 6h 2h]
+NaorisG bets $8
+birdriver folds
+mizdflop has 15 seconds left to act
+mizdflop folds
+Uncalled bet of $8 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($11.40)
+*** SUMMARY ***
+Total pot $12 | Rake $0.60
+Board: [Tc 6h 2h]
+Seat 1: NaorisG collected ($11.40), mucked
+Seat 2: birdriver folded on the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) folded on the Flop
+Seat 5: pokr_playa21 (small blind) folded before the Flop
+Seat 6: bjohns777 (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832033642: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:27:39 ET - 2007/02/19
+Seat 1: NaorisG ($69.55)
+Seat 2: birdriver ($104.40)
+Seat 3: Dukefolds ($63.20)
+Seat 4: mizdflop ($102.90)
+Seat 5: pokr_playa21 ($100.95)
+Seat 6: bjohns777 ($100.05)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [2s Ts]
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $3.50
+bjohns777 folds
+NaorisG calls $2.50
+*** FLOP *** [5c 2c 8h]
+NaorisG bets $4
+pokr_playa21 calls $4
+*** TURN *** [5c 2c 8h] [3d]
+NaorisG bets $10
+pokr_playa21 calls $10
+*** RIVER *** [5c 2c 8h 3d] [Kd]
+NaorisG checks
+pokr_playa21 bets $27
+NaorisG calls $27
+*** SHOW DOWN ***
+pokr_playa21 shows [4h 7h] (King Eight high)
+NaorisG shows [8d 7c] (a pair of Eights)
+NaorisG wins the pot ($86.50) with a pair of Eights
+*** SUMMARY ***
+Total pot $89.50 | Rake $3
+Board: [5c 2c 8h 3d Kd]
+Seat 1: NaorisG (big blind) showed [8d 7c] and won ($86.50) with a pair of Eights
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) showed [4h 7h] and lost with King Eight high
+Seat 6: bjohns777 (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832041544: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:28:45 ET - 2007/02/19
+Seat 1: NaorisG ($111.55)
+Seat 2: birdriver ($104.40)
+Seat 3: Dukefolds ($63.20)
+Seat 4: mizdflop ($102.90)
+Seat 5: pokr_playa21 ($56.45)
+Seat 6: bjohns777 ($99.55)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Kh Qh]
+Dukefolds folds
+mizdflop raises to $3.50
+pokr_playa21 calls $3.50
+bjohns777 folds
+NaorisG calls $3
+birdriver folds
+*** FLOP *** [2s 4d Th]
+NaorisG checks
+mizdflop bets $11.50
+pokr_playa21 raises to $52.95, and is all in
+NaorisG folds
+mizdflop folds
+Uncalled bet of $41.45 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($32.80)
+pokr_playa21 adds $25.75
+*** SUMMARY ***
+Total pot $34.50 | Rake $1.70
+Board: [2s 4d Th]
+Seat 1: NaorisG (small blind) folded on the Flop
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop folded on the Flop
+Seat 5: pokr_playa21 collected ($32.80), mucked
+Seat 6: bjohns777 (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832046216: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:29:23 ET - 2007/02/19
+Seat 1: NaorisG ($108.05)
+Seat 2: birdriver ($103.40)
+Seat 3: Dukefolds ($63.20)
+Seat 4: mizdflop ($87.90)
+Seat 5: pokr_playa21 ($100)
+Seat 6: bjohns777 ($99.55)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Ac 7c]
+mizdflop calls $1
+pokr_playa21 folds
+bjohns777 folds
+NaorisG folds
+birdriver calls $0.50
+Dukefolds checks
+*** FLOP *** [7h 9c 8s]
+birdriver bets $1
+Dukefolds calls $1
+mizdflop calls $1
+*** TURN *** [7h 9c 8s] [Td]
+birdriver bets $3
+Dukefolds calls $3
+mizdflop folds
+*** RIVER *** [7h 9c 8s Td] [Tc]
+birdriver bets $6
+Dukefolds calls $6
+*** SHOW DOWN ***
+birdriver shows [9h Js] (a straight, Jack high)
+Dukefolds mucks
+birdriver wins the pot ($22.80) with a straight, Jack high
+*** SUMMARY ***
+Total pot $24 | Rake $1.20
+Board: [7h 9c 8s Td Tc]
+Seat 1: NaorisG (button) didn't bet (folded)
+Seat 2: birdriver (small blind) showed [9h Js] and won ($22.80) with a straight, Jack high
+Seat 3: Dukefolds (big blind) mucked [4d 6h] - a straight, Ten high
+Seat 4: mizdflop folded on the Turn
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832051119: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:30:04 ET - 2007/02/19
+Seat 1: NaorisG ($108.05)
+Seat 2: birdriver ($115.20)
+Seat 3: Dukefolds ($52.20)
+Seat 4: mizdflop ($85.90)
+Seat 5: pokr_playa21 ($100)
+Seat 6: bjohns777 ($99.55)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [2h Kh]
+pokr_playa21 folds
+bjohns777 folds
+NaorisG folds
+birdriver calls $1
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [Ah 8d 9s]
+Dukefolds checks
+mizdflop checks
+birdriver checks
+*** TURN *** [Ah 8d 9s] [8h]
+Dukefolds checks
+mizdflop checks
+birdriver checks
+*** RIVER *** [Ah 8d 9s 8h] [9d]
+Dukefolds checks
+mizdflop checks
+birdriver checks
+*** SHOW DOWN ***
+Dukefolds shows [4d 7s] (two pair, Nines and Eights)
+mizdflop shows [2h Kh] (two pair, Nines and Eights)
+birdriver shows [Qs Th] (two pair, Nines and Eights)
+Dukefolds ties for the pot ($0.95) with two pair, Nines and Eights
+mizdflop ties for the pot ($0.95) with two pair, Nines and Eights
+birdriver ties for the pot ($0.95) with two pair, Nines and Eights
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [Ah 8d 9s 8h 9d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver (button) showed [Qs Th] and won ($0.95) with two pair, Nines and Eights
+Seat 3: Dukefolds (small blind) showed [4d 7s] and won ($0.95) with two pair, Nines and Eights
+Seat 4: mizdflop (big blind) showed [2h Kh] and won ($0.95) with two pair, Nines and Eights
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: bjohns777 didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832055591: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:30:41 ET - 2007/02/19
+Seat 1: NaorisG ($108.05)
+Seat 2: birdriver ($115.15)
+Seat 3: Dukefolds ($52.15)
+Seat 4: mizdflop ($85.85)
+Seat 5: pokr_playa21 ($100)
+Seat 6: bjohns777 ($99.55)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Ah 8c]
+bjohns777 calls $1
+NaorisG raises to $3
+birdriver calls $3
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $2
+bjohns777 calls $2
+*** FLOP *** [3h 7h Kd]
+pokr_playa21 checks
+bjohns777 checks
+NaorisG bets $10
+birdriver folds
+pokr_playa21 folds
+bjohns777 folds
+Uncalled bet of $10 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($11.90)
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.60
+Board: [3h 7h Kd]
+Seat 1: NaorisG collected ($11.90), mucked
+Seat 2: birdriver folded on the Flop
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) folded on the Flop
+Seat 6: bjohns777 folded on the Flop
+
+
+
+Full Tilt Poker Game #1832061561: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:31:31 ET - 2007/02/19
+Seat 1: NaorisG ($116.95)
+Seat 2: birdriver ($112.15)
+Seat 3: Dukefolds ($52.15)
+Seat 4: mizdflop ($85.35)
+Seat 5: pokr_playa21 ($97)
+Seat 6: bjohns777 ($96.55)
+pokr_playa21 posts the small blind of $0.50
+bjohns777 posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [6c 2s]
+NaorisG folds
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $3
+bjohns777 folds
+Uncalled bet of $2 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) collected ($2), mucked
+Seat 6: bjohns777 (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832064128: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:31:52 ET - 2007/02/19
+Seat 1: NaorisG ($116.95)
+Seat 2: birdriver ($112.15)
+Seat 3: Dukefolds ($52.15)
+Seat 4: mizdflop ($85.35)
+Seat 5: pokr_playa21 ($98)
+Seat 6: bjohns777 ($95.55)
+bjohns777 posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Tc Jh]
+birdriver raises to $3
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $3
+bjohns777 raises to $5
+NaorisG folds
+birdriver calls $2
+pokr_playa21 calls $2
+*** FLOP *** [Ts 3h 8c]
+bjohns777 bets $7
+birdriver folds
+pokr_playa21 calls $7
+*** TURN *** [Ts 3h 8c] [6h]
+bjohns777 bets $17
+pokr_playa21 raises to $41
+bjohns777 calls $24
+*** RIVER *** [Ts 3h 8c 6h] [5h]
+bjohns777 checks
+pokr_playa21 bets $45, and is all in
+bjohns777 calls $42.55, and is all in
+Uncalled bet of $2.45 returned to pokr_playa21
+*** SHOW DOWN ***
+pokr_playa21 shows [8h 8d] (three of a kind, Eights)
+bjohns777 mucks
+pokr_playa21 wins the pot ($194.10) with three of a kind, Eights
+bjohns777 is sitting out
+*** SUMMARY ***
+Total pot $197.10 | Rake $3
+Board: [Ts 3h 8c 6h 5h]
+Seat 1: NaorisG (big blind) folded before the Flop
+Seat 2: birdriver folded on the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) showed [8h 8d] and won ($194.10) with three of a kind, Eights
+Seat 6: bjohns777 (small blind) mucked [Ah Ad] - a pair of Aces
+
+
+
+Full Tilt Poker Game #1832072048: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:32:59 ET - 2007/02/19
+Seat 1: NaorisG ($115.95)
+Seat 2: birdriver ($107.15)
+Seat 3: Dukefolds ($52.15)
+Seat 4: mizdflop ($85.35)
+Seat 5: pokr_playa21 ($196.55)
+Seat 6: bjohns777 ($0), is sitting out
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Jc 4h]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 raises to $3.50
+NaorisG calls $3
+birdriver folds
+*** FLOP *** [Js 6h 5s]
+bjohns777 stands up
+NaorisG checks
+PaisaTamasha sits down
+pokr_playa21 bets $4
+PaisaTamasha adds $100
+NaorisG folds
+Uncalled bet of $4 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($7.60)
+*** SUMMARY ***
+Total pot $8 | Rake $0.40
+Board: [Js 6h 5s]
+Seat 1: NaorisG (small blind) folded on the Flop
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 collected ($7.60), mucked
+Seat 6: bjohns777 (button) is sitting out
+
+
+
+Full Tilt Poker Game #1832076900: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:33:39 ET - 2007/02/19
+Seat 1: NaorisG ($112.45)
+Seat 2: birdriver ($106.15)
+Seat 3: Dukefolds ($52.15)
+Seat 4: mizdflop ($85.35)
+Seat 5: pokr_playa21 ($200.65)
+Seat 6: PaisaTamasha ($100)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Qd 8s]
+mizdflop folds
+pokr_playa21 folds
+NaorisG raises to $3
+birdriver folds
+Dukefolds folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (button) collected ($2.50), mucked
+Seat 2: birdriver (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha is sitting out
+
+
+
+Full Tilt Poker Game #1832079990: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:34:05 ET - 2007/02/19
+Seat 1: NaorisG ($113.95)
+Seat 2: birdriver ($105.65)
+Seat 3: Dukefolds ($51.15)
+Seat 4: mizdflop ($85.35)
+Seat 5: pokr_playa21 ($200.65)
+Seat 6: PaisaTamasha ($100)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Qc 9s]
+pokr_playa21 folds
+NaorisG folds
+birdriver folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [8c 5d 8s]
+Dukefolds checks
+mizdflop checks
+*** TURN *** [8c 5d 8s] [Jd]
+Dukefolds checks
+mizdflop checks
+*** RIVER *** [8c 5d 8s Jd] [9d]
+Dukefolds checks
+mizdflop checks
+*** SHOW DOWN ***
+Dukefolds shows [4s 4c] (two pair, Eights and Fours)
+mizdflop shows [Qc 9s] (two pair, Nines and Eights)
+mizdflop wins the pot ($1.90) with two pair, Nines and Eights
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [8c 5d 8s Jd 9d]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) showed [4s 4c] and lost with two pair, Eights and Fours
+Seat 4: mizdflop (big blind) showed [Qc 9s] and won ($1.90) with two pair, Nines and Eights
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha is sitting out
+
+
+
+Full Tilt Poker Game #1832084673: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:34:44 ET - 2007/02/19
+Seat 1: NaorisG ($113.95)
+Seat 2: birdriver ($105.65)
+Seat 3: Dukefolds ($50.15)
+Seat 4: mizdflop ($86.25)
+Seat 5: pokr_playa21 ($200.65)
+Seat 6: PaisaTamasha ($100)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [6h Qs]
+NaorisG raises to $3
+birdriver folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG collected ($2.50), mucked
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) folded before the Flop
+Seat 6: PaisaTamasha is sitting out
+
+
+
+Full Tilt Poker Game #1832086406: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:34:58 ET - 2007/02/19
+Seat 1: NaorisG ($115.45)
+Seat 2: birdriver ($105.65)
+Seat 3: Dukefolds ($50.15)
+Seat 4: mizdflop ($85.75)
+Seat 5: pokr_playa21 ($199.65)
+Seat 6: PaisaTamasha ($100)
+pokr_playa21 posts the small blind of $0.50
+PaisaTamasha posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [3d Ah]
+NaorisG folds
+birdriver raises to $3
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha folds
+Uncalled bet of $2 returned to birdriver
+birdriver mucks
+birdriver wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver collected ($2.50), mucked
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded before the Flop
+Seat 6: PaisaTamasha (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832089216: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:35:22 ET - 2007/02/19
+Seat 1: NaorisG ($115.45)
+Seat 2: birdriver ($107.15)
+Seat 3: Dukefolds ($50.15)
+Seat 4: mizdflop ($85.75)
+Seat 5: pokr_playa21 ($199.15)
+Seat 6: PaisaTamasha ($99)
+PaisaTamasha posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [2s 9d]
+birdriver folds
+Dukefolds raises to $3.50
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha folds
+NaorisG calls $2.50
+*** FLOP *** [Jc Qc 9s]
+NaorisG bets $5
+Dukefolds raises to $20
+NaorisG folds
+Uncalled bet of $15 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($16.65)
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.85
+Board: [Jc Qc 9s]
+Seat 1: NaorisG (big blind) folded on the Flop
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds collected ($16.65), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: PaisaTamasha (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832094762: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:36:08 ET - 2007/02/19
+Seat 1: NaorisG ($106.95)
+Seat 2: birdriver ($107.15)
+Seat 3: Dukefolds ($58.30)
+Seat 4: mizdflop ($85.75)
+Seat 5: pokr_playa21 ($199.15)
+Seat 6: PaisaTamasha ($98.50)
+NaorisG posts the small blind of $0.50
+birdriver posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Kc Qs]
+Dukefolds calls $1
+mizdflop raises to $4.50
+pokr_playa21 folds
+PaisaTamasha folds
+NaorisG folds
+birdriver folds
+Dukefolds calls $3.50
+*** FLOP *** [9s 7c 4s]
+Dukefolds checks
+mizdflop checks
+*** TURN *** [9s 7c 4s] [3c]
+Dukefolds checks
+mizdflop checks
+*** RIVER *** [9s 7c 4s 3c] [Jc]
+Dukefolds bets $5
+mizdflop folds
+Uncalled bet of $5 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($10)
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50
+Board: [9s 7c 4s 3c Jc]
+Seat 1: NaorisG (small blind) folded before the Flop
+Seat 2: birdriver (big blind) folded before the Flop
+Seat 3: Dukefolds collected ($10), mucked
+Seat 4: mizdflop folded on the River
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832100218: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:36:53 ET - 2007/02/19
+Seat 1: NaorisG ($106.45)
+Seat 2: birdriver ($106.15)
+Seat 3: Dukefolds ($63.80)
+Seat 4: mizdflop ($81.25)
+Seat 5: pokr_playa21 ($199.15)
+Seat 6: PaisaTamasha ($98.50)
+birdriver posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [8h Qs]
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha folds
+NaorisG raises to $3
+birdriver folds
+Dukefolds folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (button) collected ($2.50), mucked
+Seat 2: birdriver (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832102366: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:37:10 ET - 2007/02/19
+Seat 1: NaorisG ($107.95)
+Seat 2: birdriver ($105.65)
+Seat 3: Dukefolds ($62.80)
+Seat 4: mizdflop ($81.25)
+Seat 5: pokr_playa21 ($199.15)
+Seat 6: PaisaTamasha ($98.50)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Jh 4s]
+pokr_playa21 folds
+PaisaTamasha raises to $3
+NaorisG folds
+birdriver folds
+Dukefolds calls $2.50
+mizdflop folds
+*** FLOP *** [Qd Ks 8c]
+Dukefolds checks
+PaisaTamasha bets $5
+Dukefolds folds
+Uncalled bet of $5 returned to PaisaTamasha
+PaisaTamasha mucks
+PaisaTamasha wins the pot ($6.65)
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [Qd Ks 8c]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded on the Flop
+Seat 4: mizdflop (big blind) folded before the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha collected ($6.65), mucked
+
+
+
+Full Tilt Poker Game #1832105841: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:37:39 ET - 2007/02/19
+Seat 1: NaorisG ($107.95)
+Seat 2: birdriver ($105.65)
+Seat 3: Dukefolds ($59.80)
+Seat 4: mizdflop ($80.25)
+Seat 5: pokr_playa21 ($199.15)
+Seat 6: PaisaTamasha ($102.15)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [5c 2c]
+PaisaTamasha folds
+NaorisG folds
+birdriver folds
+Dukefolds folds
+birdriver is sitting out
+mizdflop calls $0.50
+pokr_playa21 checks
+*** FLOP *** [6d 8c 5h]
+birdriver stands up
+mizdflop checks
+pokr_playa21 checks
+*** TURN *** [6d 8c 5h] [3c]
+mizdflop bets $2
+pokr_playa21 folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($1.90)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [6d 8c 5h 3c]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: birdriver didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) collected ($1.90), mucked
+Seat 5: pokr_playa21 (big blind) folded on the Turn
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832111516: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:38:26 ET - 2007/02/19
+Seat 1: NaorisG ($107.95)
+Seat 3: Dukefolds ($59.80)
+Seat 4: mizdflop ($81.15)
+Seat 5: pokr_playa21 ($198.15)
+Seat 6: PaisaTamasha ($102.15)
+pokr_playa21 posts the small blind of $0.50
+zolih adds $40
+PaisaTamasha posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [7c 4c]
+zolih adds $60
+NaorisG raises to $3
+Dukefolds folds
+mizdflop calls $3
+pokr_playa21 folds
+PaisaTamasha calls $2
+*** FLOP *** [Qs Qc Ts]
+PaisaTamasha checks
+NaorisG bets $7
+mizdflop folds
+PaisaTamasha calls $7
+*** TURN *** [Qs Qc Ts] [Kd]
+PaisaTamasha checks
+NaorisG checks
+*** RIVER *** [Qs Qc Ts Kd] [Td]
+PaisaTamasha bets $17
+NaorisG raises to $50
+PaisaTamasha has 15 seconds left to act
+NaorisG: ur straigt
+NaorisG: no good
+PaisaTamasha calls $33
+*** SHOW DOWN ***
+NaorisG shows [Ks Qh] (a full house, Queens full of Kings)
+PaisaTamasha mucks
+NaorisG wins the pot ($120.50) with a full house, Queens full of Kings
+*** SUMMARY ***
+Total pot $123.50 | Rake $3
+Board: [Qs Qc Ts Kd Td]
+Seat 1: NaorisG showed [Ks Qh] and won ($120.50) with a full house, Queens full of Kings
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) folded on the Flop
+Seat 5: pokr_playa21 (small blind) folded before the Flop
+Seat 6: PaisaTamasha (big blind) mucked [Ad Js] - a straight, Ace high
+
+
+
+Full Tilt Poker Game #1832120678: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:39:42 ET - 2007/02/19
+Seat 1: NaorisG ($168.45)
+Seat 2: zolih ($100)
+Seat 3: Dukefolds ($59.80)
+Seat 4: mizdflop ($78.15)
+Seat 5: pokr_playa21 ($197.65)
+Seat 6: PaisaTamasha ($42.15)
+PaisaTamasha posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [7d Tc]
+Dukefolds calls $1
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha calls $0.50
+NaorisG checks
+*** FLOP *** [Kc 2c 8h]
+PaisaTamasha checks
+NaorisG checks
+Dukefolds bets $2
+PaisaTamasha folds
+NaorisG folds
+Uncalled bet of $2 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [Kc 2c 8h]
+Seat 1: NaorisG (big blind) folded on the Flop
+Seat 2: zolih is sitting out
+Seat 3: Dukefolds collected ($2.85), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: PaisaTamasha (small blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #1832125855: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:40:25 ET - 2007/02/19
+Seat 1: NaorisG ($167.45)
+Seat 2: zolih ($100)
+Seat 3: Dukefolds ($61.65)
+Seat 4: mizdflop ($78.15)
+Seat 5: pokr_playa21 ($197.65)
+Seat 6: PaisaTamasha ($41.15)
+NaorisG posts the small blind of $0.50
+zolih posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Qh Td]
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha raises to $3
+NaorisG folds
+zolih folds
+Uncalled bet of $2 returned to PaisaTamasha
+PaisaTamasha mucks
+PaisaTamasha wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (small blind) folded before the Flop
+Seat 2: zolih (big blind) folded before the Flop
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha (button) collected ($2.50), mucked
+
+
+
+Full Tilt Poker Game #1832128977: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:40:52 ET - 2007/02/19
+Seat 1: NaorisG ($166.95)
+Seat 2: zolih ($99)
+Seat 3: Dukefolds ($61.65)
+Seat 4: mizdflop ($78.15)
+Seat 5: pokr_playa21 ($197.65)
+Seat 6: PaisaTamasha ($42.65)
+zolih posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Jc 8c]
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha raises to $3
+NaorisG calls $3
+zolih folds
+Dukefolds folds
+*** FLOP *** [Ad Jh Jd]
+PaisaTamasha checks
+NaorisG checks
+*** TURN *** [Ad Jh Jd] [3h]
+PaisaTamasha bets $5
+NaorisG raises to $15
+PaisaTamasha folds
+Uncalled bet of $10 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($16.65)
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.85
+Board: [Ad Jh Jd 3h]
+Seat 1: NaorisG (button) collected ($16.65), mucked
+Seat 2: zolih (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha folded on the Turn
+
+
+
+Full Tilt Poker Game #1832136164: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:41:48 ET - 2007/02/19
+Seat 1: NaorisG ($175.60)
+Seat 2: zolih ($98.50)
+Seat 3: Dukefolds ($60.65)
+Seat 4: mizdflop ($78.15)
+Seat 5: pokr_playa21 ($197.65)
+Seat 6: PaisaTamasha ($34.65)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [Jc 9s]
+pokr_playa21 folds
+PaisaTamasha calls $1
+NaorisG folds
+zolih folds
+Dukefolds calls $0.50
+mizdflop checks
+*** FLOP *** [Qc Ks 5h]
+NaorisG: j10 was good right?
+Dukefolds checks
+mizdflop checks
+PaisaTamasha bets $2
+Dukefolds calls $2
+mizdflop folds
+*** TURN *** [Qc Ks 5h] [2c]
+Dukefolds checks
+PaisaTamasha bets $5
+Dukefolds calls $5
+*** RIVER *** [Qc Ks 5h 2c] [As]
+Dukefolds checks
+PaisaTamasha has 15 seconds left to act
+PaisaTamasha bets $26.65, and is all in
+Dukefolds calls $26.65
+*** SHOW DOWN ***
+PaisaTamasha shows [5c 5s] (three of a kind, Fives)
+Dukefolds mucks
+PaisaTamasha wins the pot ($67.30) with three of a kind, Fives
+*** SUMMARY ***
+Total pot $70.30 | Rake $3
+Board: [Qc Ks 5h 2c As]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: zolih (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) mucked [5d 2d] - two pair, Fives and Twos
+Seat 4: mizdflop (big blind) folded on the Flop
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha showed [5c 5s] and won ($67.30) with three of a kind, Fives
+
+
+
+Full Tilt Poker Game #1832145548: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:43:04 ET - 2007/02/19
+Seat 1: NaorisG ($175.60)
+Seat 2: zolih ($98.50)
+Seat 3: Dukefolds ($26)
+Seat 4: mizdflop ($77.15)
+Seat 5: pokr_playa21 ($197.65)
+Seat 6: PaisaTamasha ($67.30)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [Ts Ac]
+PaisaTamasha folds
+NaorisG raises to $3
+zolih folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG collected ($2.50), mucked
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) folded before the Flop
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832148756: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:43:29 ET - 2007/02/19
+Seat 1: NaorisG ($177.10)
+Seat 2: zolih ($98.50)
+Seat 3: Dukefolds ($26)
+Seat 4: mizdflop ($76.65)
+Seat 5: pokr_playa21 ($196.65)
+Seat 6: PaisaTamasha ($67.30)
+pokr_playa21 posts the small blind of $0.50
+PaisaTamasha posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [5h 2s]
+NaorisG calls $1
+zolih folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 calls $0.50
+PaisaTamasha checks
+*** FLOP *** [6c 9d Qc]
+pokr_playa21 checks
+PaisaTamasha checks
+NaorisG checks
+*** TURN *** [6c 9d Qc] [As]
+pokr_playa21 checks
+PaisaTamasha checks
+NaorisG bets $2
+pokr_playa21 folds
+PaisaTamasha folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [6c 9d Qc As]
+Seat 1: NaorisG collected ($2.85), mucked
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) didn't bet (folded)
+Seat 5: pokr_playa21 (small blind) folded on the Turn
+Seat 6: PaisaTamasha (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #1832155590: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:44:24 ET - 2007/02/19
+Seat 1: NaorisG ($178.95)
+Seat 2: zolih ($98.50)
+Seat 3: Dukefolds ($26)
+Seat 4: mizdflop ($76.65)
+Seat 5: pokr_playa21 ($195.65)
+Seat 6: PaisaTamasha ($66.30)
+PaisaTamasha posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [6c 8s]
+zolih folds
+Dukefolds raises to $3.50
+mizdflop folds
+pokr_playa21 calls $3.50
+PaisaTamasha folds
+NaorisG folds
+*** FLOP *** [As 3h 9c]
+Dukefolds checks
+pokr_playa21 checks
+*** TURN *** [As 3h 9c] [Ah]
+Dukefolds checks
+pokr_playa21 bets $4
+Dukefolds calls $4
+*** RIVER *** [As 3h 9c Ah] [8d]
+Dukefolds bets $16.50
+pokr_playa21 folds
+Uncalled bet of $16.50 returned to Dukefolds
+Dukefolds mucks
+Dukefolds wins the pot ($15.70)
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.80
+Board: [As 3h 9c Ah 8d]
+Seat 1: NaorisG (big blind) folded before the Flop
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds collected ($15.70), mucked
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) folded on the River
+Seat 6: PaisaTamasha (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #1832161198: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:45:08 ET - 2007/02/19
+Seat 1: NaorisG ($177.95)
+Seat 2: zolih ($98.50)
+Seat 3: Dukefolds ($34.20)
+Seat 4: mizdflop ($76.65)
+Seat 5: pokr_playa21 ($188.15)
+Seat 6: PaisaTamasha ($65.80)
+NaorisG posts the small blind of $0.50
+zolih posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to mizdflop [Ah 3h]
+Dukefolds calls $1
+mizdflop calls $1
+pokr_playa21 folds
+PaisaTamasha calls $1
+NaorisG calls $0.50
+zolih checks
+*** FLOP *** [Ks 5h Th]
+NaorisG checks
+zolih checks
+Dukefolds checks
+mizdflop checks
+PaisaTamasha checks
+*** TURN *** [Ks 5h Th] [Kc]
+NaorisG bets $3
+zolih folds
+Dukefolds folds
+mizdflop folds
+PaisaTamasha folds
+Uncalled bet of $3 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($4.75)
+*** SUMMARY ***
+Total pot $5 | Rake $0.25
+Board: [Ks 5h Th Kc]
+Seat 1: NaorisG (small blind) collected ($4.75), mucked
+Seat 2: zolih (big blind) folded on the Turn
+Seat 3: Dukefolds folded on the Turn
+Seat 4: mizdflop folded on the Turn
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha (button) folded on the Turn
+
+
+
+Full Tilt Poker Game #1832167760: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:46:00 ET - 2007/02/19
+Seat 1: NaorisG ($181.70)
+Seat 2: zolih ($97.50)
+Seat 3: Dukefolds ($33.20)
+Seat 4: mizdflop ($75.65)
+Seat 5: pokr_playa21 ($188.15)
+Seat 6: PaisaTamasha ($64.80)
+zolih posts the small blind of $0.50
+Dukefolds posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [7h Tc]
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha folds
+NaorisG raises to $3
+zolih folds
+Dukefolds folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG (button) collected ($2.50), mucked
+Seat 2: zolih (small blind) folded before the Flop
+Seat 3: Dukefolds (big blind) folded before the Flop
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832170170: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:46:19 ET - 2007/02/19
+Seat 1: NaorisG ($183.20)
+Seat 2: zolih ($97)
+Seat 3: Dukefolds ($32.20)
+Seat 4: mizdflop ($75.65)
+Seat 5: pokr_playa21 ($188.15)
+Seat 6: PaisaTamasha ($64.80)
+Dukefolds posts the small blind of $0.50
+mizdflop posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to mizdflop [As Jh]
+pokr_playa21 folds
+PaisaTamasha folds
+NaorisG folds
+zolih folds
+Dukefolds calls $0.50
+mizdflop raises to $3
+Dukefolds folds
+Uncalled bet of $2 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: zolih (button) didn't bet (folded)
+Seat 3: Dukefolds (small blind) folded before the Flop
+Seat 4: mizdflop (big blind) collected ($2), mucked
+Seat 5: pokr_playa21 didn't bet (folded)
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832173068: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:46:42 ET - 2007/02/19
+Seat 1: NaorisG ($183.20)
+Seat 2: zolih ($97)
+Seat 3: Dukefolds ($31.20)
+Seat 4: mizdflop ($76.65)
+Seat 5: pokr_playa21 ($188.15)
+Seat 6: PaisaTamasha ($64.80)
+mizdflop posts the small blind of $0.50
+pokr_playa21 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to mizdflop [7d Ac]
+PaisaTamasha folds
+NaorisG raises to $3
+zolih folds
+Dukefolds folds
+mizdflop folds
+pokr_playa21 folds
+Uncalled bet of $2 returned to NaorisG
+NaorisG mucks
+NaorisG wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: NaorisG collected ($2.50), mucked
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds (button) didn't bet (folded)
+Seat 4: mizdflop (small blind) folded before the Flop
+Seat 5: pokr_playa21 (big blind) folded before the Flop
+Seat 6: PaisaTamasha didn't bet (folded)
+
+
+
+Full Tilt Poker Game #1832175243: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:46:59 ET - 2007/02/19
+Seat 1: NaorisG ($184.70)
+Seat 2: zolih ($97)
+Seat 3: Dukefolds ($31.20)
+Seat 4: mizdflop ($76.15)
+Seat 5: pokr_playa21 ($187.15)
+Seat 6: PaisaTamasha ($64.80)
+pokr_playa21 posts the small blind of $0.50
+PaisaTamasha posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to mizdflop [8d 4d]
+NaorisG folds
+zolih folds
+Dukefolds folds
+mizdflop calls $1
+pokr_playa21 calls $0.50
+PaisaTamasha checks
+*** FLOP *** [Tc Jh 6c]
+pokr_playa21 checks
+PaisaTamasha checks
+mizdflop checks
+*** TURN *** [Tc Jh 6c] [Ah]
+pokr_playa21 bets $1
+PaisaTamasha folds
+mizdflop folds
+Uncalled bet of $1 returned to pokr_playa21
+pokr_playa21 mucks
+pokr_playa21 wins the pot ($2.85)
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [Tc Jh 6c Ah]
+Seat 1: NaorisG didn't bet (folded)
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop (button) folded on the Turn
+Seat 5: pokr_playa21 (small blind) collected ($2.85), mucked
+Seat 6: PaisaTamasha (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #1832180669: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 19:47:42 ET - 2007/02/19
+Seat 1: NaorisG ($184.70)
+Seat 2: zolih ($97)
+Seat 3: Dukefolds ($31.20)
+Seat 4: mizdflop ($75.15)
+Seat 5: pokr_playa21 ($189)
+Seat 6: PaisaTamasha ($63.80)
+PaisaTamasha posts the small blind of $0.50
+NaorisG posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [Kd 2d]
+zolih folds
+Dukefolds folds
+mizdflop has 15 seconds left to act
+mizdflop folds
+pokr_playa21 folds
+PaisaTamasha calls $0.50
+NaorisG checks
+*** FLOP *** [As Qh Ah]
+PaisaTamasha checks
+NaorisG checks
+*** TURN *** [As Qh Ah] [8d]
+PaisaTamasha checks
+NaorisG checks
+*** RIVER *** [As Qh Ah 8d] [Qs]
+PaisaTamasha checks
+NaorisG checks
+*** SHOW DOWN ***
+PaisaTamasha shows [9c Td] (two pair, Aces and Queens)
+NaorisG shows [Ks 3s] (two pair, Aces and Queens)
+NaorisG wins the pot ($1.90) with two pair, Aces and Queens
+*** SUMMARY ***
+Total pot $2 | Rake $0.10
+Board: [As Qh Ah 8d Qs]
+Seat 1: NaorisG (big blind) showed [Ks 3s] and won ($1.90) with two pair, Aces and Queens
+Seat 2: zolih didn't bet (folded)
+Seat 3: Dukefolds didn't bet (folded)
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: pokr_playa21 (button) didn't bet (folded)
+Seat 6: PaisaTamasha (small blind) showed [9c Td] and lost with two pair, Aces and Queens
+
+
+

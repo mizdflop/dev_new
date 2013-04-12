@@ -1,0 +1,36 @@
+Full Tilt Poker Game #1831467450: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:05:16 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($204.30)
+Seat 2: powDRJ ($103)
+Seat 3: Spunk99 ($51.90)
+Seat 4: mizdflop ($100)
+Seat 5: Stefanus ($127.10)
+Seat 6: upaymymtg ($116.65)
+upaymymtg posts the small blind of $0.50
+joshuaashtondzl posts the big blind of $1
+mizdflop posts $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to mizdflop [8h 6h]
+powDRJ folds
+Spunk99 raises to $2
+mizdflop calls $1
+Stefanus folds
+upaymymtg folds
+joshuaashtondzl folds
+*** FLOP *** [7s 8d Qc]
+Spunk99 checks
+mizdflop bets $4
+Spunk99 folds
+Uncalled bet of $4 returned to mizdflop
+mizdflop mucks
+mizdflop wins the pot ($5.25)
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25
+Board: [7s 8d Qc]
+Seat 1: joshuaashtondzl (big blind) folded before the Flop
+Seat 2: powDRJ didn't bet (folded)
+Seat 3: Spunk99 folded on the Flop
+Seat 4: mizdflop collected ($5.25), mucked
+Seat 5: Stefanus (button) didn't bet (folded)
+Seat 6: upaymymtg (small blind) folded before the Flop
+

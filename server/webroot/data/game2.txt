@@ -1,0 +1,43 @@
+Full Tilt Poker Game #1831508549: Table Bradshaw (6 max) - $0.50/$1 - No Limit Hold'em - 18:11:21 ET - 2007/02/19
+Seat 1: joshuaashtondzl ($201.30)
+Seat 2: powDRJ ($100.50)
+Seat 3: Spunk99 ($60.65)
+Seat 4: mizdflop ($104.45)
+Seat 5: Stefanus ($119.60)
+Seat 6: upaymymtg ($113.95)
+powDRJ posts the small blind of $0.50
+Spunk99 posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to mizdflop [Th 3s]
+mizdflop folds
+Stefanus raises to $4
+upaymymtg folds
+joshuaashtondzl folds
+powDRJ folds
+Spunk99 calls $3
+*** FLOP *** [2c 4h Kc]
+Spunk99 checks
+Stefanus bets $6
+Spunk99 calls $6
+*** TURN *** [2c 4h Kc] [4c]
+Spunk99 checks
+Stefanus checks
+*** RIVER *** [2c 4h Kc 4c] [9c]
+Spunk99 checks
+Stefanus bets $20.50
+Spunk99 calls $20.50
+*** SHOW DOWN ***
+Stefanus shows [7h Td] (a pair of Fours)
+Spunk99 shows [As Qc] (a flush, King high)
+Spunk99 wins the pot ($58.50) with a flush, King high
+*** SUMMARY ***
+Total pot $61.50 | Rake $3
+Board: [2c 4h Kc 4c 9c]
+Seat 1: joshuaashtondzl (button) didn't bet (folded)
+Seat 2: powDRJ (small blind) folded before the Flop
+Seat 3: Spunk99 (big blind) showed [As Qc] and won ($58.50) with a flush, King high
+Seat 4: mizdflop didn't bet (folded)
+Seat 5: Stefanus showed [7h Td] and lost with a pair of Fours
+Seat 6: upaymymtg didn't bet (folded)
+

@@ -177,7 +177,7 @@ class FullTilt extends \Poker\Parser\Base implements \Poker\Parser\IParser {
 				break;
 			default:
 				if (!$this->ignorable($line)) {
-					throw new Exception("{$this->room_name()} invalid line for parse: {$line}");
+					throw new \Exception("{$this->room_name()} invalid line for parse: {$line}");
 				}
 
 		}
@@ -241,7 +241,7 @@ class FullTilt extends \Poker\Parser\Base implements \Poker\Parser\IParser {
 				return '7S';
 				break;
 			default:
-				throw new Exception('Cannot determine a game');
+				throw new \Exception('Cannot determine a game');
 		}
 	}
 }
