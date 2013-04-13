@@ -16,3 +16,7 @@
 /app/Config/opauth.php
 /server/vendor
 /server/composer.lock
+
+/app/Lib/autoload.php
+
+/app/composer.lock
