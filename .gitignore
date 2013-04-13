@@ -17,6 +17,10 @@
 /server/vendor
 /server/composer.lock
 
-/app/Lib/autoload.php
+/app/Lib/*
 
 /app/composer.lock
+
+/.editorconfig
+
+/.travis.yml
