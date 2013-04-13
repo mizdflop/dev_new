@@ -14,6 +14,7 @@
 		array(
 			'http://code.jquery.com/jquery.min.js',	
 			'bootstrap.min',
+			'holder',
 			'hsc',		
 		), 
 		array('inline' => false)
@@ -24,7 +25,7 @@
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>Bounce | <?php echo $title_for_layout; ?></title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=960, initial-scale=1.0">
 	<?php
 		echo $this->Html->meta('icon');
 
@@ -72,8 +73,15 @@
 	
 	<div id="content" class="txt-middle">
 	  <div class="container">
-			<?php echo $this->Session->flash(); ?>
-			<?php echo $this->fetch('content'); ?>		
+	  
+	  	<?php echo $this->Session->flash(); ?>
+	  	
+	  	<div class="row-fluid">
+			<?php if ($this->fetch('leftnav')): ?>	
+				<?php echo $this->fetch('leftnav'); ?>
+			<?php endif; ?>		  	
+			<?php echo $this->fetch('content'); ?>
+		</div>			
 	  </div>
 	</div>	
 	

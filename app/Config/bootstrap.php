@@ -77,9 +77,6 @@ Cache::config('default', array('engine' => 'File'));
 		// Development Tool
 		'FirePHP' => array('bootstrap' => true),
 
-		// Upload files and manage
-		'Media' => array('bootstrap' => true),
-
 		// Account users and manage
 		'Account' => array('bootstrap' => true, 'routes' => true),
 
@@ -103,22 +100,29 @@ Cache::config('default', array('engine' => 'File'));
  *
  * ));
  */
-Configure::write('Dispatcher.filters', array(
-	'AssetDispatcher',
-	'CacheDispatcher'
-));
+	Configure::write('Dispatcher.filters', array(
+		'AssetDispatcher',
+		'CacheDispatcher'
+	));
 
 /**
  * Configures default file logging options
  */
-App::uses('CakeLog', 'Log');
-CakeLog::config('debug', array(
-	'engine' => 'FileLog',
-	'types' => array('notice', 'info', 'debug'),
-	'file' => 'debug',
-));
-CakeLog::config('error', array(
-	'engine' => 'FileLog',
-	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
-	'file' => 'error',
-));
+	App::uses('CakeLog', 'Log');
+	CakeLog::config('debug', array(
+		'engine' => 'FileLog',
+		'types' => array('notice', 'info', 'debug'),
+		'file' => 'debug',
+	));
+	CakeLog::config('error', array(
+		'engine' => 'FileLog',
+		'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
+		'file' => 'error',
+	));
+
+/**
+ * Composer loader
+ */
+	if (file_exists(APPLIBS . 'autoload.php')) {
+		require APPLIBS . 'autoload.php';
+	}

@@ -1,26 +1,41 @@
-<h2 class="main-header"><?php echo __d('users', 'Reset your email'); ?></h2>
-
-<div class='login password content'>
-	<?php echo $this->Form->create('User', array('url' => Router::url())); ?>
-		<p class="helptext"><?php echo __d('users', 'Please enter new the email.'); ?></p>
-		<?php
-			echo $this->Form->input('email', array(
-				'label' => __d('users', 'Email'),
-				'error' => array(
-					'notempty' => __('error_email_required'),
-					'email' => __('error_supply_valid_email_address'),
-					'isUnique' => __('error_unique_email_address')
-				)
-			));
-			echo $this->Form->submit(__d('users', 'Submit'));
-		?>
-	<?php echo $this->Form->end(); ?>
+<div class="page-header">
+	<h1>Reset your email</h1>
 </div>
 
-<div class='login-sidebar'>
+<div class="row-fluid">	
 
-	<h3>Need an account?</h3>
-
-	<a href="/" class='button shader'>Sign Up</a>
-
+	<div class="span6">
+	
+	<?php echo $this->Form->create('User', array('class' => 'form-horizontal','url' => Router::url())); ?>
+	
+		<p class="helptext">Please enter new the email.</p>
+		
+		<?php 
+			echo $this->Form->input('email',array(
+				'div' => 'input email control-group',
+				'label' => array('class' => 'control-label','text' => 'Email'),
+				'between' => '<div class="controls">',
+				'after' => '</div>',
+				'class' => 'input-xlarge'
+			));
+			echo $this->Form->input('confirm_password',array(
+				'type' => 'password',
+				'div' => 'input email control-group',
+				'label' => array('class' => 'control-label','text' => 'Confirm Password'),
+				'between' => '<div class="controls">',
+				'after' => '</div>',
+				'class' => 'input-xlarge'
+			));			
+			echo $this->Captcha->input('captcha', array(
+				'div' => 'input email control-group',
+				'before' => '<div class="controls">',
+				'after' => '</div>',
+			));
+		?>
+		<div class="btn-toolbar text-right">
+			<?php echo $this->Form->button('Save', array('class' => 'btn btn-primary btn-medium')); ?>
+		</div>		
+	<?php echo $this->Form->end(); ?>
+	
+	</div>
 </div>

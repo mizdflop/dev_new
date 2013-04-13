@@ -11,10 +11,11 @@ App::uses('AppModel', 'Model');
 class User extends AppModel {
 	
 	const REGISTER_GENERAL = 'general';
+	
 	const REGISTER_SOCIAL = 'social';
 	
 	public $actsAs = array(
-		'Media.Upload' => array(
+		'Upload' => array(
 			'avatar' => array(
 				'thumbnails' => array(
 					'small' => array('type' => 'thumbnail','size' => '50x50'),
@@ -91,7 +92,7 @@ class User extends AppModel {
 		),			
 		'avatar' => array(
 			'maxSize' => array(
-				'rule' => array('maxSize', '10 MB'),
+				'rule' => array('maxSize', '10MB'),
 				'message' => 'Sorry your photo is too big!',
 				'required' => true,
 			),
@@ -265,35 +266,47 @@ class User extends AppModel {
 	}
 
 	
-/**
- * Update account logged user
- * 
- * @param string $type account|payout|avatar
- * @param array $data CakeRequest::data
- * 
- * @return boolean
- */	
+	/**
+	 * Update account logged user
+	 *
+	 * @param string $type account|payout|avatar
+	 * @param array $data CakeRequest::data
+	 *
+	 * @return boolean
+	 */
 	public function update($section, $data = array()) {
-		
+	
 		if (empty($data)) {
 			$data = $this->data;
 		}
-		
-		$data[$this->alias]['id'] = AuthComponent::user('id');		
-		
+	
+		$data[$this->alias]['id'] = AuthComponent::user('id');
+	
 		switch ($section) {
-			
+				
 			case 'account':
+				$user = $this->find('first', array(
+					'conditions' => array($this->alias.'.id' => AuthComponent::user('id')),
+					'contain' => array('Authentication')
+				));
 				$fieldList = array(
 					$this->alias => array('first_name','last_name','avatar')
 				);
 				if (!empty($data[$this->alias]['password'])) {
 					$fieldList = Set::merge($fieldList, array($this->alias => array('password','confirm_password')));
 				}
+				if (!empty($user['Authentication'])) {
+					$fieldList = Set::merge($fieldList, array($this->alias => array('email')));
+				}
 				$validate = 'first';
 				break;
+			case 'avatar':
+				break;
+	
+			default:
+				return false;
 		}
-		
+	
 		return $this->saveAll($data, compact('validate','fieldList'));
 	}	
 }

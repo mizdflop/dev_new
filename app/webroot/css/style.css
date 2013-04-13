@@ -32,3 +32,20 @@ form.form-horizontal .input.captcha {
 .social-panels a img {
 	width: 40px;	
 }
+
+/** Linked accounts **/
+.linked-accounts img {
+	width: 50px;
+}
+.linked-accounts img.actived{
+	opacity: 0.7;
+}
+.linked-accounts .active {
+	position: relative;
+	display: inline-block;
+}
+.linked-accounts .active .badge {
+	position: absolute;
+	right: 0;
+	bottom: 0;	
+}
