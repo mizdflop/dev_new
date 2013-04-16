@@ -28,18 +28,8 @@
  * Step 1: Bootstrap
  *
  */
-	require ROOT . DS . 'bootstrap.php';
+	require_once ROOT . DS . 'bootstrap.php';
 
-/**
- * Step 2: Instantiate a Slim application
- *
- * This example instantiates a Slim application using
- * its default settings. However, you will usually configure
- * your Slim application now by passing an associative array
- * of setting names and values into the application constructor.
- */
- 	$app = new \Slim\Slim($config);
-	
 /**
  * Step 3: Define the Slim application routes
  *

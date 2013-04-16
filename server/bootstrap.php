@@ -36,16 +36,24 @@
 	require_once CONFIG . 'application.php';
 	
 /**
- * Poker load
- */
-	require_once LIBS . 'Poker' . DS . 'Action.php';
-	require_once LIBS . 'Poker' . DS . 'Event.php';
-	require_once LIBS . 'Poker' . DS . 'Game.php';
-	require_once LIBS . 'Poker' . DS . 'Player.php';
-	require_once LIBS . 'Poker' . DS . 'Player.php';
+ * Require the Poker Lib
+ *
+ * If you are not using Composer, you need to require the
+ * Poker Lib and register its PSR-0 autoloader.
+ *
+ * If you are using Composer, you can skip this step.
+ */	
+	require_once LIBS . 'Poker' . DS . 'Poker.php';
 	
-	require_once LIBS . 'Poker' . DS . 'Parser' .DS . 'Base.php';
-	require_once LIBS . 'Poker' . DS . 'Parser' .DS . 'FullTilt.php';
-	require_once LIBS . 'Poker' . DS . 'Parser' .DS . 'PartyPoker.php';
-	require_once LIBS . 'Poker' . DS . 'Parser' .DS . 'PokerStars.php';
+	\Poker\Poker::registerAutoloader();
+	
+/**
+ * Step 2: Instantiate a Slim application
+ *
+ * This example instantiates a Slim application using
+ * its default settings. However, you will usually configure
+ * your Slim application now by passing an associative array
+ * of setting names and values into the application constructor.
+ */
+	$app = new \Slim\Slim($config);	
 	
