@@ -5,20 +5,22 @@ namespace Poker;
 class Game {
 
 	public	$id,
-	$title,
-	$date,
-	$table_name,
-	$total_pot,
-	$rake,
-	$max_players,
-	$board,
-	$blinds_amounts,
-	$description,
-	$button_seat,
-	$kind,
-	$limit,
-	$winner,
-	$total_players;
+			$title,
+			$date,
+			$table_name,
+			$total_pot,
+			$rake,
+			$max_players,
+			$board,
+			$blinds_amounts,
+			$description,
+			$button_seat,
+			$kind,
+			$limit,
+			$winner,
+			$total_players,
+			$tournament,
+			$stakes_type;
 
 	public $players, $actions,  $events, $summary_events;
 
@@ -158,9 +160,9 @@ class Game {
 		end
 		end
 		*/
-		}
+	}
 
-		protected function calc_total_pot() {
+	protected function calc_total_pot() {
 		//ante_pot_size = actions.map(&:summable_events).flatten.map(&:amount).sum
 		//initial_pot_size + ante_pot_size
 	}

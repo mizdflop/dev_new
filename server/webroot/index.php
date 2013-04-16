@@ -44,11 +44,10 @@
 	$app->get('/', function() use ($app) {
 		
 		$app->response()->header('Content-Type', 'application/json');
+
+		$parser = \Poker\Parser\Parser::parse('./data/game.txt');
 		
-		$parser = new \Poker\Parser\FullTilt('./data/game2.txt');
-		$parser->parse();
-		
-		echo json_encode($parser->game);		
+		echo json_encode($parser->games);		
 	});	
 	
 	$app->get('/pages/:name', function ($name) use ($app)  {

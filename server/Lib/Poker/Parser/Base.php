@@ -14,7 +14,8 @@ class Base {
 	const CASH = '[0-9$,.]+';
 
 	public	$source,
-			$game;
+			$game,
+			$games;
 
 	private $parsed = false;
 
@@ -29,9 +30,6 @@ class Base {
 		} else {
 			$this->source = $source;
 		}
-
-		$this->parsed = false;
-		$this->game = new \Poker\Game("Noname", $this->determine_game($this->source[0]));
 	}
 
 	public function parsed() {
@@ -39,14 +37,33 @@ class Base {
 	}
 
 	public function parse() {
-
+		
+		$i=0;
+		$flag_new = false;
+		$parsers = array();
 		foreach ($this->source as $line) {
 			if (!empty($line)) {
-				$this->parse_line($line);
+				if ($flag_new) {
+					$flag_new = false;
+					$i++;
+				}
+				$parsers[$i][] = $line;
+			} else {
+				$flag_new = true;
 			}
 		}
+		
+		foreach ($parsers as $oneGame) {
+			
+			$this->game = new \Poker\Game("Noname", $this->determine_game($oneGame[0]));
+			foreach ($oneGame as $line) {
+				$this->parse_line($line);
+			}			
+			
+			$this->games[] = $this->game;
+			unset($this->game);
+		}
 
-		$this->game->generate_positions();
 		$this->parsed = true;
 
 		return $this;

@@ -53,7 +53,7 @@ class Event {
 				$game->players[$attributes['player']]->make_stake($attributes['amount']);
 				break;
 			case 'raises':
-				$game->players[$attributes['player']]->make_raise($attributes['amount']);
+				$game->players[$attributes['player']]->make_raise($attributes['amount'],$game->blinds_amounts);
 				break;
 			case 'shows':
 				$game->players[$attributes['player']]->set_cards($attributes['cards']);

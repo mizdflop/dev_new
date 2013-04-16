@@ -14,7 +14,7 @@ class Player {
 			$pot,
 			$stake;
 
-	public $game;
+	//public $game;
 
 	/**
 	 * kind: 'small_blind', 'big_blind', 'dealer' ('button'), 'default'
@@ -82,11 +82,11 @@ class Player {
 		$this->make_stake($this->chips - $this->stake);
 	}
 
-	public function make_raise($amount) {
+	public function make_raise($amount,$blinds_amounts) {
 		if ($this->is_bblinder()) {
-			$value = $amount - $this->game->blinds_amounts['bb'];
+			$value = $amount - $blinds_amounts['bb'];
 		} elseif ($this->is_sblinder()) {
-			$value = $amount - $this->game->blinds_amounts['sb'];
+			$value = $amount - $blinds_amounts['sb'];
 		} else {
 			$value = $amount;
 		}
