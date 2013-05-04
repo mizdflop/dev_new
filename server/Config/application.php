@@ -1,6 +1,6 @@
 <?php
 
-$config = array(
+$appConfig = array(
 
 /**
  * This is an identifier for the application’s current mode of operation. The mode does not affect a Slim application’s internal functionality. 

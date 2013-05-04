@@ -1,0 +1,12 @@
+{
+    "holdemskillschallenge": {
+        "name": "API Skills Challengge",
+        "protocol": "http",
+        "baseURL": "api.holdemskillschallenge.dev",
+        "publicPath": "",
+        "headers" : {
+        	"Accept": "application/json"
+        },
+        "auth" : ""
+    }
+}

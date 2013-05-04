@@ -1,29 +1,32 @@
 <?php
 
 	error_reporting(E_ALL & ~E_DEPRECATED);
+/**
+ * 
+ */	
 	
 /**
  * Path to the config directory.
  */
 	if (!defined('CONFIG')) {
-		define('CONFIG', ROOT . DS . 'Config' . DS);
+		define('CONFIG', ROOT . 'Config' . DS);
 	}	
 
 /**
  * Path to the application's libs directory.
  */
-	define('LIBS', ROOT . DS . 'Lib' . DS);
+	define('LIBS', ROOT . 'Lib' . DS);
 	
 /**
  * Path to the vendors directory.
  */
 	if (!defined('VENDOR')) {
-		define('VENDOR', ROOT . DS . 'vendor' . DS);
+		define('VENDOR', ROOT . 'vendor' . DS);
 	}
 /*
  * Basic functions
  */
-	require ROOT . DS . 'basics.php';
+	require ROOT . 'basics.php';
 	
 /**
  * Composer autoload vendor libs 
@@ -33,7 +36,7 @@
 /**
  * App config 
  */	
-	require_once CONFIG . 'application.php';
+	require CONFIG . 'application.php';
 	
 /**
  * Require the Poker Lib
@@ -55,5 +58,11 @@
  * your Slim application now by passing an associative array
  * of setting names and values into the application constructor.
  */
-	$app = new \Slim\Slim($config);	
+	$app = new \Slim\Slim($appConfig);	
+	
+	$app->error(function (\Exception $e) use ($app) {
+		$app->response()->status(400);
+		$app->response()->header('Content-Type', 'application/json');
+		echo json_encode(array('error' => $e->getMessage()));
+	});	
 	

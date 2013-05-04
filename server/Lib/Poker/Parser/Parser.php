@@ -2,11 +2,12 @@
 
 namespace Poker\Parser;
 
+use Poker\Exception\NotImplementedException;
 
 class Parser {
 
 	public static function parse($source) {
-
+		
 		if (!is_array($source)) {
 			if (file_exists($source)) {
 				$source = preg_split('/\\r\\n?|\\n/', file_get_contents($source));

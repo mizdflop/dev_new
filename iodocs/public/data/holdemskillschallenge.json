@@ -1,0 +1,26 @@
+{
+   "endpoints":[
+      {
+         "name":"Get All Scores",
+         "methods":[
+            {
+               "MethodName":"Get All Scores",
+               "Synopsis":"This method allows you to retrieve a scores",
+               "HTTPMethod":"POST",
+               "URI":"/get_all_scores.json",
+               "RequiresOAuth":"N",
+               "parameters":[
+                  {
+                     "Name":"hand_histrory",
+                     "Required":"Y",
+                     "Default":"",
+                     "Type":"text",
+                     "Description":"Hand history text"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
+

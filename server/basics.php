@@ -1,9 +1,8 @@
 <?php
 /**
- * Basic Cake functionality.
+ * Basic functionality.
  *
- * Core functions for including other source files, loading models and so forth.
- *
+ * 
  */
 
 /**
@@ -16,30 +15,6 @@
 	define('WEEK', 604800);
 	define('MONTH', 2592000);
 	define('YEAR', 31536000);
-
-if (!function_exists('config')) {
-
-/**
- * Loads configuration files. Receives a set of configuration files
- * to load.
- * Example:
- *
- * `config('config1', 'config2');`
- */
-	function config() {
-		$args = func_get_args();
-		$count = count($args);
-		$included = 0;
-		foreach ($args as $arg) {
-			if (file_exists(CONFIG . $arg . '.php')) {
-				include_once CONFIG . $arg . '.php';
-				$included++;
-			}
-		}
-		return $included === $count;
-	}
-
-}
 
 if (!function_exists('h')) {
 
@@ -73,7 +48,6 @@ if (!function_exists('h')) {
 
 		static $defaultCharset = false;
 		if ($defaultCharset === false) {
-			$defaultCharset = Configure::read('App.encoding');
 			if ($defaultCharset === null) {
 				$defaultCharset = 'UTF-8';
 			}
@@ -97,13 +71,11 @@ if (!function_exists('pr')) {
  * @link http://book.cakephp.org/2.0/en/core-libraries/global-constants-and-functions.html#pr
  */
 	function pr($var) {
-		if (Configure::read('debug') > 0) {
-			echo '<pre>';
-			print_r($var);
-			echo '</pre>';
-		}
+		echo '<pre>';
+		print_r($var);
+		echo '</pre>';
 	}
-
+	
 }
 
 if (!function_exists('env')) {

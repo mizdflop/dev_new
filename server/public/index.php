@@ -12,23 +12,14 @@
  *
  */
 	if (!defined('ROOT')) {
-		define('ROOT', dirname(dirname(__FILE__)));
+		define('ROOT', dirname(dirname(__FILE__)).DS);
 	}
 
-/**
- * Editing below this line should NOT be necessary.
- * Change at your own risk.
- *
- */
-	if (!defined('WWW_ROOT')) {
-		define('WWW_ROOT', dirname(__FILE__) . DS);
-	}
-	
 /**
  * Step 1: Bootstrap
  *
  */
-	require_once ROOT . DS . 'bootstrap.php';
+	require_once ROOT . 'bootstrap.php';
 
 /**
  * Step 3: Define the Slim application routes
@@ -39,26 +30,23 @@
  * is an anonymous function.
  */
  
-	// GET route
-
-	$app->get('/', function() use ($app) {
+	$app->post('/get_all_scores.json', function() use ($app) {
 		
-		$app->response()->header('Content-Type', 'application/json');
+		$handHistory = $app->request()->post('hand_histrory');
+		if (empty($handHistory)) {
+			$app->halt(400,'hand_history param is require.');
+		}
 
-		$parser = \Poker\Parser\Parser::parse('./data/game.txt');
+		$parser = \Poker\Parser\Parser::parse($handHistory);
 		
+		$app->response()->header('Content-Type', 'application/json');		
 		echo json_encode($parser->games);		
-	});	
-	
-	$app->get('/pages/:name', function ($name) use ($app)  {
-	
-		/*
-		$res = $app->response();
-		$res['Content-Type'] = 'application/json';
-		echo json_encode(compact('name'));
-		*/
-	});		
+	});
 
+	$app->post('/get_skill_scores', function() use ($app) {
+		
+	});
+	
 /**
  * Step 4: Run the Slim application
  *
