@@ -14,13 +14,13 @@
 /app/tmp/cache/models/*
 
 /app/Config/opauth.php
-/server/vendor
+/server/vendor/*
 /server/composer.lock
-
-/app/Lib/*
 
 /app/composer.lock
 
 /.editorconfig
 
 /.travis.yml
+
+/app/vendor/*

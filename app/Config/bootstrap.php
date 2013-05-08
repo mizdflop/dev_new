@@ -119,10 +119,15 @@ Cache::config('default', array('engine' => 'File'));
 		'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 		'file' => 'error',
 	));
+	
+/**
+ * Configure Opauth
+ */	
+	Configure::load('opauth');
 
 /**
  * Composer loader
  */
-	if (file_exists(APPLIBS . 'autoload.php')) {
-		require APPLIBS . 'autoload.php';
+	if (file_exists(APP . 'vendor' . DS . 'autoload.php')) {
+		require APP . 'vendor' . DS . 'autoload.php';
 	}

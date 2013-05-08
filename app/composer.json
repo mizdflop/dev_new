@@ -1,8 +1,14 @@
 {
 	"config": {
-		"vendor-dir": "Lib/"
+		"vendor-dir": "vendor/"
 	}, 
     "require": {
-        "imagine/imagine": "dev-master"
-    }
+		"php": ">=5.3.3",    
+        "imagine/imagine": "dev-master",
+		"opauth/opauth": "dev-master",
+		"opauth/facebook": "dev-master",
+		"opauth/twitter": "dev-master",
+		"opauth/google": "dev-master"						        
+    },
+    "minimum-stability" : "dev"
 }

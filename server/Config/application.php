@@ -52,7 +52,7 @@ $appConfig = array(
 
 /**
  * The View class or instance used by the Slim application
- */		
+ */		 
 	//'view' => new \My\View()
 
 /**
