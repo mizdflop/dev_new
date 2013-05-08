@@ -47,7 +47,12 @@ class UploadBehavior extends ModelBehavior {
 	public function setup(Model $Model, $settings = array()) {
 
 		foreach ($settings as $field => $options) {
-
+			
+			// upload root
+			if (!defined('UPLOAD_ROOT')) {
+				define('UPLOAD_ROOT', WWW_ROOT);
+			}
+			
 			// Check if they even PASSED IN parameters
 			if (!is_array($options)) {
 				// You jerks!
@@ -67,7 +72,7 @@ class UploadBehavior extends ModelBehavior {
 			if (!empty($this->settings[$Model->alias][$field]['path'])) {
 				$this->settings[$Model->alias][$field]['path'] = Folder::slashTerm(String::insert($this->settings[$Model->alias][$field]['path'], array(
 						'DS' => DS,'MODEL' => strtolower($Model->alias),'FIELD' => strtolower($field)),array('before' => '{:','after' => '}')));
-				new Folder(WWW_ROOT.$this->settings[$Model->alias][$field]['path'],true,0777);
+				new Folder(UPLOAD_ROOT.$this->settings[$Model->alias][$field]['path'],true,0777);
 			}
 			
 			// Check thumbnails
@@ -79,7 +84,7 @@ class UploadBehavior extends ModelBehavior {
 					if (empty($thumb) || empty($options) || empty($options['type']) || empty($options['size'])) {
 						throw new InvalidArgumentException(sprintf('The thumbnail %s is invalid',$thumb));
 					}
-					new Folder(Folder::slashTerm(WWW_ROOT.String::insert($this->settings[$Model->alias][$field]['path']."thumb{:DS}{$thumb}", array('DS' => DS),array('before' => '{:','after' => '}'))),true,0777);										
+					new Folder(Folder::slashTerm(UPLOAD_ROOT.String::insert($this->settings[$Model->alias][$field]['path']."thumb{:DS}{$thumb}", array('DS' => DS),array('before' => '{:','after' => '}'))),true,0777);										
 				}
 			}
 		}	
@@ -148,12 +153,12 @@ class UploadBehavior extends ModelBehavior {
 			}
 			
 			// Fix file name
-			$File = new File(WWW_ROOT.Folder::slashTerm($options['path']).$Model->data[$Model->alias][$field]['name']);
+			$File = new File(UPLOAD_ROOT.Folder::slashTerm($options['path']).$Model->data[$Model->alias][$field]['name']);
 			$Model->data[$Model->alias][$field]['name'] = String::uuid().'.'.$File->ext();
 			
 			
 			// Move tmp file to upload dir
-			if (!move_uploaded_file($Model->data[$Model->alias][$field]['tmp_name'], WWW_ROOT.$options['path'].$Model->data[$Model->alias][$field]['name'])) {
+			if (!move_uploaded_file($Model->data[$Model->alias][$field]['tmp_name'], UPLOAD_ROOT.$options['path'].$Model->data[$Model->alias][$field]['name'])) {
 				throw new InternalErrorException('Problems in the move of the file');
 			}
 			
@@ -166,9 +171,9 @@ class UploadBehavior extends ModelBehavior {
 					unset($opts['type']);
 					$mode = Imagine\Image\ImageInterface::THUMBNAIL_OUTBOUND;
 					$imagine = new \Imagine\Gd\Imagine();
-					$image = $imagine->open(WWW_ROOT.$options['path'].$Model->data[$Model->alias][$field]['name'])
+					$image = $imagine->open(UPLOAD_ROOT.$options['path'].$Model->data[$Model->alias][$field]['name'])
 								->{$method}(new Imagine\Image\Box($w, $h),$mode)
-								->save(WWW_ROOT.$options['path'].'thumb'.DS.$thumb.DS.$Model->data[$Model->alias][$field]['name']);					
+								->save(UPLOAD_ROOT.$options['path'].'thumb'.DS.$thumb.DS.$Model->data[$Model->alias][$field]['name']);					
 				}
 			}
 			
@@ -416,11 +421,11 @@ class UploadBehavior extends ModelBehavior {
 	protected function _deleteFilesList($Model) {
 		foreach ($this->__filesToRemove as $file) {
 			if (!empty($file['name'])) {
-				$File = new File(WWW_ROOT.Folder::slashTerm($file['dir']).$file['name']);
+				$File = new File(UPLOAD_ROOT.Folder::slashTerm($file['dir']).$file['name']);
 				$File->delete();
 				if (!empty($this->settings[$Model->alias][$file['field']]['thumbnails'])) {
 					foreach ($this->settings[$Model->alias][$file['field']]['thumbnails'] as $thumb => $options) {
-						$File = new File(WWW_ROOT.Folder::slashTerm($file['dir']).'thumb'.DS.$thumb.DS.$file['name']);
+						$File = new File(UPLOAD_ROOT.Folder::slashTerm($file['dir']).'thumb'.DS.$thumb.DS.$file['name']);
 						$File->delete();
 					}
 				}

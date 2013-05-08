@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+	$this->start('page_title');		echo 'Link Social media Accounts';	$this->end();
+
 	$this->start('leftnav');
 		echo $this->element('leftnav');
 	$this->end();
@@ -18,10 +21,6 @@
 </script>
 
 <div class="span5">
-
-	<div class="page-header">
-		<h3>Link Social media Accounts <small>loren ipsam</small></h3>
-	</div>
 
 	<div class="linked-accounts">
 		<?php foreach (array('Facebook','Twitter','Google') as $provider): ?>

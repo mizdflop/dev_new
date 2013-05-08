@@ -121,6 +121,11 @@ Cache::config('default', array('engine' => 'File'));
 	));
 	
 /**
+ * Configure upload
+ */	
+	if (!defined('UPLOAD_ROOT')) {		define('UPLOAD_ROOT', WWW_ROOT);	}	
+	
+/**
  * Configure Opauth
  */	
 	Configure::load('opauth');

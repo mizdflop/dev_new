@@ -55,8 +55,8 @@ class UsersController extends AppController {
 	
 	public function edit($section = 'account') {
 	
-		if ($this->request->is('post')) {
-				
+		if ($this->request->is('post') || $this->request->is('put')) {
+			
 			if ($this->User->update($section, $this->request->data)) {	
 				$this->Session->setFlash('You have updated succesfully', 'flash', array('type' => 'success'));
 				return $this->redirect(array('action' => 'home'));

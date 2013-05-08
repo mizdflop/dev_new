@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+	$this->start('page_title');		echo 'Edit Account';	$this->end();
+	 
 	$this->start('leftnav');
 		echo $this->element('leftnav', array('active' => ''));
 	$this->end();
@@ -6,10 +9,6 @@
 
 <div class="span5">
 
-	<div class="page-header">
-		<h3>Edit Account</h3>
-	</div>
-	
 	<?php echo $this->Form->create('User', array('type' => 'file','class' => 'form-horizontal')); ?>
 		<?php
 			echo $this->Form->input('first_name',array(
@@ -72,7 +71,7 @@
 				'class' => 'input-xlarge'
 			));			
 		?>
-		<div class="btn-toolbar text-right">
+		<div class="btn-toolbar txt-righty">
 			<?php echo $this->Form->button('Update', array('class' => 'btn btn-primary btn-medium')); ?>
 		</div>		
 	<?php echo $this->Form->end(); ?>
