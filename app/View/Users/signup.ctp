@@ -1,6 +1,6 @@
 <script>
 	$(function(){
-		$('a.facebook').click(function(){
+		$('a.social').click(function(){
 			window.open(
 				$(this).attr('href'), 
 				"hybridauth_social_sing_on", 
@@ -11,14 +11,19 @@
 	});
 </script>
 
-<div class="page-header">
-	<h3>Sign Up</h3>
-</div>
+<div class="row">	
 
-<div class="row-fluid">	
-
-	<div class="span6">
+	<div class="span12">
 	
+		<h4>Create an Account to get started with the Hold'em Skills Challenge</h4>
+	
+		<div class="form-extra clearfix">
+			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" >Connect using your Facebook account</a>
+		</div>	
+		
+		<p> or <br> Create an Account</p>
+		
+	<div class="well well-form txt-lefty" style="max-width:550px;">
 	<?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
 		<?php 
 			echo $this->Form->input('first_name',array(
@@ -66,10 +71,11 @@
 				'label' => array('text' => 'Agree'),	
 			));
 		?>
-		<div class="btn-toolbar text-right">
+		<div class="btn-toolbar txt-righty">
 			<?php echo $this->Form->button('Sign Up', array('class' => 'btn btn-primary btn-medium')); ?>
 		</div>		
 	<?php echo $this->Form->end(); ?>
+	</div>
 	
 	</div>
 </div>

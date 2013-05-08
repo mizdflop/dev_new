@@ -1,8 +1,8 @@
 <script>
 	$(function(){
-		$('.form-extra button').click(function(){
+		$('a.social').click(function(){
 			window.open(
-				'/auth/login/'+$(this).data('provider'), 
+				$(this).attr('href'), 
 				"hybridauth_social_sing_on", 
 				"location=0,status=0,scrollbars=0,width=800,height=500"
 			);			
@@ -13,8 +13,13 @@
 
 <div class="row">
 	<div class="span12">
+	
+		<div class="form-extra clearfix">
+			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" >Connect using your Facebook account</a>
+		</div>
+						
 		<div class="well well-form txt-lefty">
-			<h3>Sign In</h3>
+			<h4>Login to Existing Account</h4>
 			<?php echo $this->Form->create('User'); ?>
 
 			<?php 
@@ -33,16 +38,6 @@
 				<button class="btn btn-primary" type="submit">Sign In</button>
 			</div>
 			<?php echo $this->Form->end(); ?>
-
-			<div class="form-extra">
-				<button class="btn btn-info" data-provider="facebook">
-					<i class="glyphicons-facebook"></i> Login with Facebook
-				</button>
-				<button class="btn btn-info" data-provider="twitter">
-					<i class="glyphicons-twitter"></i> Login with Twitter
-				</button>
-			</div>
-
 		</div>
 	</div>
 </div>
