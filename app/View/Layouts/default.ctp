@@ -61,6 +61,16 @@
     		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   		})();
 	</script>	
+	
+	<script>
+		function increment_hand(uid, params) {
+			console.log(uid);
+			console.log(params);
+			//here post call to server
+			// $.post('/hands/increment.json',{uid:uid,params:params},function(json){console.log(json)},'json');
+			return true;
+		}
+	</script>
 </head>
 <body>
 	
