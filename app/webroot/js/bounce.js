@@ -24,7 +24,7 @@ $(document).ready(function(){
 	$("input").not("[type=submit]").jqBootstrapValidation();
 	
     /* Scroll Effect for Alt. Homepage
-	* ====================== */	 
+	* ====================== */
 	function scrollEffect() {
 		scrollPos = $(this).scrollTop();
         $('#landingSlide').css({'background-position': 'center ' + (200 + (scrollPos/4)) + "px"});
