@@ -91,12 +91,12 @@ class OpauthController extends AccountAppController {
 						
 					if (!empty($auth)) {
 						$this->Auth->login($auth['User']);
-						$this->set('redirect_to', array('plugin' => null, 'controller' => 'users','action' => 'home'));
+						$this->set('redirect_to', array('plugin' => null, 'controller' => 'users','action' => 'play'));
 					} else {
 						if (($id = $this->User->register($response, User::REGISTER_SOCIAL)) != false) {
 							$auth = $this->User->find('first', array('conditions' => array('User.id' => $id)));
 							$this->Auth->login($auth['User']);
-							$this->set('redirect_to', array('plugin' => null, 'controller' => 'users','action' => 'home'));
+							$this->set('redirect_to', array('plugin' => null, 'controller' => 'users','action' => 'play'));
 						} else {
 							$this->set('redirect_to', array('plugin' => null, 'controller' => 'users','action' => 'login'));
 						}
