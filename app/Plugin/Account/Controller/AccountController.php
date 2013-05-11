@@ -26,11 +26,10 @@ class AccountController extends AccountAppController {
  * @return void
  */
 	public function confirm($field, $token = null) {
-
+		
 		if (($user = $this->User->verifyToken('confirm', $field, $token)) !== false) {
-	
-			if ($this->User->confirm($field, $user['User']['id'])) {
 				
+			if ($this->User->confirm($field, $user['User']['id'])) {				
 				$this->Session->setFlash(sprintf('Your %s has been validated',$field),'flash',array('type' => 'success'));
 			} else {
 				$this->Session->setFlash(sprintf('Your %s has been not validated',$field),'flash',array('type' => 'error'));

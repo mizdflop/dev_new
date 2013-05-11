@@ -19,7 +19,8 @@ class AppController extends Controller {
 		'Auth' => array(
 			'authenticate' => array(
 				'Form' => array(
-					'fields' => array('username' => 'email','password' => 'password')
+					'fields' => array('username' => 'email','password' => 'password'),
+					'scope' => array('User.confirm_email' => true)	
 				)
 			),
 			'authorize' => array('Controller')

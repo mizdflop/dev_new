@@ -18,10 +18,11 @@
 		<h4>Create an Account to get started with the Hold'em Skills Challenge</h4>
 	
 		<div class="form-extra clearfix">
-			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" >Connect using your Facebook account</a>
+			<a href="/auth/login/facebook" class="social facebook-button" >Connect using your Facebook account</a>
 		</div>	
 		
-		<p> or <br> Create an Account</p>
+		<h3>or</h3> 
+		<p>Create an account with your email address</p>
 		
 	<div class="well well-form txt-lefty" style="max-width:550px;">
 	<?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
@@ -68,7 +69,8 @@
 				'div' => 'input checkbox control-group',
 				'before' => '<div class="controls">',
 				'after' => '</div>',
-				'label' => array('text' => 'Agree'),	
+				'label' => array('text' => 'I agree to the site\'s Terms and Conditions.'),
+				'required' => true	
 			));
 		?>
 		<div class="btn-toolbar txt-righty">
