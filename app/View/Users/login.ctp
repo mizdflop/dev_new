@@ -15,8 +15,10 @@
 	<div class="span12">
 	
 		<div class="form-extra clearfix">
-			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" >Connect using your Facebook account</a>
+			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" style="font-size:16px;">Connect Using your Facebook account</a>
 		</div>
+		
+		<h3>OR</h3>
 						
 		<div class="well well-form txt-lefty">
 			<h4>Login to Existing Account</h4>
@@ -32,9 +34,11 @@
 				echo $this->Form->input('password', array(					'type' => 'password',					'div' => 'control-group',					'label' => false,					'before' => '<div class="controls"><div class="input-prepend">',					'between' => '<span class="add-on"><i class="icon-lock"></i></span>',					'after' => '</div></div>',					'class' => 'span3',					'placeholder' => 'Password'				));
             ?>
 			<div class="form-actions">
+				<!-- 
 				<label class="checkbox"> <?php echo $this->Form->input('remember', array('type' => 'checkbox','label' => false,'div' => false)); ?>
 					Remember Me
 				</label>
+				 -->
 				<button class="btn btn-primary" type="submit">Sign In</button>
 			</div>
 			<?php echo $this->Form->end(); ?>

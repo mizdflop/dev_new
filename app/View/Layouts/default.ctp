@@ -89,6 +89,7 @@
           <?php endif; ?>
 		  <div class="nav-collapse collapse">
             <ul class="nav pull-right animated">
+            	<!-- 	
 			  <li class="dropdown active">
 			    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Home <b class="caret"></b></a>
 				<ul class="dropdown-menu" role="menu">
@@ -113,6 +114,7 @@
 				  <li><a href="#" tabindex="-1">Alternative Contact</a></li>
 				</ul>
 			  </li>
+			   -->
 			  <?php if(empty($auth)): ?>
 			  <li><a href="/users/login">Login</a></li>
 			  <li><a href="/users/signup">Register</a></li>
