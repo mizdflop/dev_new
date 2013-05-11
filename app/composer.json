@@ -8,7 +8,8 @@
 		"opauth/opauth": "dev-master",
 		"opauth/facebook": "dev-master",
 		"opauth/twitter": "dev-master",
-		"opauth/google": "dev-master"						        
+		"opauth/google": "dev-master",
+		"rgnevashev/hybridauth3": "dev-master"
     },
     "minimum-stability" : "dev"
 }

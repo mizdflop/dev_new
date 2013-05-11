@@ -1,7 +1,7 @@
 <?php
 
 App::uses('AccountAppController', 'Account.Controller');
-App::uses('Opauth', 'Account.Lib/Opauth');
+//App::uses('Opauth', 'Account.Lib/Opauth');
 
 /**
  * Accounts Controller
