@@ -36,7 +36,7 @@ class UsersController extends AppController {
 			
 			if (($id = $this->User->register($this->request->data, User::REGISTER_GENERAL)) != false) {
 				
-				$this->Session->setFlash('Thanks for joining HoldemSkillsChallenge!', 'flash', array('type' => 'success'));
+				$this->Session->setFlash('A conformation email has been sent to your account. Please click the link within that email to continue.', 'flash', array('type' => 'success'));
 
 				return $this->redirect(array('action' => 'login'));
 			}
