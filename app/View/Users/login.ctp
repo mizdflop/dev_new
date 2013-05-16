@@ -14,11 +14,12 @@
 <div class="row">
 	<div class="span12">
 	
-		<div class="form-extra clearfix">
-			Login with facebook <a href="/auth/login/facebook" class="social facebook-button" style="font-size:16px;">Connect Using your Facebook account</a>
-		</div>
-		
-		<h3>OR</h3>
+		<?php if (empty($this->request->query['afterValidate'])): ?>
+			<div class="form-extra clearfix">
+				Login with facebook <a href="/auth/login/facebook" class="social facebook-button" style="font-size:16px;">Connect Using your Facebook account</a>
+			</div>
+			<h3>OR</h3>
+		<?php endif; ?>
 						
 		<div class="well well-form txt-lefty">
 			<h4>Login to Existing Account</h4>

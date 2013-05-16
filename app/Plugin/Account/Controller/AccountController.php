@@ -30,7 +30,7 @@ class AccountController extends AccountAppController {
 		if (($user = $this->User->verifyToken('confirm', $field, $token)) !== false) {
 				
 			if ($this->User->confirm($field, $user['User']['id'])) {				
-				$this->Session->setFlash(sprintf('Your %s has been validated',$field),'flash',array('type' => 'success'));
+				$this->Session->setFlash('Your email has been validated. Please use the form below to log in','flash',array('type' => 'success'));
 			} else {
 				$this->Session->setFlash(sprintf('Your %s has been not validated',$field),'flash',array('type' => 'error'));
 			}
@@ -38,7 +38,7 @@ class AccountController extends AccountAppController {
 			$this->Session->setFlash('The url you accessed is not longer valid','flash',array('type' => 'error'));			
 		}
 		
-		$this->redirect(array('plugin' => null,'controller' => 'users','action' => 'login'));
+		$this->redirect(array('plugin' => null,'controller' => 'users','action' => 'login','?' => array('afterValidate' => true)));
 	}	
 	
 /**
