@@ -157,10 +157,11 @@
 					
 	  </div>
 	</div>	
-	
+
 	<div id="footer">
 	  <div class="container">
 	    <div class="row">
+	    	<!-- 	
 		  <div class="span3">
 			<h3>Quick Links</h3>
 			<ul class="animated">
@@ -193,7 +194,8 @@
               <input type="text" name="subscribe" placeholder="Your Email" class="span3">
 			  <button class="btn btn-primary">Subscribe</button>
 			</form>
-		  </div>		  
+		  </div>
+		   -->		  
 		</div>	  
       </div>	  
     </div>
