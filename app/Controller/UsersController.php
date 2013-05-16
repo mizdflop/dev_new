@@ -10,7 +10,7 @@ class UsersController extends AppController {
 		
 		parent::beforeFilter();
 		
-		$this->Auth->allow(array('signup'));	
+		$this->Auth->allow(array('signup','authenticated'));	
 	}	
 	
 	public function login() {
@@ -83,5 +83,15 @@ class UsersController extends AppController {
 	
 	public function play() {
 		
+	}
+	
+	public function authenticated() {
+				
+		if ($this->Auth->user()) {
+			$this->set(array(				'id' => $this->Auth->user('id'),				'_serialize' => array('id')			));				
+		} else {
+			$this->response->statusCode(401);
+			$this->set(array(				'error' => 'User not authorized',				'_serialize' => array('error')			));			
+		}
 	}
 }
