@@ -85,7 +85,7 @@
           <?php if(empty($auth)): ?>
           <a class="brand" href="/">Hold'em Skills Challenge</a>
           <?php else: ?>
-          <a class="brand" href="/users/home">Hold'em Skills Challenge</a>
+          <a class="brand" href="/users/play">Hold'em Skills Challenge</a>
           <?php endif; ?>
 		  <div class="nav-collapse collapse">
             <ul class="nav pull-right animated">
@@ -119,6 +119,7 @@
 			  <li><a href="/users/login">Login</a></li>
 			  <li><a href="/users/signup">Register</a></li>
 			  <?php else: ?>
+			  <li><a href="/users/play">Start Play</a></li>
 			  <li><a href="/users/logout">Logout</a></li>
 			  <?php endif; ?>
             </ul>
