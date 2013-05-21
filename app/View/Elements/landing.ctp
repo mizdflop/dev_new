@@ -12,7 +12,11 @@
 				<div class="span4 offset1">
 					<h2>How do You Stack Up?</h2>
 					<h4><strong>Take the Hold'em Skills Challenge</strong></h4>
-				    <p><a href="/users/signup" class="btn btn-primary btn-action"><strong>Get Started Now</strong></a></p>  
+					<?php if (empty($auth)): ?>
+				    <p><a href="/users/signup" class="btn btn-primary btn-action"><strong>Get Started Now</strong></a></p>
+				    <?php else: ?>
+				    <p><a href="/users/play" class="btn btn-primary btn-action"><strong>Start Play Now</strong></a></p>
+				    <?php endif; ?>  
 				</div>
 		  	</div>
 		  </div>
