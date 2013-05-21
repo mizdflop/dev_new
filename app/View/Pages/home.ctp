@@ -9,7 +9,7 @@
 		    <div class="icon_wrapper">
 				<p style="font-size:88px;">&spades;</p>
 		    </div>
-			<h2>Separating Skill and Profit</h2>
+			<h2>Separating Skill</h2>
 			<p>We all know that profit is a terrible measure of skill – you can play well but run bad, and you
 can play poorly but run well. However you’re <em>running</em>, our algorithms can judge how well you’re
 <em>playing</em>.</p>	
