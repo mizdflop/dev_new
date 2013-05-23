@@ -21,7 +21,7 @@
 		  	</div>
 		  </div>
 		  <div class="span6">
-			  <img src="img/hero_graph.jpeg">
+			  <img src="img/hero_graph_false.jpeg">
 		  </div>
 	    </div>
   	  </div>
