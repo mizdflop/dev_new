@@ -20,7 +20,6 @@
 			'https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js',	
 			'bootstrap.min',
 			'holder',
-			'hsc',	
 			'jquery.fitvids',
 			'jqBootstrapValidation',
 			'bounce'			
@@ -49,6 +48,10 @@
     <link rel="shortcut icon" href="/ico/favicon.png">    
         	
 	<?php  echo $this->fetch('script');	?>
+	
+	<script type="text/javascript">
+		$(document).ready(function(){bounce.ui.init();});
+	</script>
 	
 	<script type="text/javascript">
   		var _gaq = _gaq || [];
