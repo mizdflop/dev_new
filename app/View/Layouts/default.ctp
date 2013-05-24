@@ -4,8 +4,8 @@
 	
 	$this->Html->css(
 		array(
-			'bootstrap.min',
-			'bootstrap-responsive.min',
+			'/bootstrap/css/bootstrap.min',
+			'/bootstrap/css/bootstrap-responsive.min',
 			'glyphicons',	
 			'http://fonts.googleapis.com/css?family=Open+Sans:400,300',	
 			'base',	
@@ -16,12 +16,12 @@
 
 	$this->Html->script(
 		array(
-			//'http://code.jquery.com/jquery.min.js',
-			'https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js',	
-			'bootstrap.min',
+			'http://code.jquery.com/jquery.min.js',
+			//'https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js',	
+			'/bootstrap/js/bootstrap.min',
 			'holder',
 			'jquery.fitvids',
-			'jqBootstrapValidation',
+			//'jqBootstrapValidation',
 			'bounce'			
 		), 
 		array('inline' => false)

@@ -37,7 +37,7 @@
 				 * https://github.com/ReactiveRaven/jqBootstrapValidation
 				 * ======================
 				 */
-				$("input").not("[type=submit]").jqBootstrapValidation();
+				//$("input").not("[type=submit]").jqBootstrapValidation();
 
 				/*
 				 * Scroll Effect for Alt. Homepage ======================
