@@ -66,13 +66,7 @@
 	</script>	
 	
 	<script>
-		function increment_hand(uid, params) {
-			console.log(uid);
-			console.log(params);
-			//here post call to server
-			// $.post('/hands/increment.json',{uid:uid,params:params},function(json){console.log(json)},'json');
-			return true;
-		}
+		// bounce.poker.increment_hand(uid, params);
 	</script>
 </head>
 <body>
@@ -147,7 +141,7 @@
 		</div>	
 	<?php endif; ?>
 	
-	<div id="content" class="txt-middle">
+	<div id="content" class="text-center">
 	  <div class="container">
 	  
 	  	<?php echo $this->Session->flash(); ?>

@@ -71,7 +71,7 @@
 				'class' => 'input-xlarge'
 			));			
 		?>
-		<div class="btn-toolbar txt-righty">
+		<div class="btn-toolbar text-right">
 			<?php echo $this->Form->button('Update', array('class' => 'btn btn-primary btn-medium')); ?>
 		</div>		
 	<?php echo $this->Form->end(); ?>

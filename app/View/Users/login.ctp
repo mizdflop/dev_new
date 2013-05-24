@@ -21,7 +21,7 @@
 			<h3>OR</h3>
 		<?php endif; ?>
 						
-		<div class="well well-form txt-lefty">
+		<div class="well well-form text-left">
 			<h4>Login to Existing Account</h4>
 			<small><?php echo $this->Html->link('Click here to create a new account?','/users/signup'); ?></small>
 			<?php echo $this->Form->create('User'); ?>

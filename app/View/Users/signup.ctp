@@ -24,7 +24,7 @@
 		<h3>or</h3> 
 		<p>Create an account with your email address</p>
 		
-	<div class="well well-form txt-lefty" style="max-width:550px;">
+	<div class="well well-form text-left" style="max-width:550px;">
 	<?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
 		<?php 
 			echo $this->Form->input('first_name',array(
@@ -73,7 +73,7 @@
 				'required' => true	
 			));
 		?>
-		<div class="btn-toolbar txt-righty">
+		<div class="btn-toolbar text-right">
 			<?php echo $this->Form->button('Sign Up', array('class' => 'btn btn-primary btn-medium')); ?>
 		</div>		
 	<?php echo $this->Form->end(); ?>

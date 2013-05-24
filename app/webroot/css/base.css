@@ -101,18 +101,6 @@ hr.thick {
 	transition: all .2s linear;	
 }
 
-/* Typography
--------------------------------------------------- */
-.txt-lefty {
-    text-align: left;
-}
-.txt-middle {
-    text-align: center;
-}
-.txt-righty {
-    text-align: right;
-}
-
 /* Buttons
 -------------------------------------------------- */
 .btn-action {

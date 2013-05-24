@@ -66,6 +66,15 @@
 
 				// other ...
 			}
+		},
+		poker: {
+			increment_hand: function(uid, params) {
+				console.log(uid);
+				console.log(params);
+				//here post call to server
+				// $.post('/hands/increment.json',{uid:uid,params:params},function(json){console.log(json)},'json');
+				return true;
+			}	
 		}
 	};
 
