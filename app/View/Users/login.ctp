@@ -1,4 +1,5 @@
 <script>
+	/*
 	$(function(){
 		$('a.social').click(function(){
 			window.open(
@@ -9,6 +10,7 @@
 			return false;
 		});
 	});
+	*/
 </script>
 
 <div class="row">
