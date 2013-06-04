@@ -1,0 +1,31 @@
+{
+  "minimum-stability": "dev",
+  "config": {
+      "vendor-dir": "vendor"
+  },
+  "repositories" : [
+    {
+      "type": "package",
+      "package": {
+        "name" : "cakephp/cakephp",
+        "version" : "2.3.5",
+        "source" : {
+          "type" : "git",
+          "url" : "git://github.com/cakephp/cakephp.git",
+          "reference" : "2.3.5"
+        },
+        "bin" : ["lib/Cake/Console/cake"]
+      }
+    }
+  ],
+  "require" : {
+    "php": ">=5.3",
+    "cakephp/cakephp" : "2.3.5",
+    "imagine/imagine": "dev-master",
+	"opauth/opauth": "dev-master",
+	"opauth/facebook": "dev-master",
+	"opauth/twitter": "dev-master",
+	"opauth/google": "dev-master",
+	"rgnevashev/hybridauth3": "dev-master"        
+  }
+}
