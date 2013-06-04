@@ -24,3 +24,6 @@
 /.travis.yml
 
 /app/vendor/*
+
+/vendor/*
+/composer.lock

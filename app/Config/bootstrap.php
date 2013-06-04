@@ -24,6 +24,7 @@
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */
 
+/** * Composer autoloader */	if (file_exists(dirname(dirname(__DIR__)) . '/vendor/autoload.php')) {		require_once dirname(dirname(__DIR__)) . '/vendor/autoload.php';	}
 // Setup a 'default' cache configuration for use in the application.
 Cache::config('default', array('engine' => 'File'));
 
@@ -129,10 +130,3 @@ Cache::config('default', array('engine' => 'File'));
  * Configure Opauth
  */	
 	Configure::load('opauth');
-
-/**
- * Composer loader
- */
-	if (file_exists(APP . 'vendor' . DS . 'autoload.php')) {
-		require APP . 'vendor' . DS . 'autoload.php';
-	}
