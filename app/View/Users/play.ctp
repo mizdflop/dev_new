@@ -51,7 +51,7 @@
 	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="800" height="600" id="poker" align="middle">
 	<param name="allowScriptAccess" value="sameDomain" />
 	<param name="allowFullScreen" value="false" />
-	<param name="movie" value="poker.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#17300a" />	<embed src="/flash/poker.swf" quality="high" bgcolor="#17300a" width="800" height="600" name="poker" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	<param name="movie" value="/flash/poker.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#17300a" />	<embed src="/flash/poker.swf" quality="high" bgcolor="#17300a" width="800" height="600" name="poker" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	</object>
 </noscript>
 
