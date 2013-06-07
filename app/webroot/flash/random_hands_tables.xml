@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<allconfigurations>
+<table>
+<tablenum>0</tablenum>
+<tablename>Beginner Level Tournament</tablename>
+<shortdescription>This is just a typical home game.</shortdescription>
+<longdescription><![CDATA[BUYIN: $10<br/>STARTING CHIPS: 1500<br/>STARTING BLINDS: 10/20<br/>1ST PLACE: $45 (50%)<br/>2ND PLACE: $27 (30%)<br/>3RD PLACE: $18 (20%)]]></longdescription>
+<bigblind>2</bigblind>
+<numplayers>9</numplayers>
+<bot>12</bot>
+<bot>0</bot>
+<bot>18</bot>
+<bot>2</bot>
+<bot>14</bot>
+<bot>16</bot>
+<bot>8</bot>
+<bot>4</bot>
+</table>
+<table>
+<tablenum>1</tablenum>
+<tablename>Chips on the Beach</tablename>
+<shortdescription>This is the type of game you would find on a beach.</shortdescription>
+<longdescription>This game is held in Hawaii etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc.</longdescription>
+<bigblind>5</bigblind>
+<numplayers>9</numplayers>
+<bot>0</bot>
+<bot>1</bot>
+<bot>2</bot>
+<bot>3</bot>
+<bot>4</bot>
+<bot>5</bot>
+<bot>6</bot>
+<bot>7</bot>
+<bot>8</bot>
+<bot>9</bot>
+</table>
+<table>
+<tablenum>2</tablenum>
+<tablename>Mile High Summer</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>10</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>3</tablenum>
+<tablename>A Poker Party</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>20</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>4</tablenum>
+<tablename>Big City Lights</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>50</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>5</tablenum>
+<tablename>Not So Diagon Alley</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>200</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>6</tablenum>
+<tablename>Stranded in the Sahara</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>400</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>7</tablenum>
+<tablename>The Swiss Alps</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>1000</bigblind>
+<numplayers>9</numplayers>
+<bot>2</bot>
+<bot>3</bot>
+<bot>5</bot>
+<bot>7</bot>
+<bot>9</bot>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+</table>
+<table>
+<tablenum>8</tablenum>
+<tablename>Vegas Championship</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>5000</bigblind>
+<numplayers>9</numplayers>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+<bot>14</bot>
+<bot>15</bot>
+<bot>16</bot>
+<bot>17</bot>
+<bot>18</bot>
+</table>
+<table>
+<tablenum>9</tablenum>
+<tablename>KGB's Dungeon</tablename>
+<shortdescription></shortdescription>
+<longdescription></longdescription>
+<bigblind>1000</bigblind>
+<numplayers>9</numplayers>
+<bot>11</bot>
+<bot>12</bot>
+<bot>13</bot>
+<bot>14</bot>
+<bot>15</bot>
+<bot>16</bot>
+<bot>17</bot>
+<bot>18</bot>
+</table>
+<bottype>
+<opp_num>0</opp_num>
+<opp_name>David</opp_name>
+<nickname>"The Punisher"</nickname>
+<hometown>Los Angeles, CA, USA</hometown>
+<opp_desc>12</opp_desc>
+<opp_text>Nicknamed "The Punisher", Joe inflicts most of his punishment on himself by being too aggressive at the wrong times.</opp_text>
+<opp_picture>0.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>1</opp_num>
+<opp_name>Maniac</opp_name>
+<nickname>"The Underminer"</nickname>
+<hometown>San Francisco, CA, USA</hometown>
+<opp_desc>1</opp_desc>
+<opp_text>Stu likes to throw his chips around and often undermines anyone who wants to keep the stakes low.</opp_text>
+<opp_picture>1.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>2</opp_num>
+<opp_name>Doyle</opp_name>
+<nickname>"The Tease"</nickname>
+<hometown>Boston, Massachusetts, USA</hometown>
+<opp_desc>13</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>She likes to tease. But she's very generous with her chips.</opp_text>
+<opp_picture>2.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>3</opp_num>
+<opp_name>Donkey</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>3</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>3.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>4</opp_num>
+<opp_name>Vanessa</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>14</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>4.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>5</opp_num>
+<opp_name>Joe Ferguson</opp_name>
+<nickname>"The Joker"</nickname>
+<hometown>Miami, FL</hometown>
+<opp_desc>18</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Joe is a pretty good player.</opp_text>
+<opp_picture>5.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>6</opp_num>
+<opp_name>Bold</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>6</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>6.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>7</opp_num>
+<opp_name>Tricky</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>7</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>7.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>8</opp_num>
+<opp_name>Tom</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>15</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>8.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>9</opp_num>
+<opp_name>Wild</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>9</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>9.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>10</opp_num>
+<opp_name>C2M</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>10</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>10.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>11</opp_num>
+<opp_name>Num 15</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>15</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>11.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>12</opp_num>
+<opp_name>Phil</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>16</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>12.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>1</advisor>
+</bottype>
+<bottype>
+<opp_num>13</opp_num>
+<opp_name>Num 17</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>17</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>13.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>14</opp_num>
+<opp_name>Jennifer</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>17</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>14.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>15</opp_num>
+<opp_name>Num 15, 2</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>15</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>15.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+<bottype>
+<opp_num>16</opp_num>
+<opp_name>Kathy</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>18</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>16.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype><bottype>
+<opp_num>17</opp_num>
+<opp_name>Num 17, 2</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>17</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>17.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype><bottype>
+<opp_num>18</opp_num>
+<opp_name>Annie</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>19</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>18.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype><bottype>
+<opp_num>19</opp_num>
+<opp_name>Amazing</opp_name>
+<nickname>Nickname</nickname>
+<hometown>HomeTown</hometown>
+<opp_desc>19</opp_desc>
+<short_desc>Loose, Passive Beginner</short_desc>
+<opp_text>Text</opp_text>
+<opp_picture>19.png</opp_picture>
+<stats>100 1 2 3 4 5 6 7 8 9 10 11 12 13 14</stats>
+<advisor>0</advisor>
+</bottype>
+</allconfigurations>
