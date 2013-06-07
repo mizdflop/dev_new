@@ -85,13 +85,23 @@ class UsersController extends AppController {
 		
 	}
 	
+		public function play_neo() {
+		
+	}
+	
 	public function authenticated() {
 				
 		if ($this->Auth->user()) {
-			$this->set(array(				'id' => $this->Auth->user('id'),				'_serialize' => array('id')			));				
+			$this->set(array(
+				'id' => $this->Auth->user('id'),
+				'_serialize' => array('id')
+			));				
 		} else {
 			$this->response->statusCode(401);
-			$this->set(array(				'error' => 'User not authorized',				'_serialize' => array('error')			));			
+			$this->set(array(
+				'error' => 'User not authorized',
+				'_serialize' => array('error')
+			));			
 		}
 	}
 }
