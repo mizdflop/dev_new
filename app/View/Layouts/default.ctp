@@ -74,19 +74,24 @@
 	<div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="btn btn-primary btn-dropnav" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>		
+        	<?php /* 
+          		<a class="btn btn-primary btn-dropnav" data-toggle="collapse" data-target=".nav-collapse">
+            		<span class="icon-bar"></span>
+            		<span class="icon-bar"></span>
+            		<span class="icon-bar"></span>
+          		</a>		
+          	*/?>
+          	
           <?php if(empty($auth)): ?>
-          <a class="brand" href="/">Hold'em Skills Challenge</a>
+          	<a class="brand" href="/">Hold'em Skills Challenge</a>
           <?php else: ?>
-          <a class="brand" href="/users/play">Hold'em Skills Challenge</a>
+          	<a class="brand" href="/users/play">Hold'em Skills Challenge</a>
           <?php endif; ?>
+          
 		  <div class="nav-collapse collapse">
             <ul class="nav pull-right animated">
-            	<!-- 	
+            
+				<?php /* 	
 			  <li class="dropdown active">
 			    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Home <b class="caret"></b></a>
 				<ul class="dropdown-menu" role="menu">
@@ -111,12 +116,13 @@
 				  <li><a href="#" tabindex="-1">Alternative Contact</a></li>
 				</ul>
 			  </li>
-			   -->
+				*/?>
+				
 			  <?php if(empty($auth)): ?>
-			  <li><a href="/users/login">Login</a></li>
-			  <li><a href="/users/signup">Register</a></li>
+			  <li class="<?php echo ($this->here == '/users/login')?'active':''; ?>"><a href="/users/login">Login</a></li>
+			  <li class="<?php echo ($this->here == '/users/signup')?'active':''; ?>"><a href="/users/signup">Register</a></li>
 			  <?php else: ?>
-			  <li><a href="/users/play">Start Play</a></li>
+			  <li class="<?php echo ($this->here == '/users/play')?'active':''; ?>"><a href="/users/play">Start Play</a></li>
 			  <li><a href="/users/logout">Logout</a></li>
 			  <?php endif; ?>
             </ul>
@@ -130,16 +136,12 @@
 	<?php endif; ?>   
 	
 	<?php if ($this->fetch('page_title')): ?>
-		<div id="header">
-	  		<div class="container">  
-	    		<div class="row">
-		  			<div class="span12">
-		    			<h1><?php echo $this->fetch('page_title'); ?></h1>
-		  			</div>
-				</div>
-	  		</div>
-		</div>	
-	<?php endif; ?>
+		<div class="page-header">
+			<div class="container">
+	   			<h1><?php echo $this->fetch('page_title'); ?></h1>
+	   		</div>	
+		</div>
+	<?php endif; ?>	
 	
 	<div id="content" class="text-center">
 	  <div class="container">

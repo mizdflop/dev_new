@@ -7,7 +7,7 @@
 <div class="row">
 	<div class="span6 bouncy">
 		<div class="icon_wrapper">
-			<p style="font-size: 88px;">&spades;</p>
+			<p style="font-size: 88px;">&#x2660;</p>
 		</div>
 		<h2>Separating Skill and Luck</h2>
 		<p>
@@ -18,7 +18,7 @@
 	</div>
 	<div class="span6 bouncy">
 		<div class="icon_wrapper">
-			<p style="font-size: 88px;">&clubs;</p>
+			<p style="font-size: 88px;">&#x2663;</p>
 		</div>
 		<h2>The Power of Big Data</h2>
 		<p>With one billion hands we can measure any action you take against

@@ -16,18 +16,18 @@
 						</h4>
 						<?php if (empty($auth)): ?>
 						<p>
-							<a href="/users/signup" class="btn btn-primary btn-action"><strong>Get Started Now</strong></a>
+							<a href="/users/signup" class="btn btn-primary btn-large"><strong>Get Started Now</strong></a>
 						</p>
 						<?php else: ?>
 						<p>
-							<a href="/users/play" class="btn btn-primary btn-action"><strong>Start Play Now</strong></a>
+							<a href="/users/play" class="btn btn-primary btn-large"><strong>Start Play Now</strong></a>
 						</p>
 						<?php endif; ?>
 					</div>
 				</div>
 			</div>
 			<div class="span6">
-				<img src="/img/hero_graph_false.jpeg">
+				<img src="/img/hero_graph.jpeg">
 			</div>
 		</div>
 	</div>
