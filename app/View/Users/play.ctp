@@ -39,7 +39,7 @@
 			'bgcolor', '#17300a',
 			'name', 'poker',
 			'menu', 'true',
-			'FlashVars', 'FirstName=SkillIn&LastName=Games&UserID=12345&OutputURL=test.php',
+			'FlashVars', 'FirstName=SkillIn&LastName=Games&UserID=12345&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS',
 			'allowFullScreen', 'false',
 			'allowScriptAccess','sameDomain',
 			'movie', '/flash/poker',
