@@ -20,12 +20,16 @@
   ],
   "require" : {
     "php": ">=5.3",
-    "cakephp/cakephp" : "2.3.5",
+	"ext-curl": "*",
+	"ext-gd": "*",
+    "cakephp/cakephp" : ">=2.3.5",
     "imagine/imagine": "dev-master",
 	"opauth/opauth": "dev-master",
 	"opauth/facebook": "dev-master",
 	"opauth/twitter": "dev-master",
 	"opauth/google": "dev-master",
-	"rgnevashev/hybridauth3": "dev-master"        
+	"rgnevashev/hybridauth3": "dev-master",
+    "mjohnson/uploader": "4.1.1",
+    "aws/aws-sdk-php": "~2.2"	
   }
 }

@@ -26,7 +26,7 @@
 			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
 			'width', '800',
 			'height', '600',
-			'src', 'poker',
+			'src', '/flash/poker',
 			'quality', 'high',
 			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
 			'align', 'middle',
@@ -42,7 +42,7 @@
 			'FlashVars', 'FirstName=SkillIn&LastName=Games&UserID=12345&OutputURL=test.php',
 			'allowFullScreen', 'false',
 			'allowScriptAccess','sameDomain',
-			'movie', 'poker',
+			'movie', '/flash/poker',
 			'salign', ''
 			); //end AC code
 	}
