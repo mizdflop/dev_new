@@ -53,3 +53,9 @@ div.form-extra {
 	right: 0;
 	bottom: 0;	
 }
+
+
+/* Play page */
+#report .skill_categories > li:nth-child(odd) {
+	margin-left: 0;
+}

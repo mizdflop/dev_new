@@ -1,8 +1,8 @@
 <?php 
-	/*
-	$this->start('leftnav');
-		echo $this->element('leftnav');
-	$this->end();*/
+	/**
+	 * 
+	 * @property auth $auth logged user data
+	 */
 ?>
 
 <script>
@@ -14,7 +14,7 @@
 						$('#report .skill_categories').empty();
 						for (var i in json.report[k]) {
 							$('#report .skill_categories').append(
-								'<li class="span5"><div class="thumbnail"><p>'+json.report[k][i].name+'</p><h3>'+json.report[k][i].score+'</h3></div></li>'	
+								'<li class="span6"><div class="thumbnail"><p>'+json.report[k][i].name+'</p><h3>'+json.report[k][i].score+'</h3></div></li>'	
 							);
 						}
 					} else {
@@ -64,7 +64,7 @@
 			'bgcolor', '#17300a',
 			'name', 'poker',
 			'menu', 'true',
-			'FlashVars', 'FirstName=SkillIn&LastName=Games&UserID=12345&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS',
+			'FlashVars', 'FirstName=<?php echo $auth['first_name']; ?>&LastName=<?php echo $auth['last_name']; ?>&UserID=<?php echo $auth['id']; ?>&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS',
 			'allowFullScreen', 'false',
 			'allowScriptAccess','sameDomain',
 			'movie', '/flash/poker',
@@ -84,7 +84,7 @@
 		<div id="report" class="span3">
 			<h4>Skills Report</h4>
 			<p>Hand played: <span class="hand_played">252</span></p>
-			<p>Report updates every 25 hands</p>
+			<p>Report Updates Every 3 Minutes</p>
 			<div class="well">
 				<p>Total Skills Score</p>
 				<h3 class="total_skills_score">75</h3>
@@ -101,34 +101,33 @@
 				</div>
 			</div>
 			<h3>Skill Categories</h3>
-			<div class="row-fluid">
+
 		    <ul class="thumbnails skill_categories">
-    			<li class="span5">
+    			<li class="span6">
     				<div class="thumbnail">
     					<p>Bluffing</p>
     					<h3>25</h3>
     				</div>
     			</li>
-    			<li class="span5">
+    			<li class="span6">
     				<div class="thumbnail">
     					<p>Bluffing</p>
     					<h3>25</h3>
     				</div>
     			</li>
-    			<li class="span5">
+    			<li class="span6">
     				<div class="thumbnail">
     					<p>Bluffing</p>
     					<h3>25</h3>
     				</div>
     			</li>
-    			<li class="span5">
+    			<li class="span6">
     				<div class="thumbnail">
     					<p>Bluffing</p>
     					<h3>25</h3>
     				</div>
     			</li>
 		    </ul>
-		    </div>
 		    
 		</div>
 	</div>
