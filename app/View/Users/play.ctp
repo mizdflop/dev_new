@@ -65,7 +65,7 @@
 				<h3>75</h3>
 				<p><strong>Overall</strong>: Playing Well</p>
 			</div>
-<!--
+
 			<div class="well">
 				<h4>Skills By Street</h4>
 				<div class="row-fluid">
@@ -104,7 +104,7 @@
     			</li>
 		    </ul>
 		    </div>
--->		    
+		    
 		</div>
 	</div>
 <?php /* </div>*/?>
