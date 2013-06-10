@@ -26,7 +26,7 @@ class AppController extends Controller {
 			'authorize' => array('Controller')
 		),
 		'RequestHandler',
-			/*'DebugKit.Toolbar'*/
+		/*'DebugKit.Toolbar'*/
 	);
 	
 	function beforeFilter() {

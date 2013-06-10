@@ -5,6 +5,31 @@
 	$this->end();*/
 ?>
 
+<script>
+	function getSkillsReport() {
+		$.getJSON('/skills/report.json',function(json){
+			if (json) {
+				for(var k in json.report) {
+					if (k == 'categories') {
+						$('#report .skill_categories').empty();
+						for (var i in json.report[k]) {
+							$('#report .skill_categories').append(
+								'<li class="span5"><div class="thumbnail"><p>'+json.report[k][i].name+'</p><h3>'+json.report[k][i].score+'</h3></div></li>'	
+							);
+						}
+					} else {
+						$('#report .'+k).text(json.report[k]);
+					}
+				}				
+			}
+			setTimeout(getSkillsReport, 180000);
+		});
+	}
+	$(function(){
+		setTimeout(getSkillsReport, 10000);
+	});
+</script>
+
 <?php /* <div class="pull-left" style="margin-left:20px;">*/?>
 	<div class="row-fluid">
 		<div class="span9">
@@ -56,28 +81,28 @@
 </noscript>
 
 		</div>	
-		<div class="span3">
+		<div id="report" class="span3">
 			<h4>Skills Report</h4>
-			<p>Hand played: 252</p>
+			<p>Hand played: <span class="hand_played">252</span></p>
 			<p>Report updates every 25 hands</p>
 			<div class="well">
 				<p>Total Skills Score</p>
-				<h3>75</h3>
-				<p><strong>Overall</strong>: Playing Well</p>
+				<h3 class="total_skills_score">75</h3>
+				<p><strong>Overall</strong>: <span class="overall">Playing Well</span></p>
 			</div>
 
 			<div class="well">
 				<h4>Skills By Street</h4>
 				<div class="row-fluid">
-					<div class="span3">Preflop <h3>-4</h3></div>
-					<div class="span3">Flop <h3>-4</h3></div>
-					<div class="span3">Turn <h3>4</h3></div>
-					<div class="span3">River <h3>4</h3></div>
+					<div class="span3">Preflop <h3 class="preflop">-4</h3></div>
+					<div class="span3">Flop <h3 class="flop">-4</h3></div>
+					<div class="span3">Turn <h3 class="turn">4</h3></div>
+					<div class="span3">River <h3 class="river">4</h3></div>
 				</div>
 			</div>
 			<h3>Skill Categories</h3>
 			<div class="row-fluid">
-		    <ul class="thumbnails">
+		    <ul class="thumbnails skill_categories">
     			<li class="span5">
     				<div class="thumbnail">
     					<p>Bluffing</p>
