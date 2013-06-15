@@ -64,7 +64,7 @@
 			'bgcolor', '#17300a',
 			'name', 'poker',
 			'menu', 'true',
-			'FlashVars', 'FirstName=<?php echo $auth['first_name']; ?>&LastName=<?php echo $auth['last_name']; ?>&UserID=<?php echo $auth['id']; ?>&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS',
+			'FlashVars', 'FirstName=<?php echo $auth['first_name']; ?>&LastName=<?php echo $auth['last_name']; ?>&UserID=<?php echo $auth['id']; ?>&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS/apt',
 			'allowFullScreen', 'false',
 			'allowScriptAccess','sameDomain',
 			'movie', '/flash/poker',
