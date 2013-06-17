@@ -27,6 +27,9 @@
 	}
 	$(function(){
 		setTimeout(getSkillsReport, 10000);
+		$('#skills-report-update').click(function(){
+			getSkillsReport();
+		});
 	});
 </script>
 
@@ -82,6 +85,7 @@
 
 		</div>	
 		<div id="report" class="span3">
+			<button id="skills-report-update" class="btn btn-primary">Update</button>
 			<h4>Skills Report</h4>
 			<p>Hand played: <span class="hand_played">252</span></p>
 			<p>Report Updates Every 3 Minutes</p>
