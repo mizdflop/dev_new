@@ -6,7 +6,7 @@
 ?>
 
 <script>
-	function getSkillsReport() {
+	function getSkillsReport(next) {
 		$.getJSON('/skills/report.json',function(json){
 			if (json) {
 				for(var k in json.report) {
@@ -22,13 +22,15 @@
 					}
 				}				
 			}
-			setTimeout(getSkillsReport, 180000);
+			if (next) {
+				setTimeout(function(){getSkillsReport(true);}, 180000);
+			}
 		});
 	}
 	$(function(){
-		setTimeout(getSkillsReport, 10000);
+		setTimeout(function(){getSkillsReport(true);}, 10000);
 		$('#skills-report-update').click(function(){
-			getSkillsReport();
+			getSkillsReport(false);
 		});
 	});
 </script>
