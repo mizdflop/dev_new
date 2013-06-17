@@ -14,46 +14,7 @@ class Street extends AppModel {
  * @var array
  */
 	public $validate = array(
-		'user_id' => array(
-			'numeric' => array(
-				'rule' => array('numeric'),
-				//'message' => 'Your custom message here',
-				//'allowEmpty' => false,
-				//'required' => false,
-				//'last' => false, // Stop validation after this rule
-				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
-		'hand_id' => array(
-			'numeric' => array(
-				'rule' => array('numeric'),
-				//'message' => 'Your custom message here',
-				//'allowEmpty' => false,
-				//'required' => false,
-				//'last' => false, // Stop validation after this rule
-				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
-		'street' => array(
-			'numeric' => array(
-				'rule' => array('numeric'),
-				//'message' => 'Your custom message here',
-				//'allowEmpty' => false,
-				//'required' => false,
-				//'last' => false, // Stop validation after this rule
-				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
-		'hand_number' => array(
-			'numeric' => array(
-				'rule' => array('numeric'),
-				//'message' => 'Your custom message here',
-				//'allowEmpty' => false,
-				//'required' => false,
-				//'last' => false, // Stop validation after this rule
-				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
+
 	);
 
 	//The Associations below have been created with all possible keys, those that are not needed can be removed
@@ -64,13 +25,6 @@ class Street extends AppModel {
  * @var array
  */
 	public $belongsTo = array(
-		'User' => array(
-			'className' => 'User',
-			'foreignKey' => 'user_id',
-			'conditions' => '',
-			'fields' => '',
-			'order' => ''
-		),
 		'Hand' => array(
 			'className' => 'Hand',
 			'foreignKey' => 'hand_id',
@@ -79,4 +33,6 @@ class Street extends AppModel {
 			'order' => ''
 		)
 	);
+	
+/** * hasMany associations * * @var array */	public $hasMany = array(		'Action' => array(			'className' => 'Action',			'foreignKey' => 'street_id',			'dependent' => true,			'conditions' => '',			'fields' => '',			'order' => '',			'limit' => '',			'offset' => '',			'exclusive' => '',			'finderQuery' => '',			'counterQuery' => ''		),	);	
 }

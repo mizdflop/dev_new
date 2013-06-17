@@ -14,19 +14,12 @@ class Hand extends AppModel {
  * @var array
  */
 	public $validate = array(
-		'hand_number' => array(
-			'numeric' => array(
-				'rule' => array('numeric'),
-				//'message' => 'Your custom message here',
-				//'allowEmpty' => false,
-				//'required' => false,
-				//'last' => false, // Stop validation after this rule
-				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
+
 	);
 
 	//The Associations below have been created with all possible keys, those that are not needed can be removed
+	
+/** * belongsTo associations * * @var array */	public $belongsTo = array(		'User' => array(			'className' => 'User',			'foreignKey' => 'user_id',			'conditions' => '',			'fields' => '',			'order' => ''		)	);	
 
 /**
  * hasMany associations
@@ -34,23 +27,10 @@ class Hand extends AppModel {
  * @var array
  */
 	public $hasMany = array(
-		'Action' => array(
-			'className' => 'Action',
-			'foreignKey' => 'hand_id',
-			'dependent' => false,
-			'conditions' => '',
-			'fields' => '',
-			'order' => '',
-			'limit' => '',
-			'offset' => '',
-			'exclusive' => '',
-			'finderQuery' => '',
-			'counterQuery' => ''
-		),
 		'Street' => array(
 			'className' => 'Street',
 			'foreignKey' => 'hand_id',
-			'dependent' => false,
+			'dependent' => true,
 			'conditions' => '',
 			'fields' => '',
 			'order' => '',

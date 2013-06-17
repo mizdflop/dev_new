@@ -129,7 +129,7 @@ class User extends AppModel {
  * @var array
  */
 	public $hasMany = array(
-	
+		'Hand' => array(			'className' => 'Hand',			'foreignKey' => 'user_id',			'dependent' => true,			'conditions' => '',			'fields' => '',			'order' => '',			'limit' => '',			'offset' => '',			'exclusive' => '',			'finderQuery' => '',			'counterQuery' => ''		),	
 	);
 	
 	public function beforeSave($options = array()) {
