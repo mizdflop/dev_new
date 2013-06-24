@@ -33,6 +33,20 @@ class HandsController extends AppController {
 		$options = array('conditions' => array('Hand.' . $this->Hand->primaryKey => $id));
 		$this->set('hand', $this->Hand->find('first', $options));
 	}*/
+	
+/**
+ * search hand
+ */	
+	public function search() {
+		
+		//fb($this->request->query());exit;
+
+		if ($this->request->query('action') == 'search') {
+			
+			$hand = $this->Hand->search($this->request->query);			
+			$this->set(compact('hand'));
+		}		
+	}
 
 /**
  * add method
