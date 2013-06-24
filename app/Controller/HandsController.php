@@ -38,8 +38,6 @@ class HandsController extends AppController {
  * search hand
  */	
 	public function search() {
-		
-		//fb($this->request->query());exit;
 
 		if ($this->request->query('action') == 'search') {
 			
