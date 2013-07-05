@@ -87,15 +87,16 @@
 
 		</div>	
 		<div id="report" class="span3">
-			<button id="skills-report-update" class="btn btn-primary">Update</button>
 			<h4>Skills Report</h4>
 			<p>Hand played: <span class="hand_played">252</span></p>
-			<p>Report Updates Every 3 Minutes</p>
+			<!--<p>Report Updates Every 3 Minutes</p> -->
+<!--
 			<div class="well">
 				<p>Total Skills Score</p>
-				<h3 class="total_skills_score">75</h3>
+				<h3 class="total_skills_score">0</h3>
 				<p><strong>Overall</strong>: <span class="overall">Playing Well</span></p>
 			</div>
+			<button id="skills-report-update" class="btn btn-primary">Update Your Score</button>
 
 			<div class="well">
 				<h4>Skills By Street</h4>
@@ -136,6 +137,7 @@
 		    </ul>
 		    
 		</div>
+-->
 	</div>
 <?php /* </div>*/?>
 
