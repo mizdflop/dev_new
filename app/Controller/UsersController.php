@@ -89,7 +89,7 @@ class UsersController extends AppController {
 		
 	}
 
-		public function play_AVP() {
+		public function play_avp() {
 		
 	}
 
