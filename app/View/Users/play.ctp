@@ -39,14 +39,52 @@
 	<div class="row-fluid">
 		<div class="span9">
 			<?php 
-//					'api_uri' => rtrim(Router::url('/',true),'/'),
 				$query = array(
 					'token' => 123456,
-					'uid_uri' => 'http://dev.holdemskillschallenge.com/users/authenticated.json',
-					'hand_uri' => 'http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS/npb'
+					'api_uri' => rtrim(Router::url('/',true),'/'),
+					'uid_uri' => Router::url('/users/authenticated.json'),
+					'hand_uri' => Router::url('/hands/add.json')
 				);
 			?>
-			<iframe src="<?php echo Router::url('http://neopokerbot.com/sig'.Router::queryString($query)); ?>" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="/js/AC_RunActiveContent.js" language="javascript"></script>
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+			'width', '800',
+			'height', '600',
+			'src', '/flash/poker',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'poker',
+			'bgcolor', '#17300a',
+			'name', 'poker',
+			'menu', 'true',
+			'FlashVars', 'FirstName=<?php echo $auth['first_name']; ?>&LastName=<?php echo $auth['last_name']; ?>&UserID=<?php echo $auth['id']; ?>&OutputURL=http://ec2-54-224-142-63.compute-1.amazonaws.com:8080/tableAndBotsRestWS/apt',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', '/flash/poker',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="800" height="600" id="poker" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/flash/poker.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#17300a" />	<embed src="/flash/poker.swf" quality="high" bgcolor="#17300a" width="800" height="600" name="poker" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+
 		</div>	
 		<div id="report" class="span3">
 			<h4>Skills Report</h4>
@@ -116,7 +154,7 @@
 </div>
 
 <script>
-	$(function(){
-		$('#playModal').modal();
-	});
+	//$(function(){
+	//	$('#playModal').modal();
+	//});
 </script>
