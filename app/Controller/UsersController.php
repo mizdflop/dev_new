@@ -88,6 +88,11 @@ class UsersController extends AppController {
 		public function play_neo() {
 		
 	}
+
+		public function play_AVP() {
+		
+	}
+
 	
 	public function authenticated() {
 				
