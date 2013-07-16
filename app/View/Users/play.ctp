@@ -91,14 +91,16 @@
 <!--			<p>Hand played: <span class="hand_played">252</span></p> -->
 
 			<div class="well">
-				<p>Total Skills Score</p>
+<!--				<p>Total Skills Score</p>
 				<h3 class="total_skills_score">0</h3>
-				<p>Total Luck Score</p>
-				<h3 class="total_luck_score">0</h3>
-				<p>Total Profit</p>
-				<h3 class="total_profit">0</h3>
-				<p>Total Decision Score</p>
+-->
+				<p>Decisions</p>
 				<h3 class="total_decision_score">0</h3>
+
+				<p>Cards</p>
+				<h3 class="total_luck_score">0</h3>
+				<p>Profit</p>
+				<h3 class="total_profit">0</h3>
 
 
 <!--				<p><strong>Overall</strong>: <span class="overall">Playing Well</span></p> -->
