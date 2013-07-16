@@ -23,7 +23,7 @@
 				}				
 			}
 			if (next) {
-				setTimeout(function(){getSkillsReport(true);}, 1000);
+				setTimeout(function(){getSkillsReport(true);}, 180000);
 			}
 		});
 	}
