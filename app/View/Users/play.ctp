@@ -28,7 +28,7 @@
 		});
 	}
 	$(function(){
-		setTimeout(function(){getSkillsReport(true);}, 1000);
+		setTimeout(function(){getSkillsReport(true);}, 10000);
 		$('#skills-report-update').click(function(){
 			getSkillsReport(false);
 		});
